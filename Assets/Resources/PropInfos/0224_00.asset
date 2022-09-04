@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0224_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.3
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 9affbc1f3ad21de41a2c03d6dc5e78c1, type: 3}
+  FamilyName: Broom
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 43, y: 2}
+  VisibleRect:
+    x: 25
+    y: 2
+    width: 53
+    height: 119
+  BoxCenterOffset: {x: -0.125, y: -0.025}
+  BoxSize: {x: 0.53, y: 1.19}
+  BoxWidth: 0.1875
+  Pivot: {x: 54.79563, y: 12.336814}
+  Texture: {fileID: 2800000, guid: 9affbc1f3ad21de41a2c03d6dc5e78c1, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4283065971
+  - serializedVersion: 2
+    rgba: 4280894802
+  - serializedVersion: 2
+    rgba: 4288461510
+  - serializedVersion: 2
+    rgba: 4284121748
+  - serializedVersion: 2
+    rgba: 4286289316
+  - serializedVersion: 2
+    rgba: 4281408586
+  - serializedVersion: 2
+    rgba: 4281751218
+  - serializedVersion: 2
+    rgba: 4286273158
+  - serializedVersion: 2
+    rgba: 4284498797
+  - serializedVersion: 2
+    rgba: 4278718538
+  - serializedVersion: 2
+    rgba: 4283594206
+  - serializedVersion: 2
+    rgba: 4288441765
+  - serializedVersion: 2
+    rgba: 4279973766
+  DamageColorProbs:
+  - 0.15198351
+  - 0.13704276
+  - 0.036063883
+  - 0.014425553
+  - 0.025759917
+  - 0.001545595
+  - 0.001545595
+  - 0.39206594
+  - 0.04327666
+  - 0.04327666
+  - 0.07367337
+  - 0.06646059
+  - 0.012879958

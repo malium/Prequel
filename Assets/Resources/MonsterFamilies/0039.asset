@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257dac38790f84f498cc52fab1edd870, type: 3}
+  m_Name: 0039
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  Name: Beerit
+  SpriteScale: 1
+  Frames:
+  - {fileID: 21300000, guid: 012a4e6a9ac524c4d8f778919f256e8d, type: 3}
+  - {fileID: 21300000, guid: 1b445c14a3e4eac45b110116b26a0577, type: 3}
+  - {fileID: 21300000, guid: 91624edc574753445a88e838f834b3c0, type: 3}
+  - {fileID: 21300000, guid: 1ef929150ddec4644881b974ed48ff85, type: 3}
+  - {fileID: 21300000, guid: e51ecd0d4e009ec4b99ca0eb765f9ead, type: 3}
+  - {fileID: 21300000, guid: 4bbf1cf23d9ae5248a960096aec2b803, type: 3}
+  BaseHealth: 100
+  BaseSpeed: 1
+  SightRange: 7
+  SightAngle: 60
+  HearingRange: 5
+  AttackRange: 10
+  AttackRate: 1
+  AttackDamage: 10
+  DamageType: 0
+  FriendlyFamilies: []
+  AIType: 0
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel:
+  - {x: 54, y: 9}
+  - {x: 55, y: 11}
+  - {x: 58, y: 9}
+  - {x: 59, y: 11}
+  - {x: 87, y: 16}
+  - {x: 97, y: 15}
+  VisibleRect:
+  - x: 31
+    y: 9
+    width: 73
+    height: 116
+  - x: 27
+    y: 11
+    width: 75
+    height: 97
+  - x: 35
+    y: 9
+    width: 70
+    height: 111
+  - x: 31
+    y: 11
+    width: 81
+    height: 98
+  - x: 31
+    y: 16
+    width: 82
+    height: 106
+  - x: 34
+    y: 15
+    width: 82
+    height: 110
+  BoxCenterOffset:
+  - {x: 0.035, y: 0.03}
+  - {x: 0.005, y: -0.045}
+  - {x: 0.06, y: 0.005}
+  - {x: 0.075, y: -0.04}
+  - {x: 0.08, y: 0.05}
+  - {x: 0.11, y: 0.06}
+  BoxSize:
+  - {x: 0.73, y: 1.16}
+  - {x: 0.75, y: 0.97}
+  - {x: 0.7, y: 1.11}
+  - {x: 0.81, y: 0.98}
+  - {x: 0.82, y: 1.06}
+  - {x: 0.82, y: 1.1}
+  Textures:
+  - {fileID: 2800000, guid: 012a4e6a9ac524c4d8f778919f256e8d, type: 3}
+  - {fileID: 2800000, guid: 1b445c14a3e4eac45b110116b26a0577, type: 3}
+  - {fileID: 2800000, guid: 91624edc574753445a88e838f834b3c0, type: 3}
+  - {fileID: 2800000, guid: 1ef929150ddec4644881b974ed48ff85, type: 3}
+  - {fileID: 2800000, guid: e51ecd0d4e009ec4b99ca0eb765f9ead, type: 3}
+  - {fileID: 2800000, guid: 4bbf1cf23d9ae5248a960096aec2b803, type: 3}
+  Pivots:
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}

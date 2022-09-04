@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0236_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 9dabc81450bf1804fbf095a77f4cc0ee, type: 3}
+  FamilyName: ComputerOld
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 128, y: 12}
+  VisibleRect:
+    x: 79
+    y: 12
+    width: 97
+    height: 146
+  BoxCenterOffset: {x: -0.005, y: -0.43}
+  BoxSize: {x: 0.97, y: 1.46}
+  BoxWidth: 0.35546875
+  Pivot: {x: 127.999985, y: 25.267456}
+  Texture: {fileID: 2800000, guid: 9dabc81450bf1804fbf095a77f4cc0ee, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4287597446
+  - serializedVersion: 2
+    rgba: 4291214013
+  - serializedVersion: 2
+    rgba: 4289569445
+  - serializedVersion: 2
+    rgba: 4281609515
+  - serializedVersion: 2
+    rgba: 4284702042
+  - serializedVersion: 2
+    rgba: 4280306569
+  - serializedVersion: 2
+    rgba: 4283579458
+  - serializedVersion: 2
+    rgba: 4293916663
+  - serializedVersion: 2
+    rgba: 4292795358
+  - serializedVersion: 2
+    rgba: 4279377426
+  - serializedVersion: 2
+    rgba: 4279250002
+  DamageColorProbs:
+  - 0.0030114814
+  - 0.047807265
+  - 0.0048936573
+  - 0.0032938076
+  - 0.00047054395
+  - 0.0070581594
+  - 0.105307736
+  - 0.43628836
+  - 0.25616413
+  - 0.07321664
+  - 0.062488236

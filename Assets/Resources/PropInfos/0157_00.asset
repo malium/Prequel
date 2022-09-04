@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0157_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 0.6
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: b4de5b2cff7c8c4478faefbeef6c6491, type: 3}
+  FamilyName: UnknownBoLettuceBrown
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 49, y: 6}
+  VisibleRect:
+    x: 6
+    y: 6
+    width: 116
+    height: 116
+  BoxCenterOffset: {x: 0, y: 0}
+  BoxSize: {x: 1.16, y: 1.16}
+  BoxWidth: 0.78125
+  Pivot: {x: 65.484566, y: 20.487131}
+  Texture: {fileID: 2800000, guid: b4de5b2cff7c8c4478faefbeef6c6491, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4280364098
+  - serializedVersion: 2
+    rgba: 4281419107
+  - serializedVersion: 2
+    rgba: 4283063675
+  - serializedVersion: 2
+    rgba: 4284315286
+  - serializedVersion: 2
+    rgba: 4286686419
+  - serializedVersion: 2
+    rgba: 4285238965
+  DamageColorProbs:
+  - 0.088517405
+  - 0.2428976
+  - 0.18598703
+  - 0.2536768
+  - 0.19475655
+  - 0.03416461

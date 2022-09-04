@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0119_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: fcd5aaac30fc1f646a36350c6a74235b, type: 3}
+  FamilyName: RattailCheese
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 126, y: 46}
+  VisibleRect:
+    x: 106
+    y: 46
+    width: 77
+    height: 200
+  BoxCenterOffset: {x: 0.165, y: 0.18}
+  BoxSize: {x: 0.77, y: 2}
+  BoxWidth: 0.08984375
+  Pivot: {x: 133.34445, y: 58.789154}
+  Texture: {fileID: 2800000, guid: fcd5aaac30fc1f646a36350c6a74235b, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4278204776
+  - serializedVersion: 2
+    rgba: 4281432498
+  - serializedVersion: 2
+    rgba: 4280311697
+  - serializedVersion: 2
+    rgba: 4282488272
+  - serializedVersion: 2
+    rgba: 4285779959
+  - serializedVersion: 2
+    rgba: 4283609839
+  DamageColorProbs:
+  - 0.12756425
+  - 0.074274935
+  - 0.05611884
+  - 0.41876915
+  - 0.14996463
+  - 0.17330818

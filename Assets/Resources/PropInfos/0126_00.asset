@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0126_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 76bdf7a4a842ed5488a0c93f0ad71de4, type: 3}
+  FamilyName: SakuraTree
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 134, y: 7}
+  VisibleRect:
+    x: 22
+    y: 7
+    width: 222
+    height: 241
+  BoxCenterOffset: {x: 0.05, y: -0.005}
+  BoxSize: {x: 2.22, y: 2.41}
+  BoxWidth: 0.21875
+  Pivot: {x: 128, y: 0}
+  Texture: {fileID: 2800000, guid: 76bdf7a4a842ed5488a0c93f0ad71de4, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4286279052
+  - serializedVersion: 2
+    rgba: 4284698995
+  - serializedVersion: 2
+    rgba: 4285221026
+  - serializedVersion: 2
+    rgba: 4287390158
+  - serializedVersion: 2
+    rgba: 4283054682
+  - serializedVersion: 2
+    rgba: 4279568422
+  - serializedVersion: 2
+    rgba: 4281410369
+  - serializedVersion: 2
+    rgba: 4283572397
+  - serializedVersion: 2
+    rgba: 4289562351
+  - serializedVersion: 2
+    rgba: 4283379072
+  - serializedVersion: 2
+    rgba: 4281404531
+  - serializedVersion: 2
+    rgba: 4292265983
+  - serializedVersion: 2
+    rgba: 4288644552
+  - serializedVersion: 2
+    rgba: 4291012585
+  - serializedVersion: 2
+    rgba: 4285740238
+  DamageColorProbs:
+  - 0.013413252
+  - 0.00021929023
+  - 0.0013888382
+  - 0.03366105
+  - 0.047476336
+  - 0.035305727
+  - 0.031504698
+  - 0.01706809
+  - 0.25942034
+  - 0.13621578
+  - 0.3805782
+  - 0.0005482256
+  - 0.0404225
+  - 0.0012426446
+  - 0.0015350316

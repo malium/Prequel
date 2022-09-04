@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257dac38790f84f498cc52fab1edd870, type: 3}
+  m_Name: 0046
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  Name: Caterpillar
+  SpriteScale: 1
+  Frames:
+  - {fileID: 21300000, guid: 6a7a422103a398a48aebe475d7accc41, type: 3}
+  - {fileID: 21300000, guid: 4e3a9d28866f6a540af844b75c214cf4, type: 3}
+  - {fileID: 21300000, guid: 7ebc2392a00e53745ae5e0e9953b2dc6, type: 3}
+  - {fileID: 21300000, guid: a14d2c91bc78d0d42aac4b8547f6e292, type: 3}
+  - {fileID: 21300000, guid: d8919a8d362f3744b94993ad17195a06, type: 3}
+  - {fileID: 21300000, guid: e39453a350e5d8e42ba0c6e4125c90be, type: 3}
+  BaseHealth: 100
+  BaseSpeed: 1
+  SightRange: 7
+  SightAngle: 60
+  HearingRange: 5
+  AttackRange: 10
+  AttackRate: 1
+  AttackDamage: 10
+  DamageType: 0
+  FriendlyFamilies: []
+  AIType: 0
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel:
+  - {x: 11, y: 19}
+  - {x: 12, y: 17}
+  - {x: 88, y: 20}
+  - {x: 96, y: 22}
+  - {x: 90, y: 42}
+  - {x: 88, y: 20}
+  VisibleRect:
+  - x: 3
+    y: 19
+    width: 121
+    height: 86
+  - x: 3
+    y: 17
+    width: 118
+    height: 88
+  - x: 4
+    y: 20
+    width: 111
+    height: 85
+  - x: 5
+    y: 22
+    width: 114
+    height: 85
+  - x: 13
+    y: 42
+    width: 111
+    height: 84
+  - x: 17
+    y: 20
+    width: 97
+    height: 105
+  BoxCenterOffset:
+  - {x: -0.005, y: -0.02}
+  - {x: -0.02, y: -0.03}
+  - {x: -0.045, y: -0.015}
+  - {x: -0.02, y: 0.005}
+  - {x: 0.045, y: 0.2}
+  - {x: 0.015, y: 0.085}
+  BoxSize:
+  - {x: 1.21, y: 0.86}
+  - {x: 1.18, y: 0.88}
+  - {x: 1.11, y: 0.85}
+  - {x: 1.14, y: 0.85}
+  - {x: 1.11, y: 0.84}
+  - {x: 0.97, y: 1.05}
+  Textures:
+  - {fileID: 2800000, guid: 6a7a422103a398a48aebe475d7accc41, type: 3}
+  - {fileID: 2800000, guid: 4e3a9d28866f6a540af844b75c214cf4, type: 3}
+  - {fileID: 2800000, guid: 7ebc2392a00e53745ae5e0e9953b2dc6, type: 3}
+  - {fileID: 2800000, guid: a14d2c91bc78d0d42aac4b8547f6e292, type: 3}
+  - {fileID: 2800000, guid: d8919a8d362f3744b94993ad17195a06, type: 3}
+  - {fileID: 2800000, guid: e39453a350e5d8e42ba0c6e4125c90be, type: 3}
+  Pivots:
+  - {x: 74.24, y: 21.12}
+  - {x: 74.24, y: 21.12}
+  - {x: 53.76, y: 21.76}
+  - {x: 53.76, y: 21.76}
+  - {x: 74.24, y: 21.12}
+  - {x: 53.76, y: 21.76}

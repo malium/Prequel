@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0282_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: eb0a5532bd994d54c88aabbe49b35516, type: 3}
+  FamilyName: GoblinTotem
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 59, y: 8}
+  VisibleRect:
+    x: 8
+    y: 8
+    width: 111
+    height: 114
+  BoxCenterOffset: {x: -0.005, y: 0.01}
+  BoxSize: {x: 1.11, y: 1.14}
+  BoxWidth: 0.3046875
+  Pivot: {x: 63.999992, y: 12.336814}
+  Texture: {fileID: 2800000, guid: eb0a5532bd994d54c88aabbe49b35516, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4283580217
+  - serializedVersion: 2
+    rgba: 4286076754
+  - serializedVersion: 2
+    rgba: 4285231475
+  - serializedVersion: 2
+    rgba: 4287204497
+  - serializedVersion: 2
+    rgba: 4283258973
+  - serializedVersion: 2
+    rgba: 4285242026
+  - serializedVersion: 2
+    rgba: 4289049269
+  - serializedVersion: 2
+    rgba: 4289558891
+  - serializedVersion: 2
+    rgba: 4286890966
+  - serializedVersion: 2
+    rgba: 4278716473
+  - serializedVersion: 2
+    rgba: 4280888369
+  - serializedVersion: 2
+    rgba: 4290629590
+  - serializedVersion: 2
+    rgba: 4292274159
+  - serializedVersion: 2
+    rgba: 4283059604
+  - serializedVersion: 2
+    rgba: 4280822370
+  - serializedVersion: 2
+    rgba: 4284703149
+  DamageColorProbs:
+  - 0.00043885314
+  - 0.06568169
+  - 0.045348156
+  - 0.034230545
+  - 0.024868345
+  - 0.009801053
+  - 0.001170275
+  - 0.027794031
+  - 0.111176126
+  - 0.053686365
+  - 0.34230545
+  - 0.14584552
+  - 0.1170275
+  - 0.00043885314
+  - 0.016530134
+  - 0.0036571093

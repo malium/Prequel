@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0013_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 0.6
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: f025b9c8c131699488ebf6a28c7a5454, type: 3}
+  FamilyName: BoLettuceGreen
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 69, y: 28}
+  VisibleRect:
+    x: 22
+    y: 28
+    width: 62
+    height: 76
+  BoxCenterOffset: {x: -0.11, y: 0.02}
+  BoxSize: {x: 0.62, y: 0.76}
+  BoxWidth: 0.1953125
+  Pivot: {x: 63.999992, y: 39.7866}
+  Texture: {fileID: 2800000, guid: f025b9c8c131699488ebf6a28c7a5454, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4279793201
+  - serializedVersion: 2
+    rgba: 4280717388
+  - serializedVersion: 2
+    rgba: 4278209808
+  - serializedVersion: 2
+    rgba: 4285065353
+  - serializedVersion: 2
+    rgba: 4281447019
+  - serializedVersion: 2
+    rgba: 4283092859
+  DamageColorProbs:
+  - 0.07314037
+  - 0.07749767
+  - 0.09835045
+  - 0.049797695
+  - 0.11640212
+  - 0.5848117

@@ -1,0 +1,2862 @@
+fileFormatVersion: 2
+guid: 5814612d27412e649abde34d05727120
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 986397032451607981
+    second: Ants01_0
+  - first:
+      213: -2592276653070499910
+    second: Ants01_1
+  - first:
+      213: -8503500158741284638
+    second: Ants01_2
+  - first:
+      213: -5019995508915792787
+    second: Ants01_3
+  - first:
+      213: -8347218167030557360
+    second: Ants01_4
+  - first:
+      213: 7611994437589890969
+    second: Ants01_5
+  - first:
+      213: 7784688108972961375
+    second: Ants01_6
+  - first:
+      213: 5841324213424668865
+    second: Ants01_7
+  - first:
+      213: 916061880935948008
+    second: Ants01_8
+  - first:
+      213: -5092608091337311234
+    second: Ants01_9
+  - first:
+      213: -7427059758273395934
+    second: Ants01_10
+  - first:
+      213: 3075624075158994418
+    second: Ants01_11
+  - first:
+      213: 521742163751396784
+    second: Ants01_12
+  - first:
+      213: -5837723300061536529
+    second: Ants01_13
+  - first:
+      213: -8456527082576413273
+    second: Ants01_14
+  - first:
+      213: -4218898576921069636
+    second: Ants01_15
+  - first:
+      213: -7492410247338890500
+    second: Ants01_16
+  - first:
+      213: 33702450300907803
+    second: Ants01_17
+  - first:
+      213: 8997534731480141759
+    second: Ants01_18
+  - first:
+      213: 4461373523420176659
+    second: Ants01_19
+  - first:
+      213: 4876854514680871312
+    second: Ants01_20
+  - first:
+      213: -5284579182599087976
+    second: Ants01_21
+  - first:
+      213: -7904269586832729721
+    second: Ants01_22
+  - first:
+      213: 1503584624661524428
+    second: Ants01_23
+  - first:
+      213: -1764049354053625159
+    second: Ants01_24
+  - first:
+      213: 946790972850951689
+    second: Ants01_25
+  - first:
+      213: 2417706346480156965
+    second: Ants01_26
+  - first:
+      213: 5536781462428179456
+    second: Ants01_27
+  - first:
+      213: -9150090329841562043
+    second: Ants01_28
+  - first:
+      213: 6059638788455702439
+    second: Ants01_29
+  - first:
+      213: -2752033891875347699
+    second: Ants01_30
+  - first:
+      213: 7608958221780143651
+    second: Ants01_31
+  - first:
+      213: -5763945316220416008
+    second: Ants01_32
+  - first:
+      213: 7928134605300243371
+    second: Ants01_33
+  - first:
+      213: 1143999504253560957
+    second: Ants01_34
+  - first:
+      213: -172379832005145031
+    second: Ants01_35
+  - first:
+      213: -4516047240012699247
+    second: Ants01_36
+  - first:
+      213: 3969754860365054239
+    second: Ants01_37
+  - first:
+      213: 8745514073467940614
+    second: Ants01_38
+  - first:
+      213: -4625403949368962438
+    second: Ants01_39
+  - first:
+      213: 4944778987456218173
+    second: Ants01_40
+  - first:
+      213: 3390876744999040455
+    second: Ants01_41
+  - first:
+      213: 7167715726237661823
+    second: Ants01_42
+  - first:
+      213: -5902825596320245656
+    second: Ants01_43
+  - first:
+      213: -6881909400217809642
+    second: Ants01_44
+  - first:
+      213: -4422522127672855157
+    second: Ants01_45
+  - first:
+      213: 7378681855587736818
+    second: Ants01_46
+  - first:
+      213: 1223517972029465006
+    second: Ants01_47
+  - first:
+      213: -5910580230329510527
+    second: Ants01_48
+  - first:
+      213: -8127087563213343912
+    second: Ants01_49
+  - first:
+      213: -6190785422344554688
+    second: Ants01_50
+  - first:
+      213: -3455613333554081894
+    second: Ants01_51
+  - first:
+      213: -5510513843950646158
+    second: Ants01_52
+  - first:
+      213: -4335704742540460039
+    second: Ants01_53
+  - first:
+      213: -954638414804387048
+    second: Ants01_54
+  - first:
+      213: 7545970004632200651
+    second: Ants01_55
+  - first:
+      213: -1335634096110900027
+    second: Ants01_56
+  - first:
+      213: 6663016493345938709
+    second: Ants01_57
+  - first:
+      213: -6754971800042143873
+    second: Ants01_58
+  - first:
+      213: 1466028726751276328
+    second: Ants01_59
+  - first:
+      213: -5751634069150812644
+    second: Ants01_60
+  - first:
+      213: -6145178670739252728
+    second: Ants01_61
+  - first:
+      213: 7713799953808199715
+    second: Ants01_62
+  - first:
+      213: 4818854621665141454
+    second: Ants01_63
+  - first:
+      213: 1748066811714798643
+    second: Ants01_64
+  - first:
+      213: 6954047128055577128
+    second: Ants01_65
+  - first:
+      213: -4910836654742679875
+    second: Ants01_66
+  - first:
+      213: 831631081703710307
+    second: Ants01_67
+  - first:
+      213: 1218709206416309053
+    second: Ants01_68
+  - first:
+      213: 2989848579746334697
+    second: Ants01_69
+  - first:
+      213: 5387179444336026791
+    second: Ants01_70
+  - first:
+      213: -7896325880452757645
+    second: Ants01_71
+  - first:
+      213: 90587683299517950
+    second: Ants01_72
+  - first:
+      213: 7232040855350018051
+    second: Ants01_73
+  - first:
+      213: -4753340105079192009
+    second: Ants01_74
+  - first:
+      213: 6411610222216917985
+    second: Ants01_75
+  - first:
+      213: -6745672135996967138
+    second: Ants01_76
+  - first:
+      213: -2038587850569556626
+    second: Ants01_77
+  - first:
+      213: 4680084593409900121
+    second: Ants01_78
+  - first:
+      213: 1280610772769970407
+    second: Ants01_79
+  - first:
+      213: -6568191569668461465
+    second: Ants01_80
+  - first:
+      213: 6713846636414844599
+    second: Ants01_81
+  - first:
+      213: 6196505892254706538
+    second: Ants01_82
+  - first:
+      213: 7106487523629921321
+    second: Ants01_83
+  - first:
+      213: -718587862340630145
+    second: Ants01_84
+  - first:
+      213: -2655507962459949554
+    second: Ants01_85
+  - first:
+      213: -6680992330781075342
+    second: Ants01_86
+  - first:
+      213: -8111795709194799014
+    second: Ants01_87
+  - first:
+      213: 1367547209489842564
+    second: Ants01_88
+  - first:
+      213: -8090343382276547863
+    second: Ants01_89
+  - first:
+      213: 2551892141777442967
+    second: Ants01_90
+  - first:
+      213: 6256389554841748042
+    second: Ants01_91
+  - first:
+      213: 3109516051190339826
+    second: Ants01_92
+  - first:
+      213: -2772433364508341228
+    second: Ants01_93
+  - first:
+      213: -5897553786381288605
+    second: Ants01_94
+  - first:
+      213: -8138486633620939741
+    second: Ants01_95
+  - first:
+      213: -5050289416494352356
+    second: Ants01_96
+  - first:
+      213: -623197578955318246
+    second: Ants01_97
+  - first:
+      213: -7745899617206407966
+    second: Ants01_98
+  - first:
+      213: -519347976199914680
+    second: Ants01_99
+  - first:
+      213: -8315496405267487016
+    second: Ants01_100
+  - first:
+      213: 7955994907283468180
+    second: Ants01_101
+  - first:
+      213: -4756716867381994347
+    second: Ants01_102
+  - first:
+      213: 7126865585731328670
+    second: Ants01_103
+  - first:
+      213: 3901172286282329683
+    second: Ants01_104
+  - first:
+      213: -7442928248279923864
+    second: Ants01_105
+  - first:
+      213: -5171331415728736608
+    second: Ants01_106
+  - first:
+      213: -6249846842827428131
+    second: Ants01_107
+  - first:
+      213: 2605313184129948927
+    second: Ants01_108
+  - first:
+      213: -7236860737074835869
+    second: Ants01_109
+  - first:
+      213: -4684347254611011370
+    second: Ants01_110
+  - first:
+      213: 4378422292884664224
+    second: Ants01_111
+  - first:
+      213: 4405556315802011463
+    second: Ants01_112
+  - first:
+      213: -3810820749837916587
+    second: Ants01_113
+  - first:
+      213: -1379639390311936909
+    second: Ants01_114
+  - first:
+      213: 4733866015903225780
+    second: Ants01_115
+  - first:
+      213: -903304196180895534
+    second: Ants01_116
+  - first:
+      213: -6800458763990293059
+    second: Ants01_117
+  - first:
+      213: -7620017604948345794
+    second: Ants01_118
+  - first:
+      213: -6785560113716148156
+    second: Ants01_119
+  - first:
+      213: -5737464330792375363
+    second: Ants01_120
+  - first:
+      213: 4514091500258904065
+    second: Ants01_121
+  - first:
+      213: -7692591575887658738
+    second: Ants01_122
+  - first:
+      213: -1267189281481108312
+    second: Ants01_123
+  - first:
+      213: 2353997552307132423
+    second: Ants01_124
+  - first:
+      213: -2705811670644310991
+    second: Ants01_125
+  - first:
+      213: -5062305863400317382
+    second: Ants01_126
+  - first:
+      213: -8133652365108934451
+    second: Ants01_127
+  - first:
+      213: 4071038540883910951
+    second: Ants01_128
+  - first:
+      213: 4399237567007167051
+    second: Ants01_129
+  - first:
+      213: -7370197966288391953
+    second: Ants01_130
+  - first:
+      213: 6530779001168828497
+    second: Ants01_131
+  - first:
+      213: -7478309427749061380
+    second: Ants01_132
+  - first:
+      213: 8897775096350468169
+    second: Ants01_133
+  - first:
+      213: 2771244529296344426
+    second: Ants01_134
+  - first:
+      213: -7911550673253781589
+    second: Ants01_135
+  - first:
+      213: -6880679070217615501
+    second: Ants01_136
+  - first:
+      213: 2370136657249405937
+    second: Ants01_137
+  - first:
+      213: -6400192803830384524
+    second: Ants01_138
+  - first:
+      213: -463002669267043141
+    second: Ants01_139
+  - first:
+      213: 8947598670746785989
+    second: Ants01_140
+  - first:
+      213: -8287163756986707423
+    second: Ants01_141
+  - first:
+      213: -1814698933692457158
+    second: Ants01_142
+  - first:
+      213: 8196063125161701426
+    second: Ants01_143
+  - first:
+      213: -7849845004266893138
+    second: Ants01_144
+  - first:
+      213: -8341805477816712836
+    second: Ants01_145
+  - first:
+      213: 8867613767060383303
+    second: Ants01_146
+  - first:
+      213: 7204989854987577090
+    second: Ants01_147
+  - first:
+      213: -8967786863182743022
+    second: Ants01_148
+  - first:
+      213: 3054488264911623122
+    second: Ants01_149
+  - first:
+      213: 3057768422516206916
+    second: Ants01_150
+  - first:
+      213: 3965358629875183027
+    second: Ants01_151
+  - first:
+      213: 6363760134663807623
+    second: Ants01_152
+  - first:
+      213: -7320716771347878609
+    second: Ants01_153
+  - first:
+      213: 478903298763357632
+    second: Ants01_154
+  - first:
+      213: 1245590129557077423
+    second: Ants01_155
+  - first:
+      213: -4398448356072507454
+    second: Ants01_156
+  - first:
+      213: -4275430182316355419
+    second: Ants01_157
+  - first:
+      213: 6842483097642931039
+    second: Ants01_158
+  - first:
+      213: 8715299871190225446
+    second: Ants01_159
+  - first:
+      213: 4042643085556760532
+    second: Ants01_160
+  - first:
+      213: -4931763361882493006
+    second: Ants01_161
+  - first:
+      213: 5379258489225585795
+    second: Ants01_162
+  - first:
+      213: -8015959254186134705
+    second: Ants01_163
+  - first:
+      213: 1961591424790715329
+    second: Ants01_164
+  - first:
+      213: -7143888283406638198
+    second: Ants01_165
+  - first:
+      213: 1899812321831157054
+    second: Ants01_166
+  - first:
+      213: 7770200027700405512
+    second: Ants01_167
+  - first:
+      213: 6896881499209628461
+    second: Ants01_168
+  - first:
+      213: -8783292299910459203
+    second: Ants01_169
+  - first:
+      213: -4830923061280885201
+    second: Ants01_170
+  - first:
+      213: 8967693395629203020
+    second: Ants01_171
+  - first:
+      213: 3629091429657986181
+    second: Ants01_172
+  - first:
+      213: 1802949554998723274
+    second: Ants01_173
+  - first:
+      213: 5911766114167418311
+    second: Ants01_174
+  - first:
+      213: 4736225535300898564
+    second: Ants01_175
+  - first:
+      213: 4351635295382183871
+    second: Ants01_176
+  - first:
+      213: -4806835570946602946
+    second: Ants01_177
+  - first:
+      213: -8299623898984029305
+    second: Ants01_178
+  - first:
+      213: -4493891387976721387
+    second: Ants01_179
+  - first:
+      213: -2647385456442179807
+    second: Ants01_180
+  - first:
+      213: -8729063354784148606
+    second: Ants01_181
+  - first:
+      213: 4452307666856955156
+    second: Ants01_182
+  - first:
+      213: -8815336961046103527
+    second: Ants01_183
+  - first:
+      213: 8248842123887669707
+    second: Ants01_184
+  - first:
+      213: -8061530289475434499
+    second: Ants01_185
+  - first:
+      213: 3612161929464128788
+    second: Ants01_186
+  - first:
+      213: 8725305165999826741
+    second: Ants01_187
+  - first:
+      213: -8873991006551804488
+    second: Ants01_188
+  - first:
+      213: 2792925813076517235
+    second: Ants01_189
+  - first:
+      213: 6442902720832805618
+    second: Ants01_190
+  - first:
+      213: 1857422620766887083
+    second: Ants01_191
+  - first:
+      213: -1091203922430029822
+    second: Ants01_192
+  - first:
+      213: -47583258524893704
+    second: Ants01_193
+  - first:
+      213: -4760022890867807308
+    second: Ants01_194
+  - first:
+      213: 113553992935848741
+    second: Ants01_195
+  - first:
+      213: 8674268195196105386
+    second: Ants01_196
+  - first:
+      213: 8694887336556771213
+    second: Ants01_197
+  - first:
+      213: -3265301430615282548
+    second: Ants01_198
+  - first:
+      213: -3912776624919182335
+    second: Ants01_199
+  - first:
+      213: 2618346948289019440
+    second: Ants01_200
+  - first:
+      213: 5511619099032742975
+    second: Ants01_201
+  - first:
+      213: 5553537566226521864
+    second: Ants01_202
+  - first:
+      213: -6597975073075860104
+    second: Ants01_203
+  - first:
+      213: -8359775938026331171
+    second: Ants01_204
+  - first:
+      213: 4829474823414789197
+    second: Ants01_205
+  - first:
+      213: 8477215005816397486
+    second: Ants01_206
+  - first:
+      213: -7932606168224173876
+    second: Ants01_207
+  - first:
+      213: 7312509576035807493
+    second: Ants01_208
+  - first:
+      213: -3931570927512302309
+    second: Ants01_209
+  - first:
+      213: 9156632589298114709
+    second: Ants01_210
+  - first:
+      213: -7648840909067414030
+    second: Ants01_211
+  - first:
+      213: -5327730411090998039
+    second: Ants01_212
+  - first:
+      213: 3725919343075249691
+    second: Ants01_213
+  - first:
+      213: -4506725593654495976
+    second: Ants01_214
+  - first:
+      213: -8788843113426205886
+    second: Ants01_215
+  - first:
+      213: 5562390065137348344
+    second: Ants01_216
+  - first:
+      213: -3004440214162991674
+    second: Ants01_217
+  - first:
+      213: -1009734151568326725
+    second: Ants01_218
+  - first:
+      213: -3088538532963738765
+    second: Ants01_219
+  - first:
+      213: 8709614260657649413
+    second: Ants01_220
+  - first:
+      213: 1050748989298601090
+    second: Ants01_221
+  - first:
+      213: 8125693580422369842
+    second: Ants01_222
+  - first:
+      213: 8567240451810978607
+    second: Ants01_223
+  - first:
+      213: -2564095558300956618
+    second: Ants01_224
+  - first:
+      213: 2393032355560266468
+    second: Ants01_225
+  - first:
+      213: -4275007571083551995
+    second: Ants01_226
+  - first:
+      213: 5073049542321840548
+    second: Ants01_227
+  - first:
+      213: -7086157646756777881
+    second: Ants01_228
+  - first:
+      213: -4172571967718809857
+    second: Ants01_229
+  - first:
+      213: -2702458986586717140
+    second: Ants01_230
+  - first:
+      213: 5078320379376809013
+    second: Ants01_231
+  - first:
+      213: -1108123035843932567
+    second: Ants01_232
+  - first:
+      213: 57125669642740226
+    second: Ants01_233
+  - first:
+      213: 1887288260497016472
+    second: Ants01_234
+  - first:
+      213: 8715230359917807806
+    second: Ants01_235
+  - first:
+      213: 476024097874880021
+    second: Ants01_236
+  - first:
+      213: -3603139425680632306
+    second: Ants01_237
+  - first:
+      213: 5694548319117271180
+    second: Ants01_238
+  - first:
+      213: -991643521538506055
+    second: Ants01_239
+  - first:
+      213: -1089944787874226636
+    second: Ants01_240
+  - first:
+      213: 4252623889302353273
+    second: Ants01_241
+  - first:
+      213: 8566327425130884515
+    second: Ants01_242
+  - first:
+      213: -1157523007295282825
+    second: Ants01_243
+  - first:
+      213: 5326176256430165601
+    second: Ants01_244
+  - first:
+      213: 5151114573291699150
+    second: Ants01_245
+  - first:
+      213: -1439365865735157167
+    second: Ants01_246
+  - first:
+      213: 4644657866945872258
+    second: Ants01_247
+  - first:
+      213: -8627098823995219906
+    second: Ants01_248
+  - first:
+      213: -5161980853001334727
+    second: Ants01_249
+  - first:
+      213: 5489583951866632368
+    second: Ants01_250
+  - first:
+      213: -9092165597876511933
+    second: Ants01_251
+  - first:
+      213: 4059607379054417496
+    second: Ants01_252
+  - first:
+      213: 1934435988980261235
+    second: Ants01_253
+  - first:
+      213: 833702616455988756
+    second: Ants01_254
+  - first:
+      213: -5792375589057185631
+    second: Ants01_255
+  - first:
+      213: 1569572742979964278
+    second: D_T_Ants_00_0
+  - first:
+      213: 2161934685765122194
+    second: D_T_Ants_00_1
+  - first:
+      213: 7038684998534966093
+    second: D_T_Ants_00_2
+  - first:
+      213: -7052945185530349857
+    second: D_T_Ants_00_3
+  - first:
+      213: -4188293172849790500
+    second: D_T_Ants_00_4
+  - first:
+      213: 901062566060107514
+    second: D_T_Ants_00_5
+  - first:
+      213: 5830005229279382972
+    second: D_T_Ants_00_6
+  - first:
+      213: 3086215746905858713
+    second: D_T_Ants_00_7
+  - first:
+      213: 4816207056389146226
+    second: D_T_Ants_00_8
+  - first:
+      213: -8190956584108709208
+    second: D_T_Ants_00_9
+  - first:
+      213: 5169812860214013399
+    second: D_T_Ants_00_10
+  - first:
+      213: -7944389870356410194
+    second: D_T_Ants_00_11
+  - first:
+      213: 620169439350558334
+    second: D_T_Ants_00_12
+  - first:
+      213: -646742553783781120
+    second: D_T_Ants_00_13
+  - first:
+      213: -4690248938563043424
+    second: D_T_Ants_00_14
+  - first:
+      213: 3156205556186033005
+    second: D_T_Ants_00_15
+  - first:
+      213: 106225523333429499
+    second: D_T_Ants_00_16
+  - first:
+      213: 603626052151346100
+    second: D_T_Ants_00_17
+  - first:
+      213: 7213733998143330638
+    second: D_T_Ants_00_18
+  - first:
+      213: -795571227177077604
+    second: D_T_Ants_00_19
+  - first:
+      213: 6226169715045795348
+    second: D_T_Ants_00_20
+  - first:
+      213: -6138094230851496143
+    second: D_T_Ants_00_21
+  - first:
+      213: 3727891730364769655
+    second: D_T_Ants_00_22
+  - first:
+      213: 2404870758672815247
+    second: D_T_Ants_00_23
+  - first:
+      213: 7680808924238011936
+    second: D_T_Ants_00_24
+  - first:
+      213: 7477660292184959932
+    second: D_T_Ants_00_25
+  - first:
+      213: 8013363541268690122
+    second: D_T_Ants_00_26
+  - first:
+      213: 9067725442144208971
+    second: D_T_Ants_00_27
+  - first:
+      213: 7301644798534723125
+    second: D_T_Ants_00_28
+  - first:
+      213: -3429388480296446543
+    second: D_T_Ants_00_29
+  - first:
+      213: 3712672644773846183
+    second: D_T_Ants_00_30
+  - first:
+      213: -2221295473471181334
+    second: D_T_Ants_00_31
+  - first:
+      213: 5834454960055413789
+    second: D_T_Ants_00_32
+  - first:
+      213: 7437311325048494799
+    second: D_T_Ants_00_33
+  - first:
+      213: 2284901701956449508
+    second: D_T_Ants_00_34
+  - first:
+      213: 4547837764154228845
+    second: D_T_Ants_00_35
+  - first:
+      213: -5470137463023810718
+    second: D_T_Ants_00_36
+  - first:
+      213: 8822584508987702984
+    second: D_T_Ants_00_37
+  - first:
+      213: 4397970372457697604
+    second: D_T_Ants_00_38
+  - first:
+      213: -1583853428395022272
+    second: D_T_Ants_00_39
+  - first:
+      213: 6602494729124438936
+    second: D_T_Ants_00_40
+  - first:
+      213: -23846551531646275
+    second: D_T_Ants_00_41
+  - first:
+      213: 6382932584516303916
+    second: D_T_Ants_00_42
+  - first:
+      213: 1459371853382875819
+    second: D_T_Ants_00_43
+  - first:
+      213: -8777575228145137137
+    second: D_T_Ants_00_44
+  - first:
+      213: -9121256212034942207
+    second: D_T_Ants_00_45
+  - first:
+      213: 814590732021139901
+    second: D_T_Ants_00_46
+  - first:
+      213: -746565381548189490
+    second: D_T_Ants_00_47
+  - first:
+      213: -772239106673373191
+    second: D_T_Ants_00_48
+  - first:
+      213: 1163081930390037547
+    second: D_T_Ants_00_49
+  - first:
+      213: 337053629504348535
+    second: D_T_Ants_00_50
+  - first:
+      213: -8908838798767437408
+    second: D_T_Ants_00_51
+  - first:
+      213: -7785391589062032288
+    second: D_T_Ants_00_52
+  - first:
+      213: 5754305441337872505
+    second: D_T_Ants_00_53
+  - first:
+      213: 8868512652329599767
+    second: D_T_Ants_00_54
+  - first:
+      213: -7529993090058242240
+    second: D_T_Ants_00_55
+  - first:
+      213: 6291728823603080641
+    second: D_T_Ants_00_56
+  - first:
+      213: -6289452398074286802
+    second: D_T_Ants_00_57
+  - first:
+      213: 60268772005256572
+    second: D_T_Ants_00_58
+  - first:
+      213: -2381629366489761721
+    second: D_T_Ants_00_59
+  - first:
+      213: -3804185661477756775
+    second: D_T_Ants_00_60
+  - first:
+      213: 1981695015988286598
+    second: D_T_Ants_00_61
+  - first:
+      213: -3824265606514730577
+    second: D_T_Ants_00_62
+  - first:
+      213: -5951033720188758671
+    second: D_T_Ants_00_63
+  - first:
+      213: -5490166844864864555
+    second: D_TS_Ants_00_0
+  - first:
+      213: 4183297675775189396
+    second: D_TS_Ants_00_1
+  - first:
+      213: -5797316455293319638
+    second: D_TS_Ants_00_2
+  - first:
+      213: 6642843061944803934
+    second: D_TS_Ants_00_3
+  - first:
+      213: 5085514503132201739
+    second: D_TS_Ants_00_4
+  - first:
+      213: 7830466947651583016
+    second: D_TS_Ants_00_5
+  - first:
+      213: -4344084263855067439
+    second: D_TS_Ants_00_6
+  - first:
+      213: 6135974524140931380
+    second: D_TS_Ants_00_7
+  - first:
+      213: -2671790157927238278
+    second: D_TS_Ants_00_8
+  - first:
+      213: -5509472109202103799
+    second: D_TS_Ants_00_9
+  - first:
+      213: -2778528010611781728
+    second: D_TS_Ants_00_10
+  - first:
+      213: -1113237026195601889
+    second: D_TS_Ants_00_11
+  - first:
+      213: -1264926399882923060
+    second: D_TS_Ants_00_12
+  - first:
+      213: 7616840097596249406
+    second: D_TS_Ants_00_13
+  - first:
+      213: 5674759288245176758
+    second: D_TS_Ants_00_14
+  - first:
+      213: 4104794161434169519
+    second: D_TS_Ants_00_15
+  - first:
+      213: -7554619555678882080
+    second: D_TS_Ants_00_16
+  - first:
+      213: 7452998208650001228
+    second: D_TS_Ants_00_17
+  - first:
+      213: 4273881313134688206
+    second: D_TS_Ants_00_18
+  - first:
+      213: 1502105818226422996
+    second: D_TS_Ants_00_19
+  - first:
+      213: -4753324252965895378
+    second: D_TS_Ants_00_20
+  - first:
+      213: 2039187768464141490
+    second: D_TS_Ants_00_21
+  - first:
+      213: 8288579600553487848
+    second: D_TS_Ants_00_22
+  - first:
+      213: -3056293199128186941
+    second: D_TS_Ants_00_23
+  - first:
+      213: -3434172226982126339
+    second: D_TS_Ants_00_24
+  - first:
+      213: 3261310685874963386
+    second: D_TS_Ants_00_25
+  - first:
+      213: 2966590952246889583
+    second: D_TS_Ants_00_26
+  - first:
+      213: 3258996860713871317
+    second: D_TS_Ants_00_27
+  - first:
+      213: 919926094331034307
+    second: D_TS_Ants_00_28
+  - first:
+      213: 2261801710557687727
+    second: D_TS_Ants_00_29
+  - first:
+      213: -1807014350850553461
+    second: D_TS_Ants_00_30
+  - first:
+      213: -9063681245973811869
+    second: D_TS_Ants_00_31
+  - first:
+      213: -49055024110891398
+    second: D_TS_Ants_00_32
+  - first:
+      213: 5426815467733907493
+    second: D_TS_Ants_00_33
+  - first:
+      213: -1021398251737489246
+    second: D_TS_Ants_00_34
+  - first:
+      213: 6450606727615773561
+    second: D_TS_Ants_00_35
+  - first:
+      213: 1427644527170555009
+    second: D_TS_Ants_00_36
+  - first:
+      213: -8156173385048169484
+    second: D_TS_Ants_00_37
+  - first:
+      213: 3218799816972732384
+    second: D_TS_Ants_00_38
+  - first:
+      213: 7343526737632705501
+    second: D_TS_Ants_00_39
+  - first:
+      213: -5869239708334193699
+    second: D_TS_Ants_00_40
+  - first:
+      213: -6158956955770135760
+    second: D_TS_Ants_00_41
+  - first:
+      213: -3599409612930176426
+    second: D_TS_Ants_00_42
+  - first:
+      213: 9024017992560854610
+    second: D_TS_Ants_00_43
+  - first:
+      213: 6409353036370003182
+    second: D_TS_Ants_00_44
+  - first:
+      213: 8225849790189449359
+    second: D_TS_Ants_00_45
+  - first:
+      213: -1697292880252528897
+    second: D_TS_Ants_00_46
+  - first:
+      213: 7992104518273437377
+    second: D_TS_Ants_00_47
+  - first:
+      213: 2696510431145885056
+    second: D_TS_Ants_00_48
+  - first:
+      213: -8520818021391550918
+    second: D_TS_Ants_00_49
+  - first:
+      213: 6287520601610018319
+    second: D_TS_Ants_00_50
+  - first:
+      213: -4922657210817567350
+    second: D_TS_Ants_00_51
+  - first:
+      213: -1672734496575550653
+    second: D_TS_Ants_00_52
+  - first:
+      213: -4198647541998386059
+    second: D_TS_Ants_00_53
+  - first:
+      213: -494023108428667974
+    second: D_TS_Ants_00_54
+  - first:
+      213: -4657962503690848821
+    second: D_TS_Ants_00_55
+  - first:
+      213: -1068262707885788228
+    second: D_TS_Ants_00_56
+  - first:
+      213: 3526619227182478059
+    second: D_TS_Ants_00_57
+  - first:
+      213: -6601109731023364610
+    second: D_TS_Ants_00_58
+  - first:
+      213: -8562449087916257169
+    second: D_TS_Ants_00_59
+  - first:
+      213: 6408694660204406420
+    second: D_TS_Ants_00_60
+  - first:
+      213: 4424015903627916334
+    second: D_TS_Ants_00_61
+  - first:
+      213: 3000452824315696995
+    second: D_TS_Ants_00_62
+  - first:
+      213: -5345550790955670166
+    second: D_TS_Ants_00_63
+  - first:
+      213: 6614359406744267610
+    second: D_S_Ants_00_0
+  - first:
+      213: -7002296079093506026
+    second: D_S_Ants_00_1
+  - first:
+      213: 8008290639826409490
+    second: D_S_Ants_00_2
+  - first:
+      213: 8809378625697639522
+    second: D_S_Ants_00_3
+  - first:
+      213: -2780616522024876150
+    second: D_S_Ants_00_4
+  - first:
+      213: 3175899433402547077
+    second: D_S_Ants_00_5
+  - first:
+      213: -1192371621792492642
+    second: D_S_Ants_00_6
+  - first:
+      213: 7733047624102114676
+    second: D_S_Ants_00_7
+  - first:
+      213: 7527497254906552824
+    second: D_S_Ants_00_8
+  - first:
+      213: -7710673592466857664
+    second: D_S_Ants_00_9
+  - first:
+      213: -5811407984300749157
+    second: D_S_Ants_00_10
+  - first:
+      213: -6584469628747982207
+    second: D_S_Ants_00_11
+  - first:
+      213: 7869374993228697138
+    second: D_S_Ants_00_12
+  - first:
+      213: -4642069773904450266
+    second: D_S_Ants_00_13
+  - first:
+      213: -6821081177182162809
+    second: D_S_Ants_00_14
+  - first:
+      213: 7804959630032944992
+    second: D_S_Ants_00_15
+  - first:
+      213: -6913765639829402951
+    second: D_S_Ants_00_16
+  - first:
+      213: -2947548234810605926
+    second: D_S_Ants_00_17
+  - first:
+      213: 4802074999070892211
+    second: D_S_Ants_00_18
+  - first:
+      213: -4880406705525053661
+    second: D_S_Ants_00_19
+  - first:
+      213: 1909342988585273429
+    second: D_S_Ants_00_20
+  - first:
+      213: -1640499275846534939
+    second: D_S_Ants_00_21
+  - first:
+      213: -6586220308763044082
+    second: D_S_Ants_00_22
+  - first:
+      213: 7055192975878578083
+    second: D_S_Ants_00_23
+  - first:
+      213: 2673380715704634553
+    second: D_S_Ants_00_24
+  - first:
+      213: 1864814009156312119
+    second: D_S_Ants_00_25
+  - first:
+      213: 1266228132061223099
+    second: D_S_Ants_00_26
+  - first:
+      213: 2395591125871950943
+    second: D_S_Ants_00_27
+  - first:
+      213: 4746178707847269427
+    second: D_S_Ants_00_28
+  - first:
+      213: 4963176141762267756
+    second: D_S_Ants_00_29
+  - first:
+      213: -6224755103244933034
+    second: D_S_Ants_00_30
+  - first:
+      213: -3963009646929655268
+    second: D_S_Ants_00_31
+  - first:
+      213: -7066143269197130275
+    second: D_S_Ants_00_32
+  - first:
+      213: 3931459491460786676
+    second: D_S_Ants_00_33
+  - first:
+      213: 4517754933491691113
+    second: D_S_Ants_00_34
+  - first:
+      213: 8108378959224257242
+    second: D_S_Ants_00_35
+  - first:
+      213: -5582215930148392214
+    second: D_S_Ants_00_36
+  - first:
+      213: -4336936811392455738
+    second: D_S_Ants_00_37
+  - first:
+      213: -579509962753971874
+    second: D_S_Ants_00_38
+  - first:
+      213: -3979094911205025615
+    second: D_S_Ants_00_39
+  - first:
+      213: -6362500734756144379
+    second: D_S_Ants_00_40
+  - first:
+      213: -2702350731018553462
+    second: D_S_Ants_00_41
+  - first:
+      213: -7414792107611128820
+    second: D_S_Ants_00_42
+  - first:
+      213: 4250501204612114385
+    second: D_S_Ants_00_43
+  - first:
+      213: 939351446036004834
+    second: D_S_Ants_00_44
+  - first:
+      213: 446752248563266031
+    second: D_S_Ants_00_45
+  - first:
+      213: -1737876230395005258
+    second: D_S_Ants_00_46
+  - first:
+      213: 2316055375605248711
+    second: D_S_Ants_00_47
+  - first:
+      213: -8348294547822914373
+    second: D_S_Ants_00_48
+  - first:
+      213: -3451213090585676502
+    second: D_S_Ants_00_49
+  - first:
+      213: -5572388882565316156
+    second: D_S_Ants_00_50
+  - first:
+      213: -3882978404227567278
+    second: D_S_Ants_00_51
+  - first:
+      213: 6613607432496172181
+    second: D_S_Ants_00_52
+  - first:
+      213: -2813039444850171108
+    second: D_S_Ants_00_53
+  - first:
+      213: 958485466783093540
+    second: D_S_Ants_00_54
+  - first:
+      213: 8805513206058179523
+    second: D_S_Ants_00_55
+  - first:
+      213: 4438857174456033105
+    second: D_S_Ants_00_56
+  - first:
+      213: -6759646819319384778
+    second: D_S_Ants_00_57
+  - first:
+      213: -1707387057074337311
+    second: D_S_Ants_00_58
+  - first:
+      213: 3448207188291258926
+    second: D_S_Ants_00_59
+  - first:
+      213: 2578580286608632203
+    second: D_S_Ants_00_60
+  - first:
+      213: 1107519734332779478
+    second: D_S_Ants_00_61
+  - first:
+      213: 8404445493229452503
+    second: D_S_Ants_00_62
+  - first:
+      213: -3333914751151141216
+    second: D_S_Ants_00_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: D_S_Ants_00_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b61c706dceacb50800000000000000
+      internalID: 6614359406744267610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6106589d0d8d2de90800000000000000
+      internalID: -7002296079093506026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21850fc38e9232f60800000000000000
+      internalID: 8008290639826409490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c60ac9f23314a70800000000000000
+      internalID: 8809378625697639522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87002c61044969d0800000000000000
+      internalID: -2780616522024876150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bb25245bf031c20800000000000000
+      internalID: 3175899433402547077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e935dc2d358d37fe0800000000000000
+      internalID: -1192371621792492642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475f8c9b7dd415b60800000000000000
+      internalID: 7733047624102114676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1ee66feda077860800000000000000
+      internalID: 7527497254906552824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0412706783f2ef490800000000000000
+      internalID: -7710673592466857664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e82ea7a3bb95fa0800000000000000
+      internalID: -5811407984300749157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ad02832c34f94a0800000000000000
+      internalID: -6584469628747982207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e0db3dcd2a53d60800000000000000
+      internalID: 7869374993228697138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62de8d7a22e049fb0800000000000000
+      internalID: -4642069773904450266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78034f91fc6a651a0800000000000000
+      internalID: -6821081177182162809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fb06a5e69c05c60800000000000000
+      internalID: 7804959630032944992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bacaa108ce5d00a0800000000000000
+      internalID: -6913765639829402951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9eb8c94f743817d0800000000000000
+      internalID: -2947548234810605926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0a768e4c564a240800000000000000
+      internalID: 4802074999070892211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327aeb575ff454cb0800000000000000
+      internalID: -4880406705525053661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558020df4595f7a10800000000000000
+      internalID: 1909342988585273429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8b1e0b996cb39e0800000000000000
+      internalID: -1640499275846534939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0717b3468b0994a0800000000000000
+      internalID: -6586220308763044082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afd21da1a419e160800000000000000
+      internalID: 7055192975878578083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc44f4c891c91520800000000000000
+      internalID: 2673380715704634553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c1feb067621e910800000000000000
+      internalID: 1864814009156312119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb89d1007cb829110800000000000000
+      internalID: 1266228132061223099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cfca4cf69de3120800000000000000
+      internalID: 2395591125871950943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c42c17360ddd140800000000000000
+      internalID: 4746178707847269427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a0f67a76eb0e440800000000000000
+      internalID: 4963176141762267756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6582949b63a3d99a0800000000000000
+      internalID: -6224755103244933034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1acf4919bf8009c0800000000000000
+      internalID: -3963009646929655268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5dc7b722400fd90800000000000000
+      internalID: -7066143269197130275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9ab55e3995f8630800000000000000
+      internalID: 3931459491460786676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e6a090d2a42be30800000000000000
+      internalID: 4517754933491691113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada30d014bfb68070800000000000000
+      internalID: 8108378959224257242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae27af7ff2cf782b0800000000000000
+      internalID: -5582215930148392214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb23a7b2fa10d3c0800000000000000
+      internalID: -4336936811392455738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59ef3e52ca25f7f0800000000000000
+      internalID: -579509962753971874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b85f0aa24a67c8c0800000000000000
+      internalID: -3979094911205025615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bb2bdaa4bd3b7a0800000000000000
+      internalID: -6362500734756144379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a873f1be3525f7ad0800000000000000
+      internalID: -2702350731018553462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cf7760ddd591990800000000000000
+      internalID: -7414792107611128820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d766425350dcfa30800000000000000
+      internalID: 4250501204612114385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efb93cc92f390d00800000000000000
+      internalID: 939351446036004834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe178369dce233600800000000000000
+      internalID: 446752248563266031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6f5bfa6c2d1e7e0800000000000000
+      internalID: -1737876230395005258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_47
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2b517d718442020800000000000000
+      internalID: 2316055375605248711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb45fa40756e42c80800000000000000
+      internalID: -8348294547822914373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25767bbaf3da10d0800000000000000
+      internalID: -3451213090585676502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1cb58c5d5eaa2b0800000000000000
+      internalID: -5572388882565316156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251b089d6b3ec1ac0800000000000000
+      internalID: -3882978404227567278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c41d16be048cb50800000000000000
+      internalID: 6613607432496172181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c132b8e678316f8d0800000000000000
+      internalID: -2813039444850171108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4231bf924793d4d00800000000000000
+      internalID: 958485466783093540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbdb187b97733a70800000000000000
+      internalID: 8805513206058179523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f5524051df99d30800000000000000
+      internalID: 4438857174456033105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6357e5f2809e032a0800000000000000
+      internalID: -6759646819319384778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e90cf884842e48e0800000000000000
+      internalID: -1707387057074337311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a8c0a1b2e7adf20800000000000000
+      internalID: 3448207188291258926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_60
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89e128db15f8c320800000000000000
+      internalID: 2578580286608632203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbe3aa9453be5f00800000000000000
+      internalID: 1107519734332779478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_62
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcf21eb5a692a470800000000000000
+      internalID: 8404445493229452503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_S_Ants_00_63
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae833a923e8bb1d0800000000000000
+      internalID: -3333914751151141216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fed66611f28bbe64895c4fc61f1e748f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      D_S_Ants_00_7: 7733047624102114676
+      D_S_Ants_00_3: 8809378625697639522
+      D_S_Ants_00_24: 2673380715704634553
+      D_S_Ants_00_32: -7066143269197130275
+      D_S_Ants_00_50: -5572388882565316156
+      D_S_Ants_00_49: -3451213090585676502
+      D_S_Ants_00_5: 3175899433402547077
+      D_S_Ants_00_36: -5582215930148392214
+      D_S_Ants_00_63: -3333914751151141216
+      D_S_Ants_00_35: 8108378959224257242
+      D_S_Ants_00_53: -2813039444850171108
+      D_S_Ants_00_56: 4438857174456033105
+      D_S_Ants_00_46: -1737876230395005258
+      D_S_Ants_00_60: 2578580286608632203
+      D_S_Ants_00_29: 4963176141762267756
+      D_S_Ants_00_28: 4746178707847269427
+      D_S_Ants_00_12: 7869374993228697138
+      D_S_Ants_00_27: 2395591125871950943
+      D_S_Ants_00_17: -2947548234810605926
+      D_S_Ants_00_30: -6224755103244933034
+      D_S_Ants_00_43: 4250501204612114385
+      D_S_Ants_00_38: -579509962753971874
+      D_S_Ants_00_44: 939351446036004834
+      D_S_Ants_00_57: -6759646819319384778
+      D_S_Ants_00_26: 1266228132061223099
+      D_S_Ants_00_18: 4802074999070892211
+      D_S_Ants_00_8: 7527497254906552824
+      D_S_Ants_00_25: 1864814009156312119
+      D_S_Ants_00_39: -3979094911205025615
+      D_S_Ants_00_45: 446752248563266031
+      D_S_Ants_00_33: 3931459491460786676
+      D_S_Ants_00_10: -5811407984300749157
+      D_S_Ants_00_15: 7804959630032944992
+      D_S_Ants_00_16: -6913765639829402951
+      D_S_Ants_00_62: 8404445493229452503
+      D_S_Ants_00_22: -6586220308763044082
+      D_S_Ants_00_58: -1707387057074337311
+      D_S_Ants_00_4: -2780616522024876150
+      D_S_Ants_00_1: -7002296079093506026
+      D_S_Ants_00_51: -3882978404227567278
+      D_S_Ants_00_19: -4880406705525053661
+      D_S_Ants_00_14: -6821081177182162809
+      D_S_Ants_00_13: -4642069773904450266
+      D_S_Ants_00_21: -1640499275846534939
+      D_S_Ants_00_23: 7055192975878578083
+      D_S_Ants_00_52: 6613607432496172181
+      D_S_Ants_00_48: -8348294547822914373
+      D_S_Ants_00_59: 3448207188291258926
+      D_S_Ants_00_0: 6614359406744267610
+      D_S_Ants_00_20: 1909342988585273429
+      D_S_Ants_00_2: 8008290639826409490
+      D_S_Ants_00_34: 4517754933491691113
+      D_S_Ants_00_37: -4336936811392455738
+      D_S_Ants_00_41: -2702350731018553462
+      D_S_Ants_00_42: -7414792107611128820
+      D_S_Ants_00_54: 958485466783093540
+      D_S_Ants_00_6: -1192371621792492642
+      D_S_Ants_00_31: -3963009646929655268
+      D_S_Ants_00_40: -6362500734756144379
+      D_S_Ants_00_61: 1107519734332779478
+      D_S_Ants_00_9: -7710673592466857664
+      D_S_Ants_00_47: 2316055375605248711
+      D_S_Ants_00_11: -6584469628747982207
+      D_S_Ants_00_55: 8805513206058179523
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

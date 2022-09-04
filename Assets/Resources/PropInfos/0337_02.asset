@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0337_02
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 0.7
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 7cf9e5150fa7172429b4aa101425336e, type: 3}
+  FamilyName: RamenBowl
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 48, y: 19}
+  VisibleRect:
+    x: 8
+    y: 19
+    width: 91
+    height: 61
+  BoxCenterOffset: {x: -0.105, y: -0.145}
+  BoxSize: {x: 0.91, y: 0.61}
+  BoxWidth: 0.375
+  Pivot: {x: 68.1568, y: 30.745535}
+  Texture: {fileID: 2800000, guid: 7cf9e5150fa7172429b4aa101425336e, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4281745190
+  - serializedVersion: 2
+    rgba: 4285232504
+  - serializedVersion: 2
+    rgba: 4283061586
+  - serializedVersion: 2
+    rgba: 4287403423
+  - serializedVersion: 2
+    rgba: 4289574598
+  - serializedVersion: 2
+    rgba: 4286886606
+  - serializedVersion: 2
+    rgba: 4282677390
+  - serializedVersion: 2
+    rgba: 4290092684
+  - serializedVersion: 2
+    rgba: 4281966278
+  - serializedVersion: 2
+    rgba: 4281406554
+  - serializedVersion: 2
+    rgba: 4284710168
+  - serializedVersion: 2
+    rgba: 4280374643
+  - serializedVersion: 2
+    rgba: 4278743469
+  - serializedVersion: 2
+    rgba: 4285758786
+  - serializedVersion: 2
+    rgba: 4278210956
+  - serializedVersion: 2
+    rgba: 4283380603
+  - serializedVersion: 2
+    rgba: 4290106194
+  - serializedVersion: 2
+    rgba: 4286861774
+  - serializedVersion: 2
+    rgba: 4286814576
+  - serializedVersion: 2
+    rgba: 4279801566
+  - serializedVersion: 2
+    rgba: 4285745573
+  - serializedVersion: 2
+    rgba: 4284135126
+  - serializedVersion: 2
+    rgba: 4291741654
+  - serializedVersion: 2
+    rgba: 4287938097
+  - serializedVersion: 2
+    rgba: 4289514619
+  - serializedVersion: 2
+    rgba: 4283062536
+  - serializedVersion: 2
+    rgba: 4288067418
+  - serializedVersion: 2
+    rgba: 4283074658
+  DamageColorProbs:
+  - 0.025199754
+  - 0.004609711
+  - 0.012292563
+  - 0.0027658266
+  - 0.01505839
+  - 0.0027658266
+  - 0.02120467
+  - 0.0021511985
+  - 0.033804547
+  - 0.0024585126
+  - 0.00030731407
+  - 0.0012292563
+  - 0.0058389674
+  - 0.0012292563
+  - 0.1462815
+  - 0.11555009
+  - 0.13829133
+  - 0.16502766
+  - 0.085126
+  - 0.0030731407
+  - 0.028887523
+  - 0.004609711
+  - 0.026736325
+  - 0.039028887
+  - 0.025814382
+  - 0.037185002
+  - 0.041180085
+  - 0.012292563

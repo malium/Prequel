@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0073_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.8
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 34553426de5a57447a68315ba139e28d, type: 3}
+  FamilyName: HeleexTree
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 145, y: 22}
+  VisibleRect:
+    x: 109
+    y: 22
+    width: 48
+    height: 216
+  BoxCenterOffset: {x: 0.05, y: 0.02}
+  BoxSize: {x: 0.48, y: 2.16}
+  BoxWidth: 0.1015625
+  Pivot: {x: 138.68892, y: 27.910006}
+  Texture: {fileID: 2800000, guid: 34553426de5a57447a68315ba139e28d, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4284688450
+  - serializedVersion: 2
+    rgba: 4284091425
+  - serializedVersion: 2
+    rgba: 4287918453
+  - serializedVersion: 2
+    rgba: 4286272599
+  - serializedVersion: 2
+    rgba: 4289564308
+  - serializedVersion: 2
+    rgba: 4287926866
+  - serializedVersion: 2
+    rgba: 4291739301
+  - serializedVersion: 2
+    rgba: 4290096747
+  - serializedVersion: 2
+    rgba: 4291205813
+  - serializedVersion: 2
+    rgba: 4284697897
+  DamageColorProbs:
+  - 0.0042283298
+  - 0.09755361
+  - 0.0048323767
+  - 0.0045303535
+  - 0.0006040471
+  - 0.32346722
+  - 0.18665056
+  - 0.15584415
+  - 0.12836002
+  - 0.09392933

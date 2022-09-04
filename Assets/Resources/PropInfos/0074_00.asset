@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0074_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 7fb951064da469b4b938f1f548f13a78, type: 3}
+  FamilyName: HellbushImperial
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 69, y: 35}
+  VisibleRect:
+    x: 19
+    y: 35
+    width: 83
+    height: 81
+  BoxCenterOffset: {x: -0.035, y: 0.115}
+  BoxSize: {x: 0.83, y: 0.81}
+  BoxWidth: 0
+  Pivot: {x: 59.546272, y: 46.61564}
+  Texture: {fileID: 2800000, guid: 7fb951064da469b4b938f1f548f13a78, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4279058473
+  - serializedVersion: 2
+    rgba: 4282666839
+  - serializedVersion: 2
+    rgba: 4281437541
+  - serializedVersion: 2
+    rgba: 4280315722
+  - serializedVersion: 2
+    rgba: 4287384980
+  - serializedVersion: 2
+    rgba: 4285025909
+  - serializedVersion: 2
+    rgba: 4286297756
+  - serializedVersion: 2
+    rgba: 4285167486
+  - serializedVersion: 2
+    rgba: 4282562180
+  - serializedVersion: 2
+    rgba: 4290635734
+  - serializedVersion: 2
+    rgba: 4287926949
+  - serializedVersion: 2
+    rgba: 4287941557
+  - serializedVersion: 2
+    rgba: 4283101093
+  DamageColorProbs:
+  - 0.1621981
+  - 0.0680257
+  - 0.28384668
+  - 0.070019946
+  - 0.01063594
+  - 0.0004431642
+  - 0.3006869
+  - 0.010414358
+  - 0.031243075
+  - 0.0002215821
+  - 0.00531797
+  - 0.041879017
+  - 0.015067583

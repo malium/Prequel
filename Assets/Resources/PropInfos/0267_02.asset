@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0267_02
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.3
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 8d4f2ad761cb95845b1167a738324b3e, type: 3}
+  FamilyName: GamingChair
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 63, y: 5}
+  VisibleRect:
+    x: 33
+    y: 5
+    width: 65
+    height: 104
+  BoxCenterOffset: {x: 0.015, y: -0.07}
+  BoxSize: {x: 0.65, y: 1.04}
+  BoxWidth: 0.4453125
+  Pivot: {x: 64.296906, y: 9.961494}
+  Texture: {fileID: 2800000, guid: 8d4f2ad761cb95845b1167a738324b3e, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4283919459
+  - serializedVersion: 2
+    rgba: 4281550657
+  - serializedVersion: 2
+    rgba: 4286287492
+  - serializedVersion: 2
+    rgba: 4280888460
+  - serializedVersion: 2
+    rgba: 4278191244
+  - serializedVersion: 2
+    rgba: 4283589020
+  - serializedVersion: 2
+    rgba: 4278717629
+  - serializedVersion: 2
+    rgba: 4281018573
+  - serializedVersion: 2
+    rgba: 4288447231
+  - serializedVersion: 2
+    rgba: 4285028568
+  - serializedVersion: 2
+    rgba: 4279774298
+  - serializedVersion: 2
+    rgba: 4279246881
+  - serializedVersion: 2
+    rgba: 4287917429
+  - serializedVersion: 2
+    rgba: 4289575605
+  - serializedVersion: 2
+    rgba: 4283057597
+  - serializedVersion: 2
+    rgba: 4285241930
+  - serializedVersion: 2
+    rgba: 4285237933
+  - serializedVersion: 2
+    rgba: 4287418326
+  - serializedVersion: 2
+    rgba: 4287935124
+  - serializedVersion: 2
+    rgba: 4281421931
+  - serializedVersion: 2
+    rgba: 4283077243
+  - serializedVersion: 2
+    rgba: 4285257620
+  - serializedVersion: 2
+    rgba: 4287951781
+  - serializedVersion: 2
+    rgba: 4291727004
+  - serializedVersion: 2
+    rgba: 4291211990
+  DamageColorProbs:
+  - 0.012830382
+  - 0.0005132153
+  - 0.00436233
+  - 0.00025660766
+  - 0.0028226841
+  - 0.003592507
+  - 0.0005132153
+  - 0.00025660766
+  - 0.0010264306
+  - 0.0007698229
+  - 0.0005132153
+  - 0.0007698229
+  - 0.0017962535
+  - 0.46548626
+  - 0.12881704
+  - 0.048498847
+  - 0.039774187
+  - 0.15268154
+  - 0.033102386
+  - 0.010520914
+  - 0.010520914
+  - 0.022068258
+  - 0.017705929
+  - 0.0030792917
+  - 0.037721325

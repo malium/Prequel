@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0373_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: ddf1eb7dc09479341ac6ae8dfbdaf3ff, type: 3}
+  FamilyName: StewpotGold
+  HasLighting: 1
+  LightHeight: 0.6
+  LightRange: 6
+  LightIntensity: 0.6
+  LightColor:
+    serializedVersion: 2
+    rgba: 4278237439
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 45, y: 6}
+  VisibleRect:
+    x: 26
+    y: 6
+    width: 79
+    height: 75
+  BoxCenterOffset: {x: 0.015, y: -0.205}
+  BoxSize: {x: 0.79, y: 0.75}
+  BoxWidth: 0.5859375
+  Pivot: {x: 62.812336, y: 10.852239}
+  Texture: {fileID: 2800000, guid: ddf1eb7dc09479341ac6ae8dfbdaf3ff, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4282529874
+  - serializedVersion: 2
+    rgba: 4283582835
+  - serializedVersion: 2
+    rgba: 4285226388
+  - serializedVersion: 2
+    rgba: 4281229969
+  - serializedVersion: 2
+    rgba: 4278739365
+  - serializedVersion: 2
+    rgba: 4280386229
+  - serializedVersion: 2
+    rgba: 4283594157
+  - serializedVersion: 2
+    rgba: 4280358201
+  - serializedVersion: 2
+    rgba: 4286314495
+  - serializedVersion: 2
+    rgba: 4278203524
+  - serializedVersion: 2
+    rgba: 4281441998
+  - serializedVersion: 2
+    rgba: 4278233822
+  - serializedVersion: 2
+    rgba: 4281450215
+  - serializedVersion: 2
+    rgba: 4278743527
+  - serializedVersion: 2
+    rgba: 4283749094
+  - serializedVersion: 2
+    rgba: 4278248447
+  - serializedVersion: 2
+    rgba: 4280936447
+  DamageColorProbs:
+  - 0.009024495
+  - 0.013751611
+  - 0.010313708
+  - 0.0036527717
+  - 0.009239364
+  - 0.0015040825
+  - 0.0010743446
+  - 0.0034379028
+  - 0.0010743446
+  - 0.5281478
+  - 0.2546197
+  - 0.037602063
+  - 0.008809626
+  - 0.06231199
+  - 0.026428878
+  - 0.028362699
+  - 0.0006446068

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0324_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 0.9
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 27c776216cf6a8e41afce518bb752db3, type: 3}
+  FamilyName: PaperboardBox
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 55, y: 3}
+  VisibleRect:
+    x: 20
+    y: 3
+    width: 85
+    height: 81
+  BoxCenterOffset: {x: -0.015, y: -0.205}
+  BoxSize: {x: 0.85, y: 0.81}
+  BoxWidth: 0.6640625
+  Pivot: {x: 64, y: 12.8}
+  Texture: {fileID: 2800000, guid: 27c776216cf6a8e41afce518bb752db3, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4281420114
+  - serializedVersion: 2
+    rgba: 4283594883
+  - serializedVersion: 2
+    rgba: 4286885565
+  - serializedVersion: 2
+    rgba: 4285239973
+  DamageColorProbs:
+  - 0.15316698
+  - 0.26084453
+  - 0.0067178505
+  - 0.57927066

@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0145_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.5
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 1fe43047251d20d4d8c66e82f8fa7ecb, type: 3}
+  FamilyName: SunTrumpet
+  HasLighting: 1
+  LightHeight: 2.2
+  LightRange: 20
+  LightIntensity: 6
+  LightColor:
+    serializedVersion: 2
+    rgba: 4280867583
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 125, y: 6}
+  VisibleRect:
+    x: 84
+    y: 6
+    width: 116
+    height: 242
+  BoxCenterOffset: {x: 0.14, y: -0.01}
+  BoxSize: {x: 1.16, y: 2.42}
+  BoxWidth: 0.03125
+  Pivot: {x: 126.81233, y: 14.251922}
+  Texture: {fileID: 2800000, guid: 1fe43047251d20d4d8c66e82f8fa7ecb, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4279567414
+  - serializedVersion: 2
+    rgba: 4280880218
+  - serializedVersion: 2
+    rgba: 4281540227
+  - serializedVersion: 2
+    rgba: 4282530981
+  - serializedVersion: 2
+    rgba: 4294967295
+  - serializedVersion: 2
+    rgba: 4285226369
+  - serializedVersion: 2
+    rgba: 4290096832
+  - serializedVersion: 2
+    rgba: 4282527834
+  - serializedVersion: 2
+    rgba: 4287003287
+  - serializedVersion: 2
+    rgba: 4283719093
+  - serializedVersion: 2
+    rgba: 4284711655
+  - serializedVersion: 2
+    rgba: 4292797431
+  - serializedVersion: 2
+    rgba: 4286292727
+  - serializedVersion: 2
+    rgba: 4289056767
+  - serializedVersion: 2
+    rgba: 4283604735
+  - serializedVersion: 2
+    rgba: 4285893826
+  DamageColorProbs:
+  - 0.00043146842
+  - 0.010642888
+  - 0.01740256
+  - 0.033582628
+  - 0.08305767
+  - 0.05465267
+  - 0.0756508
+  - 0.0001438228
+  - 0.113332376
+  - 0.04566374
+  - 0.030993816
+  - 0.019056523
+  - 0.5031641
+  - 0.006184381
+  - 0.0056090895
+  - 0.00043146842

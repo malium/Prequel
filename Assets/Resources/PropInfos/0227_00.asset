@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0227_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 70a6ddee0d5cf404f8f325584ca1ae0d, type: 3}
+  FamilyName: CageBird
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 75, y: 5}
+  VisibleRect:
+    x: 34
+    y: 5
+    width: 66
+    height: 115
+  BoxCenterOffset: {x: 0.03, y: -0.015}
+  BoxSize: {x: 0.66, y: 1.15}
+  BoxWidth: 0.5
+  Pivot: {x: 62.812336, y: 21.838089}
+  Texture: {fileID: 2800000, guid: 70a6ddee0d5cf404f8f325584ca1ae0d, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4278205530
+  - serializedVersion: 2
+    rgba: 4278219148
+  - serializedVersion: 2
+    rgba: 4280191900
+  - serializedVersion: 2
+    rgba: 4282172877
+  - serializedVersion: 2
+    rgba: 4284153855
+  - serializedVersion: 2
+    rgba: 4285785063
+  - serializedVersion: 2
+    rgba: 4278230709
+  - serializedVersion: 2
+    rgba: 4280179562
+  - serializedVersion: 2
+    rgba: 4282557109
+  - serializedVersion: 2
+    rgba: 4284626740
+  - serializedVersion: 2
+    rgba: 4287896584
+  - serializedVersion: 2
+    rgba: 4282137921
+  - serializedVersion: 2
+    rgba: 4292758808
+  - serializedVersion: 2
+    rgba: 4282863739
+  - serializedVersion: 2
+    rgba: 4287909430
+  - serializedVersion: 2
+    rgba: 4278214069
+  - serializedVersion: 2
+    rgba: 4279787990
+  - serializedVersion: 2
+    rgba: 4290065408
+  - serializedVersion: 2
+    rgba: 4283719192
+  - serializedVersion: 2
+    rgba: 4285755648
+  - serializedVersion: 2
+    rgba: 4280888353
+  - serializedVersion: 2
+    rgba: 4281627832
+  - serializedVersion: 2
+    rgba: 4282551023
+  - serializedVersion: 2
+    rgba: 4280902294
+  - serializedVersion: 2
+    rgba: 4283066191
+  - serializedVersion: 2
+    rgba: 4284718847
+  - serializedVersion: 2
+    rgba: 4287402504
+  - serializedVersion: 2
+    rgba: 4288460097
+  - serializedVersion: 2
+    rgba: 4293386025
+  - serializedVersion: 2
+    rgba: 4285252558
+  - serializedVersion: 2
+    rgba: 4290099720
+  - serializedVersion: 2
+    rgba: 4285040686
+  DamageColorProbs:
+  - 0.014243973
+  - 0.00054784515
+  - 0.06300219
+  - 0.018261505
+  - 0.0047479915
+  - 0.0025566106
+  - 0.003652301
+  - 0.00091307523
+  - 0.0014609204
+  - 0.0003652301
+  - 0.008400292
+  - 0.0014609204
+  - 0.0020087655
+  - 0.0016435354
+  - 0.0016435354
+  - 0.0007304602
+  - 0.5255661
+  - 0.21110299
+  - 0.034331627
+  - 0.01990504
+  - 0.0007304602
+  - 0.0014609204
+  - 0.018444119
+  - 0.012235208
+  - 0.0027392257
+  - 0.003287071
+  - 0.012417823
+  - 0.0031044558
+  - 0.0012783053
+  - 0.0021913806
+  - 0.0014609204
+  - 0.024105186

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0210_02
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.6
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 663d84e572a20904c8f79ef6fcc66ec8, type: 3}
+  FamilyName: BasalticSpear
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 43, y: 22}
+  VisibleRect:
+    x: 35
+    y: 22
+    width: 49
+    height: 83
+  BoxCenterOffset: {x: -0.045, y: -0.005}
+  BoxSize: {x: 0.49, y: 0.83}
+  BoxWidth: 0.34375
+  Pivot: {x: 60.73393, y: 22.135004}
+  Texture: {fileID: 2800000, guid: 663d84e572a20904c8f79ef6fcc66ec8, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4278716944
+  - serializedVersion: 2
+    rgba: 4281415770
+  - serializedVersion: 2
+    rgba: 4280165436
+  DamageColorProbs:
+  - 0.42728442
+  - 0.035392534
+  - 0.53732306

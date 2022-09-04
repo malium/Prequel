@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0003_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 491a7e0d5cf1cc34bbb113e3ac587fb2, type: 3}
+  FamilyName: AtrezzoTower
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 88, y: 4}
+  VisibleRect:
+    x: 65
+    y: 4
+    width: 119
+    height: 248
+  BoxCenterOffset: {x: -0.035, y: 0}
+  BoxSize: {x: 1.19, y: 2.48}
+  BoxWidth: 0.40625
+  Pivot: {x: 130.4806, y: 28.940575}
+  Texture: {fileID: 2800000, guid: 491a7e0d5cf1cc34bbb113e3ac587fb2, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4280361009
+  - serializedVersion: 2
+    rgba: 4284119444
+  - serializedVersion: 2
+    rgba: 4284503634
+  - serializedVersion: 2
+    rgba: 4286870883
+  - serializedVersion: 2
+    rgba: 4285242037
+  - serializedVersion: 2
+    rgba: 4286876300
+  - serializedVersion: 2
+    rgba: 4283055153
+  - serializedVersion: 2
+    rgba: 4287385905
+  - serializedVersion: 2
+    rgba: 4281933840
+  - serializedVersion: 2
+    rgba: 4279241736
+  - serializedVersion: 2
+    rgba: 4281951611
+  - serializedVersion: 2
+    rgba: 4283399230
+  - serializedVersion: 2
+    rgba: 4284721738
+  - serializedVersion: 2
+    rgba: 4280907090
+  - serializedVersion: 2
+    rgba: 4280371489
+  - serializedVersion: 2
+    rgba: 4281943895
+  - serializedVersion: 2
+    rgba: 4286292727
+  - serializedVersion: 2
+    rgba: 4285217816
+  - serializedVersion: 2
+    rgba: 4284729277
+  - serializedVersion: 2
+    rgba: 4281987005
+  - serializedVersion: 2
+    rgba: 4286889686
+  - serializedVersion: 2
+    rgba: 4288470007
+  - serializedVersion: 2
+    rgba: 4283596263
+  - serializedVersion: 2
+    rgba: 4291218374
+  - serializedVersion: 2
+    rgba: 4281446020
+  - serializedVersion: 2
+    rgba: 4291225583
+  - serializedVersion: 2
+    rgba: 4289565316
+  - serializedVersion: 2
+    rgba: 4288455333
+  - serializedVersion: 2
+    rgba: 4291210908
+  - serializedVersion: 2
+    rgba: 4281220225
+  - serializedVersion: 2
+    rgba: 4281946533
+  - serializedVersion: 2
+    rgba: 4283591357
+  - serializedVersion: 2
+    rgba: 4279770202
+  DamageColorProbs:
+  - 0.000051405954
+  - 0.0026217035
+  - 0.0018506143
+  - 0.0012851488
+  - 0.009818537
+  - 0.0074024573
+  - 0.00030843573
+  - 0.0049863774
+  - 0.000051405954
+  - 0.02616563
+  - 0.0039068526
+  - 0.00061687146
+  - 0.032437157
+  - 0.00092530716
+  - 0.00046265358
+  - 0.00015421787
+  - 0.000051405954
+  - 0.11268185
+  - 0.10029301
+  - 0.08970339
+  - 0.17421478
+  - 0.22582635
+  - 0.052279852
+  - 0.016141469
+  - 0.051765796
+  - 0.00025702975
+  - 0.001130931
+  - 0.004626536
+  - 0.029712642
+  - 0.0069912095
+  - 0.004266694
+  - 0.012183211
+  - 0.024829075

@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0194_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.3
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 1bb3a6b4646e47b459f735da75cb6777, type: 3}
+  FamilyName: ArmorStandGuardian
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 60, y: 0}
+  VisibleRect:
+    x: 16
+    y: 0
+    width: 87
+    height: 127
+  BoxCenterOffset: {x: -0.045, y: -0.005}
+  BoxSize: {x: 0.87, y: 1.27}
+  BoxWidth: 0.4140625
+  Pivot: {x: 59.843185, y: 11.446069}
+  Texture: {fileID: 2800000, guid: 1bb3a6b4646e47b459f735da75cb6777, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4279768088
+  - serializedVersion: 2
+    rgba: 4284498800
+  - serializedVersion: 2
+    rgba: 4286273940
+  - serializedVersion: 2
+    rgba: 4287923860
+  - serializedVersion: 2
+    rgba: 4280885314
+  - serializedVersion: 2
+    rgba: 4283054154
+  - serializedVersion: 2
+    rgba: 4292796399
+  - serializedVersion: 2
+    rgba: 4289897912
+  - serializedVersion: 2
+    rgba: 4282524787
+  - serializedVersion: 2
+    rgba: 4292263638
+  - serializedVersion: 2
+    rgba: 4294966271
+  - serializedVersion: 2
+    rgba: 4285233523
+  - serializedVersion: 2
+    rgba: 4282524705
+  DamageColorProbs:
+  - 0.07928134
+  - 0.009838871
+  - 0.045201767
+  - 0.0031370313
+  - 0.0048481394
+  - 0.016255526
+  - 0.00028518465
+  - 0.3474975
+  - 0.10238129
+  - 0.22372736
+  - 0.060173962
+  - 0.072722085
+  - 0.034649935

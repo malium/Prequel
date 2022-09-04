@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0008_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 1a627fe758580c84e80840e4090c1980, type: 3}
+  FamilyName: Beenaple
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 63, y: 15}
+  VisibleRect:
+    x: 24
+    y: 15
+    width: 80
+    height: 95
+  BoxCenterOffset: {x: 0, y: -0.015}
+  BoxSize: {x: 0.8, y: 0.95}
+  BoxWidth: 0.484375
+  Pivot: {x: 66.37531, y: 27.910002}
+  Texture: {fileID: 2800000, guid: 1a627fe758580c84e80840e4090c1980, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4284117413
+  - serializedVersion: 2
+    rgba: 4279247960
+  - serializedVersion: 2
+    rgba: 4281945476
+  - serializedVersion: 2
+    rgba: 4285762237
+  - serializedVersion: 2
+    rgba: 4279456415
+  - serializedVersion: 2
+    rgba: 4278743502
+  - serializedVersion: 2
+    rgba: 4279807972
+  - serializedVersion: 2
+    rgba: 4281957838
+  - serializedVersion: 2
+    rgba: 4280932343
+  - serializedVersion: 2
+    rgba: 4279664810
+  - serializedVersion: 2
+    rgba: 4283623423
+  - serializedVersion: 2
+    rgba: 4278731131
+  DamageColorProbs:
+  - 0.16029823
+  - 0.03224604
+  - 0.00018639328
+  - 0.001304753
+  - 0.0022367195
+  - 0.006523765
+  - 0.18676607
+  - 0.046598323
+  - 0.0147250695
+  - 0.0029822926
+  - 0.41379312
+  - 0.13233924

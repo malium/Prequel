@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0317_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.5
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 62e17dcc9c37ba5489d28da895e48476, type: 3}
+  FamilyName: Missile
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 127, y: 6}
+  VisibleRect:
+    x: 94
+    y: 6
+    width: 62
+    height: 234
+  BoxCenterOffset: {x: -0.03, y: -0.05}
+  BoxSize: {x: 0.62, y: 2.34}
+  BoxWidth: 0.203125
+  Pivot: {x: 125.62467, y: 22.298307}
+  Texture: {fileID: 2800000, guid: 62e17dcc9c37ba5489d28da895e48476, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4282862399
+  - serializedVersion: 2
+    rgba: 4284701018
+  - serializedVersion: 2
+    rgba: 4286085488
+  - serializedVersion: 2
+    rgba: 4288454292
+  - serializedVersion: 2
+    rgba: 4290098861
+  - serializedVersion: 2
+    rgba: 4281413673
+  - serializedVersion: 2
+    rgba: 4282149532
+  - serializedVersion: 2
+    rgba: 4287396244
+  - serializedVersion: 2
+    rgba: 4292796374
+  - serializedVersion: 2
+    rgba: 4281946992
+  - serializedVersion: 2
+    rgba: 4280389293
+  - serializedVersion: 2
+    rgba: 4294440951
+  - serializedVersion: 2
+    rgba: 4282548934
+  DamageColorProbs:
+  - 0.00077851303
+  - 0.014402491
+  - 0.0032438044
+  - 0.002205787
+  - 0.00051900867
+  - 0.00025950433
+  - 0.0024652912
+  - 0.24626963
+  - 0.2566498
+  - 0.22797456
+  - 0.077332295
+  - 0.14337616
+  - 0.024523161

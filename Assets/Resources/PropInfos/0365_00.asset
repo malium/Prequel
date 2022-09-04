@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0365_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 2
+  HasShadow: 0
+  PropSprite: {fileID: 21300000, guid: 3427b2e5e138be94781e810f26640e71, type: 3}
+  FamilyName: SoulWaterfall
+  HasLighting: 1
+  LightHeight: 2.5
+  LightRange: 32
+  LightIntensity: 16
+  LightColor:
+    serializedVersion: 2
+    rgba: 4287954754
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 98, y: 0}
+  VisibleRect:
+    x: 40
+    y: 0
+    width: 178
+    height: 255
+  BoxCenterOffset: {x: 0.01, y: -0.005}
+  BoxSize: {x: 1.78, y: 2.55}
+  BoxWidth: 0.65625
+  Pivot: {x: 124.43701, y: 24.079798}
+  Texture: {fileID: 2800000, guid: 3427b2e5e138be94781e810f26640e71, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4290117458
+  - serializedVersion: 2
+    rgba: 4289588091
+  - serializedVersion: 2
+    rgba: 4287944522
+  - serializedVersion: 2
+    rgba: 4292278197
+  - serializedVersion: 2
+    rgba: 4293392350
+  - serializedVersion: 2
+    rgba: 4285773378
+  DamageColorProbs:
+  - 0.15027331
+  - 0.002747175
+  - 0.02424311
+  - 0.4912062
+  - 0.19810814
+  - 0.13342208

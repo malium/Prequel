@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0248_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: dbcd3bb8d16e6d4468789d8c3f733100, type: 3}
+  FamilyName: DragonEggRadioactive
+  HasLighting: 1
+  LightHeight: 1
+  LightRange: 5
+  LightIntensity: 1.5
+  LightColor:
+    serializedVersion: 2
+    rgba: 4279500544
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 39, y: 0}
+  VisibleRect:
+    x: 21
+    y: 0
+    width: 84
+    height: 102
+  BoxCenterOffset: {x: -0.01, y: -0.13}
+  BoxSize: {x: 0.84, y: 1.02}
+  BoxWidth: 0.65625
+  Pivot: {x: 63.70308, y: 4.9139414}
+  Texture: {fileID: 2800000, guid: dbcd3bb8d16e6d4468789d8c3f733100, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4278570240
+  - serializedVersion: 2
+    rgba: 4279279872
+  - serializedVersion: 2
+    rgba: 4278255360
+  - serializedVersion: 2
+    rgba: 4286297600
+  - serializedVersion: 2
+    rgba: 4281238272
+  - serializedVersion: 2
+    rgba: 4282560000
+  - serializedVersion: 2
+    rgba: 4284715520
+  - serializedVersion: 2
+    rgba: 4287756642
+  - serializedVersion: 2
+    rgba: 4285791000
+  - serializedVersion: 2
+    rgba: 4281988864
+  - serializedVersion: 2
+    rgba: 4283749120
+  - serializedVersion: 2
+    rgba: 4290117524
+  - serializedVersion: 2
+    rgba: 4282903604
+  - serializedVersion: 2
+    rgba: 4285267778
+  DamageColorProbs:
+  - 0.05850321
+  - 0.025411896
+  - 0.010053058
+  - 0.000698129
+  - 0.0033510192
+  - 0.000698129
+  - 0.0008377548
+  - 0.22493717
+  - 0.24308853
+  - 0.27590057
+  - 0.06646188
+  - 0.064926
+  - 0.009075677
+  - 0.016056968

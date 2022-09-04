@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0045_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.5
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 801a4c040229c304eb84d6c4e8cbda5c, type: 3}
+  FamilyName: CropOfMasorka
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 54, y: 0}
+  VisibleRect:
+    x: 44
+    y: 0
+    width: 61
+    height: 127
+  BoxCenterOffset: {x: 0.105, y: -0.005}
+  BoxSize: {x: 0.61, y: 1.27}
+  BoxWidth: 0.0390625
+  Pivot: {x: 55.98329, y: 3.8598974}
+  Texture: {fileID: 2800000, guid: 801a4c040229c304eb84d6c4e8cbda5c, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4286262371
+  - serializedVersion: 2
+    rgba: 4282461736
+  - serializedVersion: 2
+    rgba: 4280365072
+  - serializedVersion: 2
+    rgba: 4280902036
+  - serializedVersion: 2
+    rgba: 4287917378
+  - serializedVersion: 2
+    rgba: 4286268729
+  - serializedVersion: 2
+    rgba: 4286878282
+  - serializedVersion: 2
+    rgba: 4284837430
+  - serializedVersion: 2
+    rgba: 4284296519
+  - serializedVersion: 2
+    rgba: 4280834914
+  - serializedVersion: 2
+    rgba: 4282144318
+  - serializedVersion: 2
+    rgba: 4278214102
+  - serializedVersion: 2
+    rgba: 4285766267
+  - serializedVersion: 2
+    rgba: 4279987901
+  - serializedVersion: 2
+    rgba: 4283074171
+  - serializedVersion: 2
+    rgba: 4282554819
+  - serializedVersion: 2
+    rgba: 4284108048
+  - serializedVersion: 2
+    rgba: 4284722861
+  - serializedVersion: 2
+    rgba: 4279798519
+  DamageColorProbs:
+  - 0.018108651
+  - 0.046277665
+  - 0.0020120724
+  - 0.01056338
+  - 0.0015090543
+  - 0.0030181087
+  - 0.04527163
+  - 0.018108651
+  - 0.024647888
+  - 0.0025150906
+  - 0.45674044
+  - 0.04225352
+  - 0.0035211267
+  - 0.06136821
+  - 0.13933602
+  - 0.064889334
+  - 0.02364185
+  - 0.022132797
+  - 0.014084507

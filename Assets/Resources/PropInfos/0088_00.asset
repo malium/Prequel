@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0088_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 3590d1157ff8dc940958d8f45777a998, type: 3}
+  FamilyName: LemonTreePumpkin
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 141, y: 11}
+  VisibleRect:
+    x: 43
+    y: 11
+    width: 164
+    height: 240
+  BoxCenterOffset: {x: -0.03, y: 0.03}
+  BoxSize: {x: 1.64, y: 2.4}
+  BoxWidth: 0.4375
+  Pivot: {x: 132.1568, y: 29.097666}
+  Texture: {fileID: 2800000, guid: 3590d1157ff8dc940958d8f45777a998, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4278193264
+  - serializedVersion: 2
+    rgba: 4278531264
+  - serializedVersion: 2
+    rgba: 4281754309
+  - serializedVersion: 2
+    rgba: 4280499873
+  - serializedVersion: 2
+    rgba: 4283600623
+  - serializedVersion: 2
+    rgba: 4278733287
+  - serializedVersion: 2
+    rgba: 4280906231
+  - serializedVersion: 2
+    rgba: 4286885623
+  - serializedVersion: 2
+    rgba: 4278240132
+  - serializedVersion: 2
+    rgba: 4278212005
+  - serializedVersion: 2
+    rgba: 4278765518
+  - serializedVersion: 2
+    rgba: 4289054711
+  - serializedVersion: 2
+    rgba: 4278210163
+  - serializedVersion: 2
+    rgba: 4278225019
+  - serializedVersion: 2
+    rgba: 4278218231
+  - serializedVersion: 2
+    rgba: 4278231204
+  - serializedVersion: 2
+    rgba: 4278250429
+  - serializedVersion: 2
+    rgba: 4278329497
+  - serializedVersion: 2
+    rgba: 4293388287
+  - serializedVersion: 2
+    rgba: 4280361083
+  - serializedVersion: 2
+    rgba: 4284134143
+  - serializedVersion: 2
+    rgba: 4278874821
+  - serializedVersion: 2
+    rgba: 4285033898
+  - serializedVersion: 2
+    rgba: 4286876349
+  - serializedVersion: 2
+    rgba: 4281243903
+  - serializedVersion: 2
+    rgba: 4291743719
+  - serializedVersion: 2
+    rgba: 4289045198
+  - serializedVersion: 2
+    rgba: 4283058580
+  - serializedVersion: 2
+    rgba: 4288479223
+  - serializedVersion: 2
+    rgba: 4281985007
+  - serializedVersion: 2
+    rgba: 4280724168
+  - serializedVersion: 2
+    rgba: 4281988038
+  - serializedVersion: 2
+    rgba: 4284137165
+  - serializedVersion: 2
+    rgba: 4286306303
+  - serializedVersion: 2
+    rgba: 4281120660
+  - serializedVersion: 2
+    rgba: 4280907660
+  - serializedVersion: 2
+    rgba: 4286316510
+  DamageColorProbs:
+  - 0.010297993
+  - 0.00077032234
+  - 0.0068923575
+  - 0.003932698
+  - 0.0052706264
+  - 0.00259477
+  - 0.057328198
+  - 0.0012162984
+  - 0.0015001014
+  - 0.0025136834
+  - 0.000729779
+  - 0.0008108656
+  - 0.0002027164
+  - 0.0013379282
+  - 0.00012162984
+  - 0.0002027164
+  - 0.0013784715
+  - 0.0002027164
+  - 0.00032434624
+  - 0.0696939
+  - 0.034542874
+  - 0.029231705
+  - 0.36768702
+  - 0.090411514
+  - 0.028988445
+  - 0.008716805
+  - 0.015487533
+  - 0.040340565
+  - 0.15329415
+  - 0.032515712
+  - 0.00754105
+  - 0.009892561
+  - 0.004784107
+  - 0.005797689
+  - 0.0005676059
+  - 0.0018244477
+  - 0.0010541253

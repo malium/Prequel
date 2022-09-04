@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0253_02
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.5
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: a960694fa7557804eb132a2f27a78780, type: 3}
+  FamilyName: EaselPainted
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 48, y: 1}
+  VisibleRect:
+    x: 41
+    y: 1
+    width: 56
+    height: 126
+  BoxCenterOffset: {x: 0.05, y: 0}
+  BoxSize: {x: 0.56, y: 1.26}
+  BoxWidth: 0.390625
+  Pivot: {x: 63.999992, y: 16.196707}
+  Texture: {fileID: 2800000, guid: a960694fa7557804eb132a2f27a78780, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4286884525
+  - serializedVersion: 2
+    rgba: 4283791486
+  - serializedVersion: 2
+    rgba: 4285043606
+  - serializedVersion: 2
+    rgba: 4282343269
+  - serializedVersion: 2
+    rgba: 4285222350
+  - serializedVersion: 2
+    rgba: 4278723650
+  - serializedVersion: 2
+    rgba: 4281939092
+  - serializedVersion: 2
+    rgba: 4279463007
+  - serializedVersion: 2
+    rgba: 4287729883
+  - serializedVersion: 2
+    rgba: 4290625279
+  - serializedVersion: 2
+    rgba: 4282539462
+  - serializedVersion: 2
+    rgba: 4286276079
+  - serializedVersion: 2
+    rgba: 4279262094
+  - serializedVersion: 2
+    rgba: 4279241860
+  - serializedVersion: 2
+    rgba: 4279778749
+  - serializedVersion: 2
+    rgba: 4278227563
+  - serializedVersion: 2
+    rgba: 4290635775
+  - serializedVersion: 2
+    rgba: 4283601655
+  - serializedVersion: 2
+    rgba: 4285248255
+  - serializedVersion: 2
+    rgba: 4283076555
+  - serializedVersion: 2
+    rgba: 4280360167
+  - serializedVersion: 2
+    rgba: 4280894794
+  - serializedVersion: 2
+    rgba: 4289573417
+  - serializedVersion: 2
+    rgba: 4287545838
+  - serializedVersion: 2
+    rgba: 4279264718
+  - serializedVersion: 2
+    rgba: 4283600466
+  - serializedVersion: 2
+    rgba: 4281772425
+  - serializedVersion: 2
+    rgba: 4286880330
+  - serializedVersion: 2
+    rgba: 4291204665
+  - serializedVersion: 2
+    rgba: 4287396131
+  - serializedVersion: 2
+    rgba: 4291720456
+  - serializedVersion: 2
+    rgba: 4279251051
+  - serializedVersion: 2
+    rgba: 4285558880
+  - serializedVersion: 2
+    rgba: 4283590969
+  - serializedVersion: 2
+    rgba: 4293915614
+  - serializedVersion: 2
+    rgba: 4293914491
+  - serializedVersion: 2
+    rgba: 4289556967
+  - serializedVersion: 2
+    rgba: 4292074691
+  - serializedVersion: 2
+    rgba: 4290629516
+  - serializedVersion: 2
+    rgba: 4289903210
+  - serializedVersion: 2
+    rgba: 4291145653
+  - serializedVersion: 2
+    rgba: 4290089727
+  - serializedVersion: 2
+    rgba: 4292793096
+  - serializedVersion: 2
+    rgba: 4292267371
+  - serializedVersion: 2
+    rgba: 4292780544
+  DamageColorProbs:
+  - 0.0031688546
+  - 0.00090538705
+  - 0.004753282
+  - 0.00090538705
+  - 0.0052059754
+  - 0.0058850157
+  - 0.0029425079
+  - 0.031914894
+  - 0.0015844273
+  - 0.0036215482
+  - 0.0018107741
+  - 0.00837483
+  - 0.0022634675
+  - 0.00090538705
+  - 0.0011317338
+  - 0.0018107741
+  - 0.00090538705
+  - 0.00045269352
+  - 0.00090538705
+  - 0.037347216
+  - 0.0031688546
+  - 0.00067904027
+  - 0.0043005883
+  - 0.45427796
+  - 0.18130375
+  - 0.064282484
+  - 0.03349932
+  - 0.006790403
+  - 0.028972385
+  - 0.018560434
+  - 0.011543685
+  - 0.00905387
+  - 0.013128112
+  - 0.005432322
+  - 0.002037121
+  - 0.0011317338
+  - 0.0031688546
+  - 0.011770031
+  - 0.0031688546
+  - 0.0031688546
+  - 0.020597555
+  - 0.00022634676
+  - 0.00045269352
+  - 0.00045269352
+  - 0.002037121

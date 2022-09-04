@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0378_02
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.4
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: cb1e096f58ab9224aa09a0498e79677b, type: 3}
+  FamilyName: SurfBoard
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 64, y: 24}
+  VisibleRect:
+    x: 6
+    y: 24
+    width: 103
+    height: 64
+  BoxCenterOffset: {x: -0.065, y: -0.08}
+  BoxSize: {x: 1.03, y: 0.64}
+  BoxWidth: 0.2265625
+  Pivot: {x: 59.24622, y: 30.920307}
+  Texture: {fileID: 2800000, guid: cb1e096f58ab9224aa09a0498e79677b, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4284106083
+  - serializedVersion: 2
+    rgba: 4286802569
+  - serializedVersion: 2
+    rgba: 4285762204
+  - serializedVersion: 2
+    rgba: 4281933881
+  - serializedVersion: 2
+    rgba: 4287934141
+  - serializedVersion: 2
+    rgba: 4288449189
+  - serializedVersion: 2
+    rgba: 4283918966
+  - serializedVersion: 2
+    rgba: 4290090694
+  - serializedVersion: 2
+    rgba: 4281419090
+  DamageColorProbs:
+  - 0.005027785
+  - 0.14818735
+  - 0.0039693043
+  - 0.023551203
+  - 0.0005292405
+  - 0.32310134
+  - 0.29690394
+  - 0.17782483
+  - 0.020905001

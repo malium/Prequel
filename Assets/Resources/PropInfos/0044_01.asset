@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0044_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 48b24155171e8ef4389acdf31f48ac3b, type: 3}
+  FamilyName: CoralYellow
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 61, y: 19}
+  VisibleRect:
+    x: 20
+    y: 19
+    width: 83
+    height: 91
+  BoxCenterOffset: {x: -0.025, y: 0.005}
+  BoxSize: {x: 0.83, y: 0.91}
+  BoxWidth: 0.375
+  Pivot: {x: 64.89074, y: 29.691492}
+  Texture: {fileID: 2800000, guid: 48b24155171e8ef4389acdf31f48ac3b, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4278223753
+  - serializedVersion: 2
+    rgba: 4278215019
+  - serializedVersion: 2
+    rgba: 4278249455
+  - serializedVersion: 2
+    rgba: 4278231210
+  - serializedVersion: 2
+    rgba: 4278240203
+  DamageColorProbs:
+  - 0.09103943
+  - 0.0864994
+  - 0.11851852
+  - 0.3139785
+  - 0.38996416

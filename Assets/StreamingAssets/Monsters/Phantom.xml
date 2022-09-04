@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<MonsterInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MonsterFamily>Phantom</MonsterFamily>
+  <BaseHealth>40</BaseHealth>
+  <HealthRegen>1</HealthRegen>
+  <BaseSoulness>100</BaseSoulness>
+  <SoulnessRegen>1</SoulnessRegen>
+  <BaseSpeed>1</BaseSpeed>
+  <Weight>1</Weight>
+  <SightRange>7</SightRange>
+  <SightAngle>60</SightAngle>
+  <HearingRange>5</HearingRange>
+  <SpriteScale>1.2</SpriteScale>
+  <StepDistance>0.5</StepDistance>
+  <PhysicalResistance>0.5</PhysicalResistance>
+  <PhysicalHealing>false</PhysicalHealing>
+  <ElementalResistance>0.5</ElementalResistance>
+  <ElementalHealing>false</ElementalHealing>
+  <UltimateResistance>0.5</UltimateResistance>
+  <UltimateHealing>false</UltimateHealing>
+  <SoulResistance>5</SoulResistance>
+  <SoulHealing>false</SoulHealing>
+  <PoisonResistance>0.5</PoisonResistance>
+  <PoisonHealing>false</PoisonHealing>
+  <WarnTime>3</WarnTime>
+  <AlertTime>3</AlertTime>
+  <Friendships />
+  <Quirks />
+  <Attacks>
+    <AttackInfo xsi:nil="true" />
+    <AttackInfo xsi:nil="true" />
+    <AttackInfo xsi:nil="true" />
+    <AttackInfo xsi:nil="true" />
+  </Attacks>
+</MonsterInfo>

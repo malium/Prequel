@@ -1,0 +1,85 @@
+000::F:VOID
+001:1,3_1,4_120_0,85.1,0_0,0_0,0_2,0.1,5_1,25_-25,0_1,4.1,0_1,9_100,0_1,0.0,7_0,1_0,0_0,5.1,3_0,9_60,0_0,8.1,5_1,0_-115,0_1,0.1,1_1,0_10,0_1,1.1,1_-10_0,0_0,9.1,0_1,0_0,0_1,0:D:Stone, Red Stone, White Stone, Light Blue Stone, Light Pink Stone, Grey Stone, Purple Stone, Radioactive Stone, BlueStone Var1, BlueStone Var2, StoneTest
+002:1,8_0,1_0,0_0,75.1,3_0,9_60,0_0,8.1,3_0,1_-110,0_1,3:D:Field Dirt, Street, Brown dirt, Grey dirt
+003:1,3_1,3_-130,0_1,0.1,0_0,7_40,0_1,0.1,0_1,0_60,0_0,9.1,5_0,8_80,0_0,6:F:Soul Water, Corrupted soul water, Atlantis light soul water, Atlantis soul water, Atlantis deep soul water
+004:1,3_1,4_120_0,85.1,0_0,0_0,0_2,0.1,5_1,25_-25,0_1,4.1,0_1,9_100,0_1,0.0,7_0,1_0,0_0,5.1,3_0,9_60,0_0,8.1,5_1,0_-115,0_1,0:D:Blue Stone Brick, Red Stone Brick, White Stone Brick, Light Blue Stone Brick, Light Pink Stone Brick, Grey Stone Brick, Purple Stone Brick, Radioactive Stone Brick
+005::D:Basaltic stone
+006::D:Magma stone
+007:1,4_0,5_-125,0_0,2.0,7_0,3_120,0_2,0.0,7_0,9_-100,0_1,7.1,6_0,6_-95_0,35:D:Sponge, Volcanic Sponge, White Sponge, Red Sponge, Brownie
+008::D:Solid
+009:1,3_1,8_30,0_1,4:D:Mud, Radioactive mud
+010:0,8_0,1_-105,0_0,5.0,8_1,2_-70,0_1,2.1,0_1,35_90,0_1,2.0,7_2,0_38,0_2,0:D:Blood, Tar, Venom, Poison, Melted Cheese
+011:1,3_0,8_80,0_1,0.1,0_1,0_30,0_1,0.2,0_0,3_-20,0_0,2:D:Flesh, Rotten Flesh, Cooked Flesh, Burned Flesh
+012:1,1_0,2_0,0_0,7.1,2_0,1_-90,0_0,0.0,9_0,85_-45,0_0,9:D:Compacted Sand, Compacted Cinder, Compacted Salt, Compacted Red sand
+013:0,5_2,0_-25,0_0,6.1,0_1,0_100,0_0,8.1,0_1,4_-55,0_0,8.1,0_2,0_-55,0_0,8:D:Wood plank, Dark Wood Plank, Blue Wood Plank, Old Red Wood Plank, Red Wood Plank
+014::F:Scaffolding
+015::D:Dry stone
+016:2,0_0,0_0,0_1,0:D:Scrapping block, Metal Scrapping block
+017:1,0_1,0_0,0_1,0:D:Snow, Icecream
+018:1,3_1,4_120_0,85.1,0_0,0_0,0_2,0.1,5_1,25_-25,0_1,4.1,0_1,9_100,0_1,0.0,7_0,1_0,0_0,5.1,3_0,9_60,0_0,8.1,5_1,0_-115,0_1,0:D:Polished Blue Stone, Polished Red Stone, Polished White Stone, Polished Light Blue Stone, Polished Light Pink Stone, Polished Grey Stone, Polished Purple Stone, Polished Radioactive Stone
+019::D:Amber
+020::D:Smooth metal
+021:1,3_1,4_120_0,85.1,0_0,0_0,0_2,0.1,5_1,25_-25,0_1,4.1,0_1,9_100,0_1,0.0,7_0,1_0,0_0,5.1,3_0,9_60,0_0,8.1,5_1,0_-115,0_1,0:D:Castle blue stone brick, Castle red stone brick, Castle white stone brick, Castle light blue stone brick, Castle light pink stone brick, Castle grey stone brick, Castle purple stone brick,  Castle radioactive stone brick
+022:1,5_0,1_0,0_1,5.1_0,1_0,0_0,4.0,8_1,2_-160,0_1,2:D:Ceramic, White ceramic, Black ceramic, Blue ceramic
+023::D:Tatami
+024:0,6_1,5_-135,0_0,7:D:Pebbles, Dark Pebbles
+025:0,8_4,0_55,0_0,9.1,0_6,5_20,0_0,5.1,4_0,2_0,0_1,0.1,2_4,0_-90,0_0,5.0,9_3,0_180,0_0,8.1,2_3,0_-55,0_0,6:D:Silk, Golden Silk, Red Silk, White Silk, Deep Blue Silk, Turkoise Silk, Purple Silk
+026::D:Ice
+027::D:Sand sacks
+028:1,8_0,5_-10,0_0,4.1,3_0,8_160,0_0,8.1,4_1,0_-15,0_0,9:D:Waxed wood, Dark waxed wood, Blue waxed wood, Red waxed wood
+029::T:Glass
+030::D:Lava
+031:1,1_0,7_30,0_1,2.0,9_0,05_20,0_3,2.0,8_0,5_-120,0_1,2.1,0_0,7_-200,0_1,0.1,0_0,7_-75,0_1,0.0,6_0,8_-15,0_2,0:D:Red Fine pillow, Golden Fine Pillow, White Fine Pillow, Deep Blue Fine Pillow, Turkoise Fine Pillow, Purple Fine Pillow, Light Pink Pillow
+032::D:Algae
+033::D:Concrete
+034:1,2_0,5_-15,0_0,8.3,0_0,6_-165,0_0,25.1,0_0,2_0,0_1,3:D:Straw pile, Nest, Alien, Nails
+035::D:Log wood
+036:1,2_1,5_-20,0_0,8:D:Cheese, Cheddar
+037::D:Blue cheese
+038::D:Rainbow
+039:0,8_0,1_-160,0_1,3.1,6_0,8_-105,0_0,4:D:Cloud, White Cloud, Tempest Cloud
+040::D:Marble
+041:1,0_1,0_-10,0_1,5.1,3_1,1_40,0_1,2.1,0_1,0_-140,0_1,0.1,0_1,0_-80,0_1,0:F:Red Coral, Pink Coral, Yellow Coral, Blue Coral, Purple Coral
+042:1,4_0,6_-140,0_0,2:D:Bone pile, Whidered Bone Pile
+043:0,8_1,3_0,0_0,4.1,0_1,0_100,0_0,8.1,0_1,0_-40,0_1,0.0,9_1,2_-30,0_1,5:D:Parket, Dark Parket, Blue Parket,Old Red Parket, Red Parket
+044::D:Entrails
+045:1,0_1,0_0,0_1,0:F:Nebula, Etereal
+046::F:Boreal veil
+047::D:Screwed metal
+048::F:Frost
+049:0,7_0,0_0,0_3,5.1,0_1,4_10,0_1,3.0,9_1,4_30,0_1,2.1,0_1,4_50,0_1,1.0,9_1,2_110,0_1,2.0,9_1,0_130,0_0,8.1,0_1,0_180,0_1,1.1,0_1,0_-130_1,0.1,0_0,6_-90,0_1,1.0,8_1,5_-40,0_1,2.0,9_0,6_-30,0_1,6.1,6_0,0_0,0_1,4.1,0_0,0_0,0_1,0:D:Whool ball classic, Whool ball white, Whool ball red, Whool ball orange, Whool ball yellow, Whool ball lime, Whool ball green, Whool ball light blue, Whool ball blue, Whool ball purple, Whool ball magenta, Whool ball pink, Whool ball black, Whool ball grey 
+050::D:Paperboard
+051::F:Scribbled block
+052::F:Sketched block
+053::D:Ragtag
+054:1,0_1,0_20,0_1,0.0,9_0,8_-20,0_1,1.1,0_1,0_180,0_1,2.1,5_0,5_180_2,0:D:Stelar block, Yellow stelar block, Red Giant block, Blue Giant block, Neutron Star block
+055::F:Holographic brain
+056::F:Virtual code
+057::D:Pillow
+058::D:Skin
+059::D:Wooden box
+060::D:Elden stone
+061::D:Chocolate
+062::F:Bubbles
+063::T:Uranium
+064::D:Black Stripped Pillow
+065::D:White Stripped Pillow
+066:1,0_0,8_-10,0_0,7.1,1_0,2_0,0_0,7.1,2_0,1_-90,0_0,0.9,0_0,85_-45,0_0,9:D:Sand, Wet sand, Cinder, Salt, Red sand
+067::D:Solid white
+068::D:Green chroma block
+069::D:Smooth gold
+070::D:Smooth copper
+071::D:Smooth silver
+072::D:Smooth steel
+073::D:Smooth alien metal
+074::D:Blue pebbles
+075::D:Coin pile block
+076::D:Marble black
+077::D:Marble pink
+078::D:Marble green 
+079::D:Skin pale
+080::D:Skin dark
+081::D:Skin bloody
+082::D:Skin dried
+083::D:Skin demon 
+084::D:Screwed Metal Copper 

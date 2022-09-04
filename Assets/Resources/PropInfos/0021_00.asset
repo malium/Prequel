@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0021_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: cc70096d39a465a42af5b4251d41fe9b, type: 3}
+  FamilyName: BonfireKindled
+  HasLighting: 1
+  LightHeight: 1
+  LightRange: 25
+  LightIntensity: 15
+  LightColor:
+    serializedVersion: 2
+    rgba: 4278216703
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 66, y: 23}
+  VisibleRect:
+    x: 13
+    y: 23
+    width: 97
+    height: 102
+  BoxCenterOffset: {x: -0.025, y: 0.1}
+  BoxSize: {x: 0.97, y: 1.02}
+  BoxWidth: 0.5
+  Pivot: {x: 65.19392, y: 35.798294}
+  Texture: {fileID: 2800000, guid: cc70096d39a465a42af5b4251d41fe9b, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4286285501
+  - serializedVersion: 2
+    rgba: 4280399615
+  - serializedVersion: 2
+    rgba: 4280910288
+  - serializedVersion: 2
+    rgba: 4278230783
+  - serializedVersion: 2
+    rgba: 4281232782
+  - serializedVersion: 2
+    rgba: 4283598525
+  - serializedVersion: 2
+    rgba: 4281965295
+  - serializedVersion: 2
+    rgba: 4279270895
+  - serializedVersion: 2
+    rgba: 4283060570
+  - serializedVersion: 2
+    rgba: 4279769121
+  - serializedVersion: 2
+    rgba: 4284834950
+  - serializedVersion: 2
+    rgba: 4287386962
+  - serializedVersion: 2
+    rgba: 4281937201
+  - serializedVersion: 2
+    rgba: 4285022785
+  - serializedVersion: 2
+    rgba: 4279413718
+  - serializedVersion: 2
+    rgba: 4283629567
+  - serializedVersion: 2
+    rgba: 4283054212
+  - serializedVersion: 2
+    rgba: 4283088639
+  - serializedVersion: 2
+    rgba: 4289069055
+  - serializedVersion: 2
+    rgba: 4287416319
+  - serializedVersion: 2
+    rgba: 4286316543
+  - serializedVersion: 2
+    rgba: 4279253058
+  - serializedVersion: 2
+    rgba: 4288443780
+  - serializedVersion: 2
+    rgba: 4281947565
+  - serializedVersion: 2
+    rgba: 4278211063
+  - serializedVersion: 2
+    rgba: 4278737358
+  - serializedVersion: 2
+    rgba: 4279821311
+  - serializedVersion: 2
+    rgba: 4279071661
+  - serializedVersion: 2
+    rgba: 4280302696
+  DamageColorProbs:
+  - 0.0018219678
+  - 0.0009109839
+  - 0.0032535137
+  - 0.0013014055
+  - 0.006767309
+  - 0.001431546
+  - 0.023945862
+  - 0.008589276
+  - 0.029541906
+  - 0.0053357626
+  - 0.006897449
+  - 0.00026028111
+  - 0.0039042165
+  - 0.03956273
+  - 0.26119208
+  - 0.00026028111
+  - 0.016657991
+  - 0.033836544
+  - 0.00013014056
+  - 0.001431546
+  - 0.008068714
+  - 0.00039042166
+  - 0.00026028111
+  - 0.4139771
+  - 0.043206662
+  - 0.02121291
+  - 0.059864655
+  - 0.005856325
+  - 0.00013014056

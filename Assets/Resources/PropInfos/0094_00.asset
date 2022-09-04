@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0094_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 673032ee74e2667409c489f4d47844e2, type: 3}
+  FamilyName: MailPost
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 63, y: 18}
+  VisibleRect:
+    x: 35
+    y: 18
+    width: 60
+    height: 107
+  BoxCenterOffset: {x: 0.01, y: 0.075}
+  BoxSize: {x: 0.6, y: 1.07}
+  BoxWidth: 0.078125
+  Pivot: {x: 63.999992, y: 21.67479}
+  Texture: {fileID: 2800000, guid: 673032ee74e2667409c489f4d47844e2, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4283379293
+  - serializedVersion: 2
+    rgba: 4279044428
+  - serializedVersion: 2
+    rgba: 4279044217
+  - serializedVersion: 2
+    rgba: 4280882332
+  - serializedVersion: 2
+    rgba: 4282525894
+  - serializedVersion: 2
+    rgba: 4280883249
+  - serializedVersion: 2
+    rgba: 4278856852
+  - serializedVersion: 2
+    rgba: 4287926015
+  - serializedVersion: 2
+    rgba: 4285228543
+  - serializedVersion: 2
+    rgba: 4283582951
+  - serializedVersion: 2
+    rgba: 4283066830
+  - serializedVersion: 2
+    rgba: 4279781590
+  - serializedVersion: 2
+    rgba: 4279789047
+  DamageColorProbs:
+  - 0.057245575
+  - 0.01244469
+  - 0.000829646
+  - 0.009955753
+  - 0.0071902657
+  - 0.0044247787
+  - 0.00027654867
+  - 0.061946902
+  - 0.07715708
+  - 0.09402655
+  - 0.21681416
+  - 0.23119469
+  - 0.22649336

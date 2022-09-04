@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0152_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 65200fe0a883b9a4f9b517fdc7e5f757, type: 3}
+  FamilyName: TrockplockPoloniumTree
+  HasLighting: 1
+  LightHeight: 0.6
+  LightRange: 6
+  LightIntensity: 0.5
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294930670
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 62, y: 23}
+  VisibleRect:
+    x: 27
+    y: 23
+    width: 81
+    height: 91
+  BoxCenterOffset: {x: 0.035, y: 0.045}
+  BoxSize: {x: 0.81, y: 0.91}
+  BoxWidth: 0.125
+  Pivot: {x: 62.51542, y: 26.722343}
+  Texture: {fileID: 2800000, guid: 65200fe0a883b9a4f9b517fdc7e5f757, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4284702059
+  - serializedVersion: 2
+    rgba: 4283925109
+  - serializedVersion: 2
+    rgba: 4280363049
+  - serializedVersion: 2
+    rgba: 4288475045
+  - serializedVersion: 2
+    rgba: 4287940792
+  - serializedVersion: 2
+    rgba: 4285771420
+  - serializedVersion: 2
+    rgba: 4283606359
+  - serializedVersion: 2
+    rgba: 4280373545
+  - serializedVersion: 2
+    rgba: 4282861135
+  - serializedVersion: 2
+    rgba: 4282347087
+  - serializedVersion: 2
+    rgba: 4280386089
+  - serializedVersion: 2
+    rgba: 4285776760
+  - serializedVersion: 2
+    rgba: 4285564572
+  - serializedVersion: 2
+    rgba: 4291225542
+  - serializedVersion: 2
+    rgba: 4287929530
+  - serializedVersion: 2
+    rgba: 4289378267
+  - serializedVersion: 2
+    rgba: 4286310284
+  - serializedVersion: 2
+    rgba: 4291745791
+  - serializedVersion: 2
+    rgba: 4293914615
+  DamageColorProbs:
+  - 0.00028449504
+  - 0.009388336
+  - 0.09189189
+  - 0.008819345
+  - 0.027596017
+  - 0.023613086
+  - 0.0051209102
+  - 0.0028449502
+  - 0.0022759603
+  - 0.0005689901
+  - 0.3954481
+  - 0.084779516
+  - 0.032147937
+  - 0.038691323
+  - 0.1428165
+  - 0.07396871
+  - 0.0031294452
+  - 0.008250356
+  - 0.048364155

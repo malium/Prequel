@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0311_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 0.7
+  HasShadow: 0
+  PropSprite: {fileID: 21300000, guid: 3c227592297fe444e888dee5b4745600, type: 3}
+  FamilyName: MetalRockGold
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 56, y: 10}
+  VisibleRect:
+    x: 23
+    y: 10
+    width: 92
+    height: 94
+  BoxCenterOffset: {x: 0.05, y: -0.07}
+  BoxSize: {x: 0.92, y: 0.94}
+  BoxWidth: 0.6640625
+  Pivot: {x: 70.53212, y: 24.510323}
+  Texture: {fileID: 2800000, guid: 3c227592297fe444e888dee5b4745600, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4284629055
+  - serializedVersion: 2
+    rgba: 4281420631
+  - serializedVersion: 2
+    rgba: 4282131747
+  - serializedVersion: 2
+    rgba: 4288439651
+  - serializedVersion: 2
+    rgba: 4280386213
+  - serializedVersion: 2
+    rgba: 4280903294
+  - serializedVersion: 2
+    rgba: 4282563294
+  - serializedVersion: 2
+    rgba: 4279252034
+  - serializedVersion: 2
+    rgba: 4278734179
+  - serializedVersion: 2
+    rgba: 4283079349
+  - serializedVersion: 2
+    rgba: 4284733439
+  - serializedVersion: 2
+    rgba: 4284114283
+  - serializedVersion: 2
+    rgba: 4284121745
+  - serializedVersion: 2
+    rgba: 4280395470
+  DamageColorProbs:
+  - 0.0018772563
+  - 0.00028880866
+  - 0.0018772563
+  - 0.0011552346
+  - 0.00028880866
+  - 0.001299639
+  - 0.0007220217
+  - 0.22382672
+  - 0.5091697
+  - 0.032779783
+  - 0.015451264
+  - 0.012129964
+  - 0.010685921
+  - 0.18844765

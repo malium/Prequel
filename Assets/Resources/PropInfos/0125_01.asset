@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0125_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: bc74df01517a6034c9e2e3cc828555fd, type: 3}
+  FamilyName: Rose
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 51, y: 25}
+  VisibleRect:
+    x: 28
+    y: 25
+    width: 78
+    height: 66
+  BoxCenterOffset: {x: 0.03, y: -0.06}
+  BoxSize: {x: 0.78, y: 0.66}
+  BoxWidth: 0.265625
+  Pivot: {x: 65.18765, y: 40.97426}
+  Texture: {fileID: 2800000, guid: bc74df01517a6034c9e2e3cc828555fd, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4278720553
+  - serializedVersion: 2
+    rgba: 4281944666
+  - serializedVersion: 2
+    rgba: 4288458429
+  - serializedVersion: 2
+    rgba: 4285037710
+  - serializedVersion: 2
+    rgba: 4290630631
+  - serializedVersion: 2
+    rgba: 4286616743
+  - serializedVersion: 2
+    rgba: 4280299585
+  - serializedVersion: 2
+    rgba: 4283588979
+  DamageColorProbs:
+  - 0.021290118
+  - 0.08198284
+  - 0.018430252
+  - 0.027645377
+  - 0.23164919
+  - 0.2246584
+  - 0.18938671
+  - 0.2049571

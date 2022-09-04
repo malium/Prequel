@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0173_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: e15b9b03446bf394dbccf42cfc96ca6e, type: 3}
+  FamilyName: VikingShieldMagic
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 50, y: 23}
+  VisibleRect:
+    x: 19
+    y: 23
+    width: 93
+    height: 63
+  BoxCenterOffset: {x: 0.015, y: -0.095}
+  BoxSize: {x: 0.93, y: 0.63}
+  BoxWidth: 0.5234375
+  Pivot: {x: 64, y: 33.28}
+  Texture: {fileID: 2800000, guid: e15b9b03446bf394dbccf42cfc96ca6e, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4285556064
+  - serializedVersion: 2
+    rgba: 4283909450
+  - serializedVersion: 2
+    rgba: 4287728003
+  - serializedVersion: 2
+    rgba: 4289045148
+  - serializedVersion: 2
+    rgba: 4292792270
+  - serializedVersion: 2
+    rgba: 4285754257
+  - serializedVersion: 2
+    rgba: 4281412715
+  - serializedVersion: 2
+    rgba: 4283714204
+  - serializedVersion: 2
+    rgba: 4290820021
+  - serializedVersion: 2
+    rgba: 4279241843
+  - serializedVersion: 2
+    rgba: 4294437854
+  - serializedVersion: 2
+    rgba: 4282524729
+  - serializedVersion: 2
+    rgba: 4278214559
+  - serializedVersion: 2
+    rgba: 4278201492
+  - serializedVersion: 2
+    rgba: 4280702582
+  - serializedVersion: 2
+    rgba: 4278226621
+  - serializedVersion: 2
+    rgba: 4278190236
+  - serializedVersion: 2
+    rgba: 4293384101
+  - serializedVersion: 2
+    rgba: 4278190113
+  - serializedVersion: 2
+    rgba: 4278224532
+  - serializedVersion: 2
+    rgba: 4283074204
+  - serializedVersion: 2
+    rgba: 4278192202
+  - serializedVersion: 2
+    rgba: 4286488237
+  - serializedVersion: 2
+    rgba: 4289568363
+  - serializedVersion: 2
+    rgba: 4278726755
+  DamageColorProbs:
+  - 0.027766002
+  - 0.013777024
+  - 0.076091565
+  - 0.04726579
+  - 0.040907163
+  - 0.013988978
+  - 0.027766002
+  - 0.062526494
+  - 0.02310301
+  - 0.004239084
+  - 0.004451039
+  - 0.008902078
+  - 0.015684612
+  - 0.12399322
+  - 0.021619331
+  - 0.09198813
+  - 0.047477745
+  - 0.00063586264
+  - 0.068249255
+  - 0.00021195422
+  - 0.0012717253
+  - 0.00021195422
+  - 0.00021195422
+  - 0.00042390844
+  - 0.2772361

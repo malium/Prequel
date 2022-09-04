@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0029_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: da36e371591903f429379b5a92732b2f, type: 3}
+  FamilyName: BungleTreeRed
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 116, y: 41}
+  VisibleRect:
+    x: 75
+    y: 41
+    width: 139
+    height: 194
+  BoxCenterOffset: {x: 0.165, y: 0.1}
+  BoxSize: {x: 1.39, y: 1.94}
+  BoxWidth: 0.05859375
+  Pivot: {x: 117.904884, y: 49.881706}
+  Texture: {fileID: 2800000, guid: da36e371591903f429379b5a92732b2f, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4280358953
+  - serializedVersion: 2
+    rgba: 4286858636
+  - serializedVersion: 2
+    rgba: 4289030573
+  - serializedVersion: 2
+    rgba: 4290608582
+  - serializedVersion: 2
+    rgba: 4279257910
+  - serializedVersion: 2
+    rgba: 4280500086
+  - serializedVersion: 2
+    rgba: 4280887452
+  - serializedVersion: 2
+    rgba: 4284691563
+  - serializedVersion: 2
+    rgba: 4282525514
+  - serializedVersion: 2
+    rgba: 4281750932
+  - serializedVersion: 2
+    rgba: 4283061710
+  - serializedVersion: 2
+    rgba: 4279248978
+  - serializedVersion: 2
+    rgba: 4279769211
+  - serializedVersion: 2
+    rgba: 4282546621
+  - serializedVersion: 2
+    rgba: 4282558075
+  - serializedVersion: 2
+    rgba: 4280313935
+  - serializedVersion: 2
+    rgba: 4281409750
+  - serializedVersion: 2
+    rgba: 4285221359
+  DamageColorProbs:
+  - 0.060656838
+  - 0.06308646
+  - 0.0030160858
+  - 0.07900469
+  - 0.024966488
+  - 0.025804289
+  - 0.021950401
+  - 0.00016756033
+  - 0.032925602
+  - 0.039125334
+  - 0.28786862
+  - 0.34576073
+  - 0.0013404826
+  - 0.00008378016
+  - 0.00025134048
+  - 0.0028485255
+  - 0.0105563
+  - 0.0005864611

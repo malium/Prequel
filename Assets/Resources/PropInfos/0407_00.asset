@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0407_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.4
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 74722b869bb1ead4584d3635fb24a001, type: 3}
+  FamilyName: WoodenTotem
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 122, y: 35}
+  VisibleRect:
+    x: 91
+    y: 35
+    width: 75
+    height: 206
+  BoxCenterOffset: {x: 0.005, y: 0.1}
+  BoxSize: {x: 0.75, y: 2.06}
+  BoxWidth: 0.1796875
+  Pivot: {x: 123.24935, y: 44.86384}
+  Texture: {fileID: 2800000, guid: 74722b869bb1ead4584d3635fb24a001, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4280817718
+  - serializedVersion: 2
+    rgba: 4282332751
+  - serializedVersion: 2
+    rgba: 4283585899
+  - serializedVersion: 2
+    rgba: 4285748612
+  - serializedVersion: 2
+    rgba: 4290090677
+  - serializedVersion: 2
+    rgba: 4287918492
+  DamageColorProbs:
+  - 0.16278432
+  - 0.08285375
+  - 0.008038732
+  - 0.22280076
+  - 0.26509547
+  - 0.25842696

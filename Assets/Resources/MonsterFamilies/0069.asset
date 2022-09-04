@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257dac38790f84f498cc52fab1edd870, type: 3}
+  m_Name: 0069
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  Name: Polluter
+  SpriteScale: 1
+  Frames:
+  - {fileID: 21300000, guid: e12f6ad14ec94ff46851064a35b20522, type: 3}
+  - {fileID: 21300000, guid: f154cb34536747f40a3cee4e835b6b0a, type: 3}
+  - {fileID: 21300000, guid: a93a5cb9821db5e4cb006fafa28dd608, type: 3}
+  - {fileID: 21300000, guid: 1e1faf856185f59418ddabe362f4b2d5, type: 3}
+  - {fileID: 21300000, guid: d85566d44a153224eb3cb01d0498b6e7, type: 3}
+  - {fileID: 21300000, guid: 3c16c772ab50d9e40957e1c4c44620c8, type: 3}
+  BaseHealth: 100
+  BaseSpeed: 1
+  SightRange: 7
+  SightAngle: 60
+  HearingRange: 5
+  AttackRange: 10
+  AttackRate: 1
+  AttackDamage: 10
+  DamageType: 0
+  FriendlyFamilies: []
+  AIType: 0
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel:
+  - {x: 75, y: 1}
+  - {x: 74, y: 1}
+  - {x: 51, y: 0}
+  - {x: 51, y: 3}
+  - {x: 18, y: 0}
+  - {x: 57, y: 3}
+  VisibleRect:
+  - x: 18
+    y: 1
+    width: 103
+    height: 126
+  - x: 18
+    y: 1
+    width: 103
+    height: 123
+  - x: 18
+    y: 0
+    width: 103
+    height: 110
+  - x: 19
+    y: 3
+    width: 98
+    height: 111
+  - x: 1
+    y: 0
+    width: 110
+    height: 126
+  - x: 4
+    y: 3
+    width: 118
+    height: 109
+  BoxCenterOffset:
+  - {x: 0.055, y: 0}
+  - {x: 0.055, y: -0.015}
+  - {x: 0.055, y: -0.09}
+  - {x: 0.04, y: -0.055}
+  - {x: -0.08, y: -0.01}
+  - {x: -0.01, y: -0.065}
+  BoxSize:
+  - {x: 1.03, y: 1.26}
+  - {x: 1.03, y: 1.23}
+  - {x: 1.03, y: 1.1}
+  - {x: 0.98, y: 1.11}
+  - {x: 1.1, y: 1.26}
+  - {x: 1.18, y: 1.09}
+  Textures:
+  - {fileID: 2800000, guid: e12f6ad14ec94ff46851064a35b20522, type: 3}
+  - {fileID: 2800000, guid: f154cb34536747f40a3cee4e835b6b0a, type: 3}
+  - {fileID: 2800000, guid: a93a5cb9821db5e4cb006fafa28dd608, type: 3}
+  - {fileID: 2800000, guid: 1e1faf856185f59418ddabe362f4b2d5, type: 3}
+  - {fileID: 2800000, guid: d85566d44a153224eb3cb01d0498b6e7, type: 3}
+  - {fileID: 2800000, guid: 3c16c772ab50d9e40957e1c4c44620c8, type: 3}
+  Pivots:
+  - {x: 60.16, y: 2.56}
+  - {x: 60.16, y: 2.56}
+  - {x: 53.76, y: 4.48}
+  - {x: 53.76, y: 4.48}
+  - {x: 60.16, y: 2.56}
+  - {x: 53.76, y: 4.48}

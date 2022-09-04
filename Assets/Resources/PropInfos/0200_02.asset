@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0200_02
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 107728bf938060d44ac1c5ea9bbd5974, type: 3}
+  FamilyName: Bamboo
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 118, y: 23}
+  VisibleRect:
+    x: 36
+    y: 23
+    width: 150
+    height: 225
+  BoxCenterOffset: {x: -0.17, y: 0.075}
+  BoxSize: {x: 1.5, y: 2.25}
+  BoxWidth: 0.33984375
+  Pivot: {x: 122.06169, y: 34.768734}
+  Texture: {fileID: 2800000, guid: 107728bf938060d44ac1c5ea9bbd5974, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4281096001
+  - serializedVersion: 2
+    rgba: 4283082372
+  - serializedVersion: 2
+    rgba: 4281958754
+  - serializedVersion: 2
+    rgba: 4280387212
+  - serializedVersion: 2
+    rgba: 4282558034
+  - serializedVersion: 2
+    rgba: 4282566556
+  DamageColorProbs:
+  - 0.0039411243
+  - 0.009008285
+  - 0.0024129334
+  - 0.6638784
+  - 0.21708357
+  - 0.1036757

@@ -1,0 +1,192 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0256_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 8b623a3385dad324abdb50838507d8a1, type: 3}
+  FamilyName: EyeLettuce
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 73, y: 5}
+  VisibleRect:
+    x: 21
+    y: 5
+    width: 87
+    height: 95
+  BoxCenterOffset: {x: 0.005, y: -0.115}
+  BoxSize: {x: 0.87, y: 0.95}
+  BoxWidth: 0.4921875
+  Pivot: {x: 68.1568, y: 15.305963}
+  Texture: {fileID: 2800000, guid: 8b623a3385dad324abdb50838507d8a1, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4279980130
+  - serializedVersion: 2
+    rgba: 4281759115
+  - serializedVersion: 2
+    rgba: 4283602605
+  - serializedVersion: 2
+    rgba: 4283045182
+  - serializedVersion: 2
+    rgba: 4278529601
+  - serializedVersion: 2
+    rgba: 4283044062
+  - serializedVersion: 2
+    rgba: 4285214761
+  - serializedVersion: 2
+    rgba: 4281614398
+  - serializedVersion: 2
+    rgba: 4282260868
+  - serializedVersion: 2
+    rgba: 4287386929
+  - serializedVersion: 2
+    rgba: 4282523821
+  - serializedVersion: 2
+    rgba: 4290090586
+  - serializedVersion: 2
+    rgba: 4285362527
+  - serializedVersion: 2
+    rgba: 4286270549
+  - serializedVersion: 2
+    rgba: 4287731078
+  - serializedVersion: 2
+    rgba: 4290098877
+  - serializedVersion: 2
+    rgba: 4284110371
+  - serializedVersion: 2
+    rgba: 4284702133
+  - serializedVersion: 2
+    rgba: 4281421188
+  - serializedVersion: 2
+    rgba: 4279994029
+  - serializedVersion: 2
+    rgba: 4286894055
+  - serializedVersion: 2
+    rgba: 4289559857
+  - serializedVersion: 2
+    rgba: 4280400615
+  - serializedVersion: 2
+    rgba: 4279768154
+  - serializedVersion: 2
+    rgba: 4283584875
+  - serializedVersion: 2
+    rgba: 4278214061
+  - serializedVersion: 2
+    rgba: 4284490861
+  - serializedVersion: 2
+    rgba: 4290624231
+  - serializedVersion: 2
+    rgba: 4292792187
+  - serializedVersion: 2
+    rgba: 4284152732
+  - serializedVersion: 2
+    rgba: 4280909080
+  - serializedVersion: 2
+    rgba: 4289065959
+  - serializedVersion: 2
+    rgba: 4279978525
+  - serializedVersion: 2
+    rgba: 4287020722
+  - serializedVersion: 2
+    rgba: 4282302061
+  - serializedVersion: 2
+    rgba: 4287396310
+  - serializedVersion: 2
+    rgba: 4283909015
+  - serializedVersion: 2
+    rgba: 4286282041
+  - serializedVersion: 2
+    rgba: 4292267982
+  - serializedVersion: 2
+    rgba: 4292780626
+  - serializedVersion: 2
+    rgba: 4287927479
+  - serializedVersion: 2
+    rgba: 4288966749
+  - serializedVersion: 2
+    rgba: 4285224414
+  - serializedVersion: 2
+    rgba: 4286868892
+  - serializedVersion: 2
+    rgba: 4293390327
+  - serializedVersion: 2
+    rgba: 4289896348
+  - serializedVersion: 2
+    rgba: 4292257296
+  - serializedVersion: 2
+    rgba: 4287918344
+  - serializedVersion: 2
+    rgba: 4289043183
+  DamageColorProbs:
+  - 0.0003925417
+  - 0.02767419
+  - 0.001373896
+  - 0.0011776251
+  - 0.009617272
+  - 0.003925417
+  - 0.0045142295
+  - 0.002747792
+  - 0.0007850834
+  - 0.0005888126
+  - 0.001373896
+  - 0.00019627085
+  - 0.0074582924
+  - 0.0011776251
+  - 0.00019627085
+  - 0.00019627085
+  - 0.0007850834
+  - 0.0003925417
+  - 0.0005888126
+  - 0.0009813543
+  - 0.00019627085
+  - 0.00019627085
+  - 0.0005888126
+  - 0.0015701668
+  - 0.0003925417
+  - 0.07831207
+  - 0.3226693
+  - 0.02531894
+  - 0.010794897
+  - 0.011972522
+  - 0.04808636
+  - 0.021000981
+  - 0.18292443
+  - 0.013542688
+  - 0.04808636
+  - 0.010009813
+  - 0.026300294
+  - 0.0049067712
+  - 0.016879294
+  - 0.00686948
+  - 0.0031403336
+  - 0.0056918547
+  - 0.019823356
+  - 0.0007850834
+  - 0.06849853
+  - 0.0035328753
+  - 0.0005888126
+  - 0.0009813543
+  - 0.00019627085

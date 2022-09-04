@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0214_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 0.8
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 80fbc0ce56f5019418d399eb1c06263a, type: 3}
+  FamilyName: Beer
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 59, y: 7}
+  VisibleRect:
+    x: 43
+    y: 7
+    width: 50
+    height: 68
+  BoxCenterOffset: {x: 0.04, y: -0.23}
+  BoxSize: {x: 0.5, y: 0.68}
+  BoxWidth: 0.3203125
+  Pivot: {x: 63.999992, y: 15.899792}
+  Texture: {fileID: 2800000, guid: 80fbc0ce56f5019418d399eb1c06263a, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4288979097
+  - serializedVersion: 2
+    rgba: 4286614679
+  - serializedVersion: 2
+    rgba: 4293387222
+  - serializedVersion: 2
+    rgba: 4283393918
+  - serializedVersion: 2
+    rgba: 4288329664
+  - serializedVersion: 2
+    rgba: 4279255395
+  - serializedVersion: 2
+    rgba: 4290638839
+  - serializedVersion: 2
+    rgba: 4283272362
+  - serializedVersion: 2
+    rgba: 4278215060
+  - serializedVersion: 2
+    rgba: 4291150008
+  - serializedVersion: 2
+    rgba: 4280409079
+  - serializedVersion: 2
+    rgba: 4278219197
+  - serializedVersion: 2
+    rgba: 4278204556
+  - serializedVersion: 2
+    rgba: 4278240247
+  - serializedVersion: 2
+    rgba: 4280907156
+  - serializedVersion: 2
+    rgba: 4278227923
+  - serializedVersion: 2
+    rgba: 4294965231
+  - serializedVersion: 2
+    rgba: 4282560214
+  - serializedVersion: 2
+    rgba: 4285973214
+  - serializedVersion: 2
+    rgba: 4288467934
+  - serializedVersion: 2
+    rgba: 4284145137
+  DamageColorProbs:
+  - 0.049566723
+  - 0.04783362
+  - 0.0051993066
+  - 0.00034662045
+  - 0.0034662045
+  - 0.0076256497
+  - 0.0038128248
+  - 0.010051993
+  - 0.0013864818
+  - 0.0013864818
+  - 0.0041594454
+  - 0.22738302
+  - 0.142461
+  - 0.162565
+  - 0.01594454
+  - 0.022183709
+  - 0.009012132
+  - 0.15216638
+  - 0.11611785
+  - 0.012131716
+  - 0.0051993066

@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0113_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 9d0c6a9f01b563741adcfcb79c1048cc, type: 3}
+  FamilyName: PinwheelDottedRed
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 58, y: 11}
+  VisibleRect:
+    x: 33
+    y: 11
+    width: 56
+    height: 114
+  BoxCenterOffset: {x: -0.03, y: 0.04}
+  BoxSize: {x: 0.56, y: 1.14}
+  BoxWidth: 0.0390625
+  Pivot: {x: 56.87404, y: 14.548833}
+  Texture: {fileID: 2800000, guid: 9d0c6a9f01b563741adcfcb79c1048cc, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4284645766
+  - serializedVersion: 2
+    rgba: 4282334042
+  - serializedVersion: 2
+    rgba: 4290096838
+  - serializedVersion: 2
+    rgba: 4283588976
+  - serializedVersion: 2
+    rgba: 4287940550
+  - serializedVersion: 2
+    rgba: 4287728039
+  - serializedVersion: 2
+    rgba: 4285768348
+  - serializedVersion: 2
+    rgba: 4282859395
+  - serializedVersion: 2
+    rgba: 4283580845
+  - serializedVersion: 2
+    rgba: 4281408644
+  - serializedVersion: 2
+    rgba: 4285030300
+  - serializedVersion: 2
+    rgba: 4281935037
+  - serializedVersion: 2
+    rgba: 4284111359
+  - serializedVersion: 2
+    rgba: 4291743686
+  - serializedVersion: 2
+    rgba: 4284109270
+  DamageColorProbs:
+  - 0.17222686
+  - 0.09466222
+  - 0.011676397
+  - 0.0033361134
+  - 0.01292744
+  - 0.0145954965
+  - 0.011259383
+  - 0.0016680567
+  - 0.2322769
+  - 0.11384487
+  - 0.088407
+  - 0.020433694
+  - 0.016680567
+  - 0.13761468
+  - 0.068390325

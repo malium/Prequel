@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0158_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 8edbc60ea7a0a7745afcf59728ab66f2, type: 3}
+  FamilyName: UnknownBoLettucePink
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 61, y: 21}
+  VisibleRect:
+    x: 12
+    y: 21
+    width: 75
+    height: 101
+  BoxCenterOffset: {x: -0.145, y: 0.075}
+  BoxSize: {x: 0.75, y: 1.01}
+  BoxWidth: 0.28125
+  Pivot: {x: 61.030846, y: 29.097662}
+  Texture: {fileID: 2800000, guid: 8edbc60ea7a0a7745afcf59728ab66f2, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4287528866
+  - serializedVersion: 2
+    rgba: 4289568462
+  - serializedVersion: 2
+    rgba: 4291344862
+  - serializedVersion: 2
+    rgba: 4282527843
+  - serializedVersion: 2
+    rgba: 4285159294
+  - serializedVersion: 2
+    rgba: 4291732223
+  - serializedVersion: 2
+    rgba: 4284100748
+  - serializedVersion: 2
+    rgba: 4287388110
+  - serializedVersion: 2
+    rgba: 4285942701
+  - serializedVersion: 2
+    rgba: 4292989940
+  - serializedVersion: 2
+    rgba: 4289559031
+  DamageColorProbs:
+  - 0.008241163
+  - 0.02494036
+  - 0.11949685
+  - 0.15940143
+  - 0.0058555626
+  - 0.12361743
+  - 0.0054218173
+  - 0.17761874
+  - 0.13446108
+  - 0.18607678
+  - 0.05486879

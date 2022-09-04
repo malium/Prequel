@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0208_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: dae9b50e9534f0943b9ff64e1d0ff29c, type: 3}
+  FamilyName: BannerVoting
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 122, y: 17}
+  VisibleRect:
+    x: 84
+    y: 17
+    width: 78
+    height: 216
+  BoxCenterOffset: {x: -0.05, y: -0.03}
+  BoxSize: {x: 0.78, y: 2.16}
+  BoxWidth: 0.03515625
+  Pivot: {x: 122.65552, y: 22.298307}
+  Texture: {fileID: 2800000, guid: dae9b50e9534f0943b9ff64e1d0ff29c, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4289018979
+  - serializedVersion: 2
+    rgba: 4284685369
+  - serializedVersion: 2
+    rgba: 4280882209
+  - serializedVersion: 2
+    rgba: 4286852178
+  - serializedVersion: 2
+    rgba: 4291185019
+  - serializedVersion: 2
+    rgba: 4282532170
+  - serializedVersion: 2
+    rgba: 4287404109
+  - serializedVersion: 2
+    rgba: 4288242291
+  - serializedVersion: 2
+    rgba: 4291744602
+  - serializedVersion: 2
+    rgba: 4287392165
+  - serializedVersion: 2
+    rgba: 4289573687
+  - serializedVersion: 2
+    rgba: 4291743521
+  - serializedVersion: 2
+    rgba: 4290421437
+  - serializedVersion: 2
+    rgba: 4287928856
+  - serializedVersion: 2
+    rgba: 4291743727
+  - serializedVersion: 2
+    rgba: 4289552673
+  - serializedVersion: 2
+    rgba: 4287402636
+  - serializedVersion: 2
+    rgba: 4287917377
+  - serializedVersion: 2
+    rgba: 4285756770
+  - serializedVersion: 2
+    rgba: 4290093708
+  - serializedVersion: 2
+    rgba: 4292262532
+  - serializedVersion: 2
+    rgba: 4278201476
+  - serializedVersion: 2
+    rgba: 4285160243
+  - serializedVersion: 2
+    rgba: 4285739189
+  - serializedVersion: 2
+    rgba: 4283568284
+  - serializedVersion: 2
+    rgba: 4292252325
+  - serializedVersion: 2
+    rgba: 4288643520
+  - serializedVersion: 2
+    rgba: 4283904131
+  - serializedVersion: 2
+    rgba: 4290093799
+  - serializedVersion: 2
+    rgba: 4291711314
+  - serializedVersion: 2
+    rgba: 4293914607
+  - serializedVersion: 2
+    rgba: 4285746580
+  - serializedVersion: 2
+    rgba: 4290802828
+  - serializedVersion: 2
+    rgba: 4292786894
+  - serializedVersion: 2
+    rgba: 4292765863
+  - serializedVersion: 2
+    rgba: 4293872020
+  - serializedVersion: 2
+    rgba: 4281930842
+  - serializedVersion: 2
+    rgba: 4283781738
+  - serializedVersion: 2
+    rgba: 4294942414
+  - serializedVersion: 2
+    rgba: 4293909437
+  - serializedVersion: 2
+    rgba: 4280822907
+  - serializedVersion: 2
+    rgba: 4280307884
+  - serializedVersion: 2
+    rgba: 4279793118
+  DamageColorProbs:
+  - 0.00091093115
+  - 0.0086032385
+  - 0.070748985
+  - 0.026214575
+  - 0.004048583
+  - 0.031680163
+  - 0.003340081
+  - 0.071356274
+  - 0.021558704
+  - 0.0010121458
+  - 0.0063765184
+  - 0.059615385
+  - 0.0051619434
+  - 0.087145746
+  - 0.02631579
+  - 0.02742915
+  - 0.0011133603
+  - 0.00030364373
+  - 0.0023279353
+  - 0.00010121457
+  - 0.000708502
+  - 0.015080972
+  - 0.0048582996
+  - 0.014574898
+  - 0.00060728745
+  - 0.0008097166
+  - 0.058502026
+  - 0.093218625
+  - 0.0046558706
+  - 0.009008097
+  - 0.020647774
+  - 0.0098178135
+  - 0.010829959
+  - 0.004554656
+  - 0.013259109
+  - 0.029453442
+  - 0.0010121458
+  - 0.0034412956
+  - 0.0023279353
+  - 0.055263158
+  - 0.119331986
+  - 0.070647776
+  - 0.0020242915

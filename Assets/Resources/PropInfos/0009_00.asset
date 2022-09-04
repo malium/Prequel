@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0009_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: e260a15e9f9876f4a833229fac1fcb3e, type: 3}
+  FamilyName: Bibibean
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 28, y: 4}
+  VisibleRect:
+    x: 10
+    y: 4
+    width: 110
+    height: 100
+  BoxCenterOffset: {x: 0.01, y: -0.1}
+  BoxSize: {x: 1.1, y: 1}
+  BoxWidth: 0.796875
+  Pivot: {x: 67.56922, y: 18.93052}
+  Texture: {fileID: 2800000, guid: e260a15e9f9876f4a833229fac1fcb3e, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4285754764
+  - serializedVersion: 2
+    rgba: 4281940034
+  - serializedVersion: 2
+    rgba: 4283913072
+  - serializedVersion: 2
+    rgba: 4281608552
+  - serializedVersion: 2
+    rgba: 4284109212
+  - serializedVersion: 2
+    rgba: 4286281158
+  - serializedVersion: 2
+    rgba: 4279242809
+  - serializedVersion: 2
+    rgba: 4283922602
+  - serializedVersion: 2
+    rgba: 4288452327
+  - serializedVersion: 2
+    rgba: 4287934141
+  - serializedVersion: 2
+    rgba: 4286288540
+  - serializedVersion: 2
+    rgba: 4290103254
+  - serializedVersion: 2
+    rgba: 4290096895
+  - serializedVersion: 2
+    rgba: 4292070649
+  - serializedVersion: 2
+    rgba: 4285242054
+  DamageColorProbs:
+  - 0.06076144
+  - 0.007563133
+  - 0.0035892834
+  - 0.014228945
+  - 0.009101397
+  - 0.006794001
+  - 0.0002563774
+  - 0.0002563774
+  - 0.13190617
+  - 0.08063069
+  - 0.044737853
+  - 0.34085375
+  - 0.015382643
+  - 0.1893347
+  - 0.094603255

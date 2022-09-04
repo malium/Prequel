@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0045_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.5
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 2c90d2c28ef4f514890e614438eabd95, type: 3}
+  FamilyName: CropOfMasorka
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 50, y: 4}
+  VisibleRect:
+    x: 34
+    y: 4
+    width: 55
+    height: 107
+  BoxCenterOffset: {x: -0.025, y: -0.065}
+  BoxSize: {x: 0.55, y: 1.07}
+  BoxWidth: 0.1640625
+  Pivot: {x: 53.90489, y: 9.798195}
+  Texture: {fileID: 2800000, guid: 2c90d2c28ef4f514890e614438eabd95, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4283052081
+  - serializedVersion: 2
+    rgba: 4280496138
+  - serializedVersion: 2
+    rgba: 4281956756
+  - serializedVersion: 2
+    rgba: 4285747497
+  - serializedVersion: 2
+    rgba: 4286283074
+  - serializedVersion: 2
+    rgba: 4289554754
+  - serializedVersion: 2
+    rgba: 4285215818
+  - serializedVersion: 2
+    rgba: 4280713416
+  - serializedVersion: 2
+    rgba: 4282556118
+  - serializedVersion: 2
+    rgba: 4284724950
+  - serializedVersion: 2
+    rgba: 4283070827
+  - serializedVersion: 2
+    rgba: 4281422930
+  - serializedVersion: 2
+    rgba: 4287406715
+  - serializedVersion: 2
+    rgba: 4278748927
+  - serializedVersion: 2
+    rgba: 4284717700
+  DamageColorProbs:
+  - 0.01582015
+  - 0.024562864
+  - 0.00083263946
+  - 0.023313904
+  - 0.022064947
+  - 0.009159034
+  - 0.0041631972
+  - 0.00041631973
+  - 0.42506245
+  - 0.11490425
+  - 0.037052456
+  - 0.18817651
+  - 0.07285596
+  - 0.03122398
+  - 0.030391341

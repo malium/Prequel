@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0364_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 1c29973754fd6db469047988d4b8120f, type: 3}
+  FamilyName: SoulsLantern
+  HasLighting: 1
+  LightHeight: 0.5
+  LightRange: 12
+  LightIntensity: 2
+  LightColor:
+    serializedVersion: 2
+    rgba: 4288544588
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 23, y: 0}
+  VisibleRect:
+    x: 0
+    y: 0
+    width: 109
+    height: 127
+  BoxCenterOffset: {x: -0.095, y: -0.005}
+  BoxSize: {x: 1.09, y: 1.27}
+  BoxWidth: 0.796875
+  Pivot: {x: 88.0501, y: 7.5861754}
+  Texture: {fileID: 2800000, guid: 1c29973754fd6db469047988d4b8120f, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4280690712
+  - serializedVersion: 2
+    rgba: 4291231488
+  - serializedVersion: 2
+    rgba: 4285037157
+  - serializedVersion: 2
+    rgba: 4282993710
+  - serializedVersion: 2
+    rgba: 4281929794
+  - serializedVersion: 2
+    rgba: 4286881420
+  - serializedVersion: 2
+    rgba: 4283063651
+  - serializedVersion: 2
+    rgba: 4287739656
+  - serializedVersion: 2
+    rgba: 4284443198
+  - serializedVersion: 2
+    rgba: 4284314896
+  - serializedVersion: 2
+    rgba: 4289584642
+  - serializedVersion: 2
+    rgba: 4287930979
+  - serializedVersion: 2
+    rgba: 4285550208
+  - serializedVersion: 2
+    rgba: 4286093066
+  - serializedVersion: 2
+    rgba: 4284101731
+  - serializedVersion: 2
+    rgba: 4286290228
+  - serializedVersion: 2
+    rgba: 4287392156
+  - serializedVersion: 2
+    rgba: 4288463682
+  - serializedVersion: 2
+    rgba: 4292279155
+  - serializedVersion: 2
+    rgba: 4290109010
+  DamageColorProbs:
+  - 0.0037885027
+  - 0.0046944492
+  - 0.0018118926
+  - 0.0027178389
+  - 0.023636963
+  - 0.00057651126
+  - 0.01713062
+  - 0.04290891
+  - 0.010130127
+  - 0.006671059
+  - 0.6227969
+  - 0.051803656
+  - 0.043155987
+  - 0.0067534177
+  - 0.011036073
+  - 0.0019766102
+  - 0.0008235875
+  - 0.09331247
+  - 0.05089771
+  - 0.0033767088

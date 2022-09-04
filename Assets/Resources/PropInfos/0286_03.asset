@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0286_03
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: d23eebea69cf9db4eb9dc9487c878f1c, type: 3}
+  FamilyName: GraveMarble
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 62, y: 26}
+  VisibleRect:
+    x: 25
+    y: 26
+    width: 79
+    height: 75
+  BoxCenterOffset: {x: 0.005, y: -0.005}
+  BoxSize: {x: 0.79, y: 0.75}
+  BoxWidth: 0.21875
+  Pivot: {x: 64.59383, y: 41.731384}
+  Texture: {fileID: 2800000, guid: d23eebea69cf9db4eb9dc9487c878f1c, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4287930529
+  - serializedVersion: 2
+    rgba: 4290102214
+  - serializedVersion: 2
+    rgba: 4291745758
+  - serializedVersion: 2
+    rgba: 4281956791
+  - serializedVersion: 2
+    rgba: 4285174194
+  - serializedVersion: 2
+    rgba: 4285233531
+  - serializedVersion: 2
+    rgba: 4278741454
+  - serializedVersion: 2
+    rgba: 4282292955
+  - serializedVersion: 2
+    rgba: 4284138487
+  - serializedVersion: 2
+    rgba: 4278733221
+  - serializedVersion: 2
+    rgba: 4278750959
+  - serializedVersion: 2
+    rgba: 4285379019
+  - serializedVersion: 2
+    rgba: 4281946508
+  DamageColorProbs:
+  - 0.0026474127
+  - 0.002166065
+  - 0.0036101083
+  - 0.0014440434
+  - 0.002406739
+  - 0.0004813478
+  - 0.0002406739
+  - 0.15884477
+  - 0.33694345
+  - 0.34993982
+  - 0.12563176
+  - 0.0077015646
+  - 0.007942238

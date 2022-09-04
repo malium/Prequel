@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0353_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 31f7088d4331fa940920dfca676b9c8d, type: 3}
+  FamilyName: ScribbledLettuce
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 68, y: 4}
+  VisibleRect:
+    x: 39
+    y: 4
+    width: 46
+    height: 40
+  BoxCenterOffset: {x: -0.02, y: -0.4}
+  BoxSize: {x: 0.46, y: 0.4}
+  BoxWidth: 0.2734375
+  Pivot: {x: 62.812336, y: 6.992346}
+  Texture: {fileID: 2800000, guid: 31f7088d4331fa940920dfca676b9c8d, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4286253163
+  - serializedVersion: 2
+    rgba: 4282846510
+  - serializedVersion: 2
+    rgba: 4280357893
+  - serializedVersion: 2
+    rgba: 4290577589
+  - serializedVersion: 2
+    rgba: 4293329118
+  - serializedVersion: 2
+    rgba: 4289005716
+  - serializedVersion: 2
+    rgba: 4294902015
+  DamageColorProbs:
+  - 0.014760148
+  - 0.075276755
+  - 0.0051660514
+  - 0.018450184
+  - 0.81476015
+  - 0.04206642
+  - 0.029520296

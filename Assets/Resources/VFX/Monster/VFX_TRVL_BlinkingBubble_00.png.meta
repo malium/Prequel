@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 32ac7a3c5eaf06b42b0c8f8533df9944
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7441871778229498984
+    second: VFX_PRJ_TRVL_BlinkingBubble_00_0
+  - first:
+      213: 8157309926215898189
+    second: VFX_PRJ_TRVL_BlinkingBubble_00_1
+  - first:
+      213: 95313936245024961
+    second: VFX_PRJ_TRVL_BlinkingBubble_00_2
+  - first:
+      213: 7541838572366782451
+    second: VFX_PRJ_TRVL_BlinkingBubble_00_3
+  - first:
+      213: 3857534696812246430
+    second: VFX_PRJ_TRVL_BlinkingBubble_00_4
+  - first:
+      213: 58070767891433800
+    second: VFX_PRJ_TRVL_BlinkingBubble_00_5
+  - first:
+      213: 2475448475234022441
+    second: VFX_PRJ_TRVL_BlinkingBubble_00_6
+  - first:
+      213: -405429102592832373
+    second: VFX_PRJ_TRVL_BlinkingBubble_00_7
+  - first:
+      213: 3995590632641604113
+    second: VFX_PRJ_TRVL_BlinkingBubble_00_8
+  - first:
+      213: 2861417165699369641
+    second: VFX_PRJ_TRVL_BlinkingBubble_00_9
+  - first:
+      213: 5278332120758294138
+    second: VFX_PRJ_TRVL_BlinkingBubble_00_10
+  - first:
+      213: 1883771637461083169
+    second: VFX_PRJ_TRVL_BlinkingBubble_00_11
+  - first:
+      213: 237239567026541983
+    second: VFX_PRJ_TRVL_BlinkingBubble_00_12
+  - first:
+      213: 6140892428691601670
+    second: VFX_PRJ_TRVL_BlinkingBubble_00_13
+  - first:
+      213: 706881382854660951
+    second: VFX_PRJ_TRVL_BlinkingBubble_00_14
+  - first:
+      213: -6504002887287300811
+    second: VFX_PRJ_TRVL_BlinkingBubble_00_15
+  - first:
+      213: -7377726070527612509
+    second: VFX_TRVL_BlinkingBubble_00_0
+  - first:
+      213: 2195846604307996493
+    second: VFX_TRVL_BlinkingBubble_00_1
+  - first:
+      213: -1076509745990516040
+    second: VFX_TRVL_BlinkingBubble_00_2
+  - first:
+      213: 344715415490338054
+    second: VFX_TRVL_BlinkingBubble_00_3
+  - first:
+      213: -4273394048927326996
+    second: VFX_TRVL_BlinkingBubble_00_4
+  - first:
+      213: 4761744748687818201
+    second: VFX_TRVL_BlinkingBubble_00_5
+  - first:
+      213: -7590095676408414685
+    second: VFX_TRVL_BlinkingBubble_00_6
+  - first:
+      213: -4558696271507573754
+    second: VFX_TRVL_BlinkingBubble_00_7
+  - first:
+      213: 1474596619506033709
+    second: VFX_TRVL_BlinkingBubble_00_8
+  - first:
+      213: 7859056822206409711
+    second: VFX_TRVL_BlinkingBubble_00_9
+  - first:
+      213: 5268216225220539232
+    second: VFX_TRVL_BlinkingBubble_00_10
+  - first:
+      213: -534798872670178437
+    second: VFX_TRVL_BlinkingBubble_00_11
+  - first:
+      213: -5085434676553660060
+    second: VFX_TRVL_BlinkingBubble_00_12
+  - first:
+      213: 2496281603485656867
+    second: VFX_TRVL_BlinkingBubble_00_13
+  - first:
+      213: 4505335347740802985
+    second: VFX_TRVL_BlinkingBubble_00_14
+  - first:
+      213: 9133789636423234109
+    second: VFX_TRVL_BlinkingBubble_00_15
+  - first:
+      213: 2823237098458166622
+    second: VFX_TRVL_BlinkingBubble_00_16
+  - first:
+      213: -2644155120751575551
+    second: VFX_TRVL_BlinkingBubble_00_17
+  - first:
+      213: -7371949856590581876
+    second: VFX_TRVL_BlinkingBubble_00_18
+  - first:
+      213: -3000647912611570966
+    second: VFX_TRVL_BlinkingBubble_00_19
+  - first:
+      213: 6649690267935470152
+    second: VFX_TRVL_BlinkingBubble_00_20
+  - first:
+      213: 1873429967752590363
+    second: VFX_TRVL_BlinkingBubble_00_21
+  - first:
+      213: -5065564189094735666
+    second: VFX_TRVL_BlinkingBubble_00_22
+  - first:
+      213: -6750221509614262565
+    second: VFX_TRVL_BlinkingBubble_00_23
+  - first:
+      213: 6528094974584421168
+    second: VFX_TRVL_BlinkingBubble_00_24
+  - first:
+      213: 2292604122748757887
+    second: VFX_TRVL_BlinkingBubble_00_25
+  - first:
+      213: 5188585406866992362
+    second: VFX_TRVL_BlinkingBubble_00_26
+  - first:
+      213: 6676771747224909487
+    second: VFX_TRVL_BlinkingBubble_00_27
+  - first:
+      213: 3437004268170646818
+    second: VFX_TRVL_BlinkingBubble_00_28
+  - first:
+      213: 1409446611483945571
+    second: VFX_TRVL_BlinkingBubble_00_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_TRVL_BlinkingBubble_00_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9201c4a3d0d9990800000000000000
+      internalID: -7377726070527612509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_BlinkingBubble_00_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f960f3ad6397e10800000000000000
+      internalID: 2195846604307996493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_BlinkingBubble_00_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b24df0f6187f01f0800000000000000
+      internalID: -1076509745990516040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_BlinkingBubble_00_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d17e018dca8c400800000000000000
+      internalID: 344715415490338054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_BlinkingBubble_00_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec1b6001cad1b4c0800000000000000
+      internalID: -4273394048927326996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_BlinkingBubble_00_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd7e90ce9d151240800000000000000
+      internalID: 4761744748687818201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_BlinkingBubble_00_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32eb27442309aa690800000000000000
+      internalID: -7590095676408414685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_BlinkingBubble_00_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604b4e1e4e14cb0c0800000000000000
+      internalID: -4558696271507573754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_BlinkingBubble_00_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2426ac00d1d67410800000000000000
+      internalID: 1474596619506033709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_BlinkingBubble_00_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb293d6a8af01d60800000000000000
+      internalID: 7859056822206409711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_BlinkingBubble_00_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0633830aeb67c1940800000000000000
+      internalID: 5268216225220539232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_BlinkingBubble_00_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73f63042430498f0800000000000000
+      internalID: -534798872670178437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_BlinkingBubble_00_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469c09ffa18ec69b0800000000000000
+      internalID: -5085434676553660060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_BlinkingBubble_00_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327ea1b74e294a220800000000000000
+      internalID: 2496281603485656867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_BlinkingBubble_00_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aff914e0aa268e30800000000000000
+      internalID: 4505335347740802985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_BlinkingBubble_00_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32b62c084db1ce70800000000000000
+      internalID: 9133789636423234109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      VFX_TRVL_BlinkingBubble_00_12: -5085434676553660060
+      VFX_TRVL_BlinkingBubble_00_4: -4273394048927326996
+      VFX_TRVL_BlinkingBubble_00_14: 4505335347740802985
+      VFX_TRVL_BlinkingBubble_00_9: 7859056822206409711
+      VFX_TRVL_BlinkingBubble_00_1: 2195846604307996493
+      VFX_TRVL_BlinkingBubble_00_11: -534798872670178437
+      VFX_TRVL_BlinkingBubble_00_8: 1474596619506033709
+      VFX_TRVL_BlinkingBubble_00_6: -7590095676408414685
+      VFX_TRVL_BlinkingBubble_00_15: 9133789636423234109
+      VFX_TRVL_BlinkingBubble_00_0: -7377726070527612509
+      VFX_TRVL_BlinkingBubble_00_10: 5268216225220539232
+      VFX_TRVL_BlinkingBubble_00_13: 2496281603485656867
+      VFX_TRVL_BlinkingBubble_00_3: 344715415490338054
+      VFX_TRVL_BlinkingBubble_00_2: -1076509745990516040
+      VFX_TRVL_BlinkingBubble_00_5: 4761744748687818201
+      VFX_TRVL_BlinkingBubble_00_7: -4558696271507573754
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

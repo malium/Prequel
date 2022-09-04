@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0320_11
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.3
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 3f5ccef65ba2133409718699322afa85, type: 3}
+  FamilyName: Neon
+  HasLighting: 1
+  LightHeight: 0.5
+  LightRange: 10
+  LightIntensity: 1.5
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294926097
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 53, y: 10}
+  VisibleRect:
+    x: 18
+    y: 10
+    width: 78
+    height: 109
+  BoxCenterOffset: {x: -0.07, y: 0.005}
+  BoxSize: {x: 0.78, y: 1.09}
+  BoxWidth: 0.3359375
+  Pivot: {x: 55.68638, y: 15.899792}
+  Texture: {fileID: 2800000, guid: 3f5ccef65ba2133409718699322afa85, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4284299304
+  - serializedVersion: 2
+    rgba: 4282524688
+  - serializedVersion: 2
+    rgba: 4286865738
+  - serializedVersion: 2
+    rgba: 4291725931
+  - serializedVersion: 2
+    rgba: 4289558874
+  - serializedVersion: 2
+    rgba: 4293374612
+  - serializedVersion: 2
+    rgba: 4294955965
+  - serializedVersion: 2
+    rgba: 4294930737
+  - serializedVersion: 2
+    rgba: 4286852096
+  - serializedVersion: 2
+    rgba: 4294935139
+  - serializedVersion: 2
+    rgba: 4291124006
+  - serializedVersion: 2
+    rgba: 4287318307
+  - serializedVersion: 2
+    rgba: 4293874960
+  - serializedVersion: 2
+    rgba: 4289543168
+  DamageColorProbs:
+  - 0.041483343
+  - 0.020951184
+  - 0.028074587
+  - 0.009847056
+  - 0.008380474
+  - 0.13366856
+  - 0.005237796
+  - 0.0672533
+  - 0.029541168
+  - 0.005237796
+  - 0.0029331658
+  - 0.0006285355
+  - 0.6105175
+  - 0.036245547

@@ -1,0 +1,654 @@
+fileFormatVersion: 2
+guid: 7b04cc59aa94822459190bff4c29979f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6421263306858830450
+    second: VFX_CST_Slash_00_0
+  - first:
+      213: -3684150735001625969
+    second: VFX_CST_Slash_00_1
+  - first:
+      213: 3117443162133331395
+    second: VFX_CST_Slash_00_2
+  - first:
+      213: -4983471883739604849
+    second: VFX_CST_Slash_00_3
+  - first:
+      213: -4372990673940106283
+    second: VFX_CST_Slash_00_4
+  - first:
+      213: -5761863924913084143
+    second: VFX_CST_Slash_00_5
+  - first:
+      213: 8573457404274826325
+    second: VFX_CST_Slash_00_6
+  - first:
+      213: 5808401550655585614
+    second: VFX_CST_Slash_00_7
+  - first:
+      213: -1854970019315146881
+    second: VFX_CST_Slash_00_8
+  - first:
+      213: 759183271509334385
+    second: VFX_CST_Slash_00_9
+  - first:
+      213: 125757125573411192
+    second: VFX_CST_Slash_00_10
+  - first:
+      213: 3502115601249168450
+    second: VFX_CST_Slash_00_11
+  - first:
+      213: -4530636090137281231
+    second: VFX_CST_Slash_00_12
+  - first:
+      213: -5612153114953092500
+    second: VFX_CST_Slash_00_13
+  - first:
+      213: -2497012631177612843
+    second: VFX_CST_Slash_00_14
+  - first:
+      213: -7589086014456258991
+    second: VFX_CST_Slash_00_15
+  - first:
+      213: 6901994102099353172
+    second: VFX_CST_Slash_00_16
+  - first:
+      213: 5568884697310888102
+    second: VFX_CST_Slash_00_17
+  - first:
+      213: -4218813041776627466
+    second: VFX_CST_Slash_00_18
+  - first:
+      213: -7815138061734486473
+    second: VFX_CST_Slash_00_19
+  - first:
+      213: -3437284103563722392
+    second: VFX_CST_Slash_00_20
+  - first:
+      213: 6811400461172007549
+    second: VFX_CST_Slash_00_21
+  - first:
+      213: 8524821764109475210
+    second: VFX_CST_Slash_00_22
+  - first:
+      213: -1671510760190210579
+    second: VFX_CST_Slash_00_23
+  - first:
+      213: 9117118550230974156
+    second: VFX_CST_Slash_00_24
+  - first:
+      213: -365149080558630728
+    second: VFX_CST_Slash_00_25
+  - first:
+      213: -106402326727391323
+    second: VFX_CST_Slash_00_26
+  - first:
+      213: -3729042380724716411
+    second: VFX_CST_Slash_00_27
+  - first:
+      213: 2323265416673119339
+    second: VFX_CST_Slash_00_28
+  - first:
+      213: -8945538823769234750
+    second: VFX_CST_Slash_00_29
+  - first:
+      213: 6006258676088745664
+    second: VFX_CST_Slash_00_30
+  - first:
+      213: -689723452779971499
+    second: VFX_CST_Slash_00_31
+  - first:
+      213: 5670812526701075663
+    second: VFX_CST_Slash_00_32
+  - first:
+      213: 5986954230926911983
+    second: VFX_CST_Slash_00_33
+  - first:
+      213: 378126167970272675
+    second: VFX_CST_Slash_00_34
+  - first:
+      213: -7804334484894797160
+    second: VFX_CST_Slash_00_35
+  - first:
+      213: 8157628028190631239
+    second: VFX_CST_Slash_00_36
+  - first:
+      213: -2178136958518541058
+    second: VFX_CST_Slash_00_37
+  - first:
+      213: -8785036104706996951
+    second: VFX_CST_Slash_00_38
+  - first:
+      213: -5157775267352325019
+    second: VFX_CST_Slash_00_39
+  - first:
+      213: -5093499332611794561
+    second: VFX_CST_Slash_00_40
+  - first:
+      213: 7459685275146114212
+    second: VFX_CST_Slash_00_41
+  - first:
+      213: 2445755354257970522
+    second: VFX_CST_Slash_00_42
+  - first:
+      213: -7480397854331481300
+    second: VFX_CST_Slash_00_43
+  - first:
+      213: -8820036188192581464
+    second: VFX_CST_Slash_00_44
+  - first:
+      213: 8694200440895017869
+    second: VFX_CST_Slash_00_45
+  - first:
+      213: 7501178609992219247
+    second: VFX_CST_Slash_00_46
+  - first:
+      213: -2451557443527864290
+    second: VFX_CST_Slash_00_47
+  - first:
+      213: -5400139017859640330
+    second: VFX_CST_Slash_00_48
+  - first:
+      213: -9086975456368091188
+    second: VFX_CST_Slash_00_49
+  - first:
+      213: 4641409629250470694
+    second: VFX_CST_Slash_00_50
+  - first:
+      213: -4897495450212534056
+    second: VFX_CST_Slash_00_51
+  - first:
+      213: 3841994968892312979
+    second: VFX_CST_Slash_00_52
+  - first:
+      213: -2825891566801977003
+    second: VFX_CST_Slash_00_53
+  - first:
+      213: -1808085316969694110
+    second: VFX_CST_Slash_00_54
+  - first:
+      213: -8109839302884662729
+    second: VFX_CST_Slash_00_55
+  - first:
+      213: -1408838845450677389
+    second: VFX_CST_Slash_00_56
+  - first:
+      213: 814563735215623243
+    second: VFX_CST_Slash_00_57
+  - first:
+      213: -209121670663920070
+    second: VFX_CST_Slash_00_58
+  - first:
+      213: 8212194557975675005
+    second: VFX_CST_Slash_00_59
+  - first:
+      213: 50901053648249700
+    second: VFX_CST_Slash_00_60
+  - first:
+      213: 2006086006613503790
+    second: VFX_CST_Slash_00_61
+  - first:
+      213: -8244919703277318254
+    second: VFX_CST_Slash_00_62
+  - first:
+      213: -927976346523105507
+    second: VFX_CST_Slash_00_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_CST_Slash_00_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a129ec4f8ec1950800000000000000
+      internalID: 6421263306858830450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Slash_00_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8adb3d0d644fdcc0800000000000000
+      internalID: -3684150735001625969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Slash_00_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd7d6ef902634b20800000000000000
+      internalID: 3117443162133331395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Slash_00_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88dd8da9b627dab0800000000000000
+      internalID: -4983471883739604849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Slash_00_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d334b1b6240053c0800000000000000
+      internalID: -4372990673940106283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Slash_00_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119ea67b94fb900b0800000000000000
+      internalID: -5761863924913084143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Slash_00_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c5eb6c51a0bf670800000000000000
+      internalID: 8573457404274826325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Slash_00_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d77a3af669b9050800000000000000
+      internalID: 5808401550655585614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Slash_00_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f98b17892d146e0800000000000000
+      internalID: -1854970019315146881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Slash_00_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1799bb1c929298a00800000000000000
+      internalID: 759183271509334385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Slash_00_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87107cd7077ceb100800000000000000
+      internalID: 125757125573411192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Slash_00_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c6fc695930a9030800000000000000
+      internalID: 3502115601249168450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Slash_00_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d7dc8fa72ff11c0800000000000000
+      internalID: -4530636090137281231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Slash_00_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c627e16f970ad12b0800000000000000
+      internalID: -5612153114953092500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Slash_00_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1befedd34d85dd0800000000000000
+      internalID: -2497012631177612843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Slash_00_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e13728a762ea690800000000000000
+      internalID: -7589086014456258991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b9857e511c9a37645afe590f0eaa1011
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      VFX_CST_Slash_00_4: -4372990673940106283
+      VFX_CST_Slash_00_0: 6421263306858830450
+      VFX_CST_Slash_00_13: -5612153114953092500
+      VFX_CST_Slash_00_3: -4983471883739604849
+      VFX_CST_Slash_00_10: 125757125573411192
+      VFX_CST_Slash_00_15: -7589086014456258991
+      VFX_CST_Slash_00_12: -4530636090137281231
+      VFX_CST_Slash_00_14: -2497012631177612843
+      VFX_CST_Slash_00_11: 3502115601249168450
+      VFX_CST_Slash_00_7: 5808401550655585614
+      VFX_CST_Slash_00_2: 3117443162133331395
+      VFX_CST_Slash_00_6: 8573457404274826325
+      VFX_CST_Slash_00_1: -3684150735001625969
+      VFX_CST_Slash_00_9: 759183271509334385
+      VFX_CST_Slash_00_5: -5761863924913084143
+      VFX_CST_Slash_00_8: -1854970019315146881
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

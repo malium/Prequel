@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0247_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 0.8
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 781233367abb74640983f0e715332fbd, type: 3}
+  FamilyName: Diamond
+  HasLighting: 1
+  LightHeight: 0.6
+  LightRange: 6
+  LightIntensity: 0.6
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 76, y: 8}
+  VisibleRect:
+    x: 27
+    y: 8
+    width: 61
+    height: 84
+  BoxCenterOffset: {x: -0.065, y: -0.14}
+  BoxSize: {x: 0.61, y: 0.84}
+  BoxWidth: 0.4453125
+  Pivot: {x: 56.28021, y: 15.602877}
+  Texture: {fileID: 2800000, guid: 781233367abb74640983f0e715332fbd, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4290617963
+  - serializedVersion: 2
+    rgba: 4292790428
+  - serializedVersion: 2
+    rgba: 4293711296
+  - serializedVersion: 2
+    rgba: 4294438878
+  - serializedVersion: 2
+    rgba: 4290620316
+  - serializedVersion: 2
+    rgba: 4288447603
+  - serializedVersion: 2
+    rgba: 4293376627
+  - serializedVersion: 2
+    rgba: 4289032522
+  - serializedVersion: 2
+    rgba: 4286274890
+  - serializedVersion: 2
+    rgba: 4291750870
+  DamageColorProbs:
+  - 0.0073416946
+  - 0.0073416946
+  - 0.0045885593
+  - 0.0030590394
+  - 0.0012236158
+  - 0.1550933
+  - 0.16824716
+  - 0.18629551
+  - 0.46130314
+  - 0.005506271

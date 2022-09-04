@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0199_03
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 0.6
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: e6cc5063b5ecca747b0b6144bfb09be1, type: 3}
+  FamilyName: Ball
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 56, y: 35}
+  VisibleRect:
+    x: 33
+    y: 35
+    width: 61
+    height: 61
+  BoxCenterOffset: {x: -0.005, y: 0.015}
+  BoxSize: {x: 0.61, y: 0.61}
+  BoxWidth: 0
+  Pivot: {x: 64.59383, y: 39.949898}
+  Texture: {fileID: 2800000, guid: e6cc5063b5ecca747b0b6144bfb09be1, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4281220924
+  - serializedVersion: 2
+    rgba: 4283192146
+  - serializedVersion: 2
+    rgba: 4279766098
+  - serializedVersion: 2
+    rgba: 4284836458
+  - serializedVersion: 2
+    rgba: 4281741413
+  - serializedVersion: 2
+    rgba: 4286286459
+  - serializedVersion: 2
+    rgba: 4287930012
+  - serializedVersion: 2
+    rgba: 4283912335
+  - serializedVersion: 2
+    rgba: 4289574581
+  - serializedVersion: 2
+    rgba: 4282524870
+  - serializedVersion: 2
+    rgba: 4286479524
+  - serializedVersion: 2
+    rgba: 4281409684
+  - serializedVersion: 2
+    rgba: 4291350480
+  - serializedVersion: 2
+    rgba: 4292994281
+  - serializedVersion: 2
+    rgba: 4285028282
+  - serializedVersion: 2
+    rgba: 4286873038
+  DamageColorProbs:
+  - 0.12322122
+  - 0.014553687
+  - 0.007115136
+  - 0.008408797
+  - 0.09379043
+  - 0.008732212
+  - 0.0051746443
+  - 0.00032341527
+  - 0.16235447
+  - 0.16655886
+  - 0.023609314
+  - 0.12192755
+  - 0.018758085
+  - 0.0889392
+  - 0.11772316
+  - 0.038809832

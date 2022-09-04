@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257dac38790f84f498cc52fab1edd870, type: 3}
+  m_Name: 0094
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  Name: GoburinMannequin
+  SpriteScale: 1
+  Frames:
+  - {fileID: 21300000, guid: 15e624a7fc28a2a41814dc1e03076e64, type: 3}
+  - {fileID: 21300000, guid: fb24cd239a030c8499a3c429e9acd96c, type: 3}
+  - {fileID: 21300000, guid: da62455c742341c4a94ce59c6783d735, type: 3}
+  - {fileID: 21300000, guid: 1eb7573f6a416b44c9f8db3aa54e3b5d, type: 3}
+  - {fileID: 21300000, guid: 0545b58542b090a47a45e46a46b22937, type: 3}
+  - {fileID: 21300000, guid: a5ceca139e4aefb44bc0e72f4e08def6, type: 3}
+  BaseHealth: 10000000
+  BaseSpeed: 0
+  SightRange: 0
+  SightAngle: 1
+  HearingRange: 0
+  AttackRange: 0
+  AttackRate: 0
+  AttackDamage: 0
+  DamageType: 0
+  FriendlyFamilies: []
+  AIType: 0
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel:
+  - {x: 68, y: 3}
+  - {x: 68, y: 3}
+  - {x: 61, y: 3}
+  - {x: 62, y: 3}
+  - {x: 68, y: 3}
+  - {x: 61, y: 3}
+  VisibleRect:
+  - x: 27
+    y: 3
+    width: 74
+    height: 121
+  - x: 31
+    y: 3
+    width: 71
+    height: 121
+  - x: 26
+    y: 3
+    width: 73
+    height: 117
+  - x: 27
+    y: 3
+    width: 79
+    height: 118
+  - x: 27
+    y: 3
+    width: 74
+    height: 121
+  - x: 26
+    y: 3
+    width: 73
+    height: 117
+  BoxCenterOffset:
+  - {x: 0, y: -0.005}
+  - {x: 0.025, y: -0.005}
+  - {x: -0.015, y: -0.025}
+  - {x: 0.025, y: -0.02}
+  - {x: 0, y: -0.005}
+  - {x: -0.015, y: -0.025}
+  BoxSize:
+  - {x: 0.74, y: 1.21}
+  - {x: 0.71, y: 1.21}
+  - {x: 0.73, y: 1.17}
+  - {x: 0.79, y: 1.18}
+  - {x: 0.74, y: 1.21}
+  - {x: 0.73, y: 1.17}
+  Textures:
+  - {fileID: 2800000, guid: 15e624a7fc28a2a41814dc1e03076e64, type: 3}
+  - {fileID: 2800000, guid: fb24cd239a030c8499a3c429e9acd96c, type: 3}
+  - {fileID: 2800000, guid: da62455c742341c4a94ce59c6783d735, type: 3}
+  - {fileID: 2800000, guid: 1eb7573f6a416b44c9f8db3aa54e3b5d, type: 3}
+  - {fileID: 2800000, guid: 0545b58542b090a47a45e46a46b22937, type: 3}
+  - {fileID: 2800000, guid: a5ceca139e4aefb44bc0e72f4e08def6, type: 3}
+  Pivots:
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}

@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0412_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 0
+  PropSprite: {fileID: 21300000, guid: fdb426b3d8f72b8408437b8b5740ca61, type: 3}
+  FamilyName: SolarFlareYellow
+  HasLighting: 1
+  LightHeight: 1
+  LightRange: 15
+  LightIntensity: 1.5
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 70, y: 0}
+  VisibleRect:
+    x: 56
+    y: 0
+    width: 174
+    height: 235
+  BoxCenterOffset: {x: 0.15, y: -0.105}
+  BoxSize: {x: 1.74, y: 2.35}
+  BoxWidth: 0.47265625
+  Pivot: {x: 116.37755, y: 30.126644}
+  Texture: {fileID: 2800000, guid: fdb426b3d8f72b8408437b8b5740ca61, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4278225663
+  - serializedVersion: 2
+    rgba: 4281466855
+  - serializedVersion: 2
+    rgba: 4278248953
+  - serializedVersion: 2
+    rgba: 4278255574
+  - serializedVersion: 2
+    rgba: 4278237951
+  - serializedVersion: 2
+    rgba: 4283746287
+  - serializedVersion: 2
+    rgba: 4285267934
+  - serializedVersion: 2
+    rgba: 4279789055
+  - serializedVersion: 2
+    rgba: 4280868089
+  - serializedVersion: 2
+    rgba: 4278729983
+  - serializedVersion: 2
+    rgba: 4281766135
+  DamageColorProbs:
+  - 0.008773685
+  - 0.00053376035
+  - 0.0039364826
+  - 0.0030357619
+  - 0.00010008006
+  - 0.000066720044
+  - 0.73535496
+  - 0.12259808
+  - 0.089037895
+  - 0.01601281
+  - 0.020549772

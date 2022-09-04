@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0392_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.3
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: c85c7f98a0e4db64197db678ec1c29d6, type: 3}
+  FamilyName: TrainingManequin
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 63, y: 5}
+  VisibleRect:
+    x: 7
+    y: 5
+    width: 101
+    height: 118
+  BoxCenterOffset: {x: -0.065, y: 0}
+  BoxSize: {x: 1.01, y: 1.18}
+  BoxWidth: 0.3125
+  Pivot: {x: 64.296906, y: 6.992346}
+  Texture: {fileID: 2800000, guid: c85c7f98a0e4db64197db678ec1c29d6, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4285225348
+  - serializedVersion: 2
+    rgba: 4281942371
+  - serializedVersion: 2
+    rgba: 4286673564
+  - serializedVersion: 2
+    rgba: 4289041077
+  - serializedVersion: 2
+    rgba: 4290621134
+  - serializedVersion: 2
+    rgba: 4282543483
+  - serializedVersion: 2
+    rgba: 4284714669
+  - serializedVersion: 2
+    rgba: 4281210174
+  - serializedVersion: 2
+    rgba: 4280308876
+  - serializedVersion: 2
+    rgba: 4286866762
+  - serializedVersion: 2
+    rgba: 4286890983
+  - serializedVersion: 2
+    rgba: 4284110162
+  - serializedVersion: 2
+    rgba: 4279775314
+  - serializedVersion: 2
+    rgba: 4283577484
+  - serializedVersion: 2
+    rgba: 4281954741
+  - serializedVersion: 2
+    rgba: 4281941049
+  - serializedVersion: 2
+    rgba: 4285770443
+  DamageColorProbs:
+  - 0.039503384
+  - 0.07642696
+  - 0.0112866815
+  - 0.013382779
+  - 0.0033860046
+  - 0.002579813
+  - 0.07158981
+  - 0.03176395
+  - 0.00048371492
+  - 0.16865528
+  - 0.07932925
+  - 0.3392454
+  - 0.025959369
+  - 0.008061916
+  - 0.0008061915
+  - 0.06320542
+  - 0.06433409

@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0167_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 9087162c420cecd4ea5acb8c246729d9, type: 3}
+  FamilyName: VasePalmGold
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 59, y: 4}
+  VisibleRect:
+    x: 9
+    y: 4
+    width: 115
+    height: 123
+  BoxCenterOffset: {x: 0.025, y: 0.015}
+  BoxSize: {x: 1.15, y: 1.23}
+  BoxWidth: 0.53125
+  Pivot: {x: 65.18765, y: 10.688939}
+  Texture: {fileID: 2800000, guid: 9087162c420cecd4ea5acb8c246729d9, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4280367466
+  - serializedVersion: 2
+    rgba: 4278194225
+  - serializedVersion: 2
+    rgba: 4287401604
+  - serializedVersion: 2
+    rgba: 4278215600
+  - serializedVersion: 2
+    rgba: 4286877357
+  - serializedVersion: 2
+    rgba: 4284640371
+  - serializedVersion: 2
+    rgba: 4284708252
+  - serializedVersion: 2
+    rgba: 4278728844
+  - serializedVersion: 2
+    rgba: 4282537859
+  - serializedVersion: 2
+    rgba: 4278198616
+  - serializedVersion: 2
+    rgba: 4283083478
+  - serializedVersion: 2
+    rgba: 4284139503
+  - serializedVersion: 2
+    rgba: 4280719315
+  - serializedVersion: 2
+    rgba: 4278224598
+  - serializedVersion: 2
+    rgba: 4282545357
+  - serializedVersion: 2
+    rgba: 4281941058
+  - serializedVersion: 2
+    rgba: 4284717823
+  - serializedVersion: 2
+    rgba: 4278235887
+  - serializedVersion: 2
+    rgba: 4285262847
+  - serializedVersion: 2
+    rgba: 4281961207
+  - serializedVersion: 2
+    rgba: 4281454591
+  DamageColorProbs:
+  - 0.03077784
+  - 0.054980416
+  - 0.14339675
+  - 0.037772804
+  - 0.00069949636
+  - 0.0023782877
+  - 0.0096530495
+  - 0.0155288195
+  - 0.058198098
+  - 0.022243984
+  - 0.0074146613
+  - 0.00027979855
+  - 0.004196978
+  - 0.35226637
+  - 0.0106323445
+  - 0.005595971
+  - 0.0036373811
+  - 0.001538892
+  - 0.0005595971
+  - 0.00069949636
+  - 0.23754896

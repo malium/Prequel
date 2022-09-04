@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0233_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 0.8
+  HasShadow: 0
+  PropSprite: {fileID: 21300000, guid: ebb277e11f41e0546930afadb4985804, type: 3}
+  FamilyName: CoinPile
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 38, y: 2}
+  VisibleRect:
+    x: 5
+    y: 2
+    width: 119
+    height: 66
+  BoxCenterOffset: {x: 0.005, y: -0.29}
+  BoxSize: {x: 1.19, y: 0.66}
+  BoxWidth: 0.8828125
+  Pivot: {x: 63.70308, y: 24.807238}
+  Texture: {fileID: 2800000, guid: ebb277e11f41e0546930afadb4985804, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4278223558
+  - serializedVersion: 2
+    rgba: 4278238975
+  - serializedVersion: 2
+    rgba: 4281447395
+  - serializedVersion: 2
+    rgba: 4278208415
+  - serializedVersion: 2
+    rgba: 4278228204
+  - serializedVersion: 2
+    rgba: 4280184493
+  - serializedVersion: 2
+    rgba: 4283097087
+  - serializedVersion: 2
+    rgba: 4281436870
+  - serializedVersion: 2
+    rgba: 4285785087
+  DamageColorProbs:
+  - 0.06346424
+  - 0.0059607294
+  - 0.0073632537
+  - 0.0450561
+  - 0.00017531557
+  - 0.38551894
+  - 0.19670407
+  - 0.21809256
+  - 0.0776648

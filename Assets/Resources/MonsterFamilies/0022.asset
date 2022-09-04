@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257dac38790f84f498cc52fab1edd870, type: 3}
+  m_Name: 0022
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  Name: BlackWolf
+  SpriteScale: 1.2
+  Frames:
+  - {fileID: 21300000, guid: 2a63bcd7bbe2dad4384fbbc752d306e2, type: 3}
+  - {fileID: 21300000, guid: 35d82f4013e352645a7e27673b2d2908, type: 3}
+  - {fileID: 21300000, guid: e0b542955f8f18745a73c4f5caec6042, type: 3}
+  - {fileID: 21300000, guid: 4d22661daebebff4a858fe35a15b21ea, type: 3}
+  - {fileID: 21300000, guid: 94d9cad96e8ea4c4b9583904a5238d68, type: 3}
+  - {fileID: 21300000, guid: dcc08f402a9e8784cac2a628dfa18b62, type: 3}
+  BaseHealth: 60
+  BaseSpeed: 2.8
+  SightRange: 7
+  SightAngle: 60
+  HearingRange: 5
+  AttackRange: 0.8
+  AttackRate: 1.1
+  AttackDamage: 25
+  DamageType: 1
+  FriendlyFamilies: []
+  AIType: 2
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel:
+  - {x: 59, y: 15}
+  - {x: 59, y: 15}
+  - {x: 55, y: 19}
+  - {x: 57, y: 19}
+  - {x: 59, y: 15}
+  - {x: 55, y: 19}
+  VisibleRect:
+  - x: 13
+    y: 15
+    width: 104
+    height: 102
+  - x: 10
+    y: 15
+    width: 103
+    height: 109
+  - x: 3
+    y: 19
+    width: 119
+    height: 98
+  - x: 1
+    y: 19
+    width: 119
+    height: 101
+  - x: 27
+    y: 15
+    width: 97
+    height: 112
+  - x: 12
+    y: 19
+    width: 115
+    height: 108
+  BoxCenterOffset:
+  - {x: 0.01, y: 0.02}
+  - {x: -0.025, y: 0.055}
+  - {x: -0.015, y: 0.04}
+  - {x: -0.035, y: 0.055}
+  - {x: 0.115, y: 0.07}
+  - {x: 0.055, y: 0.09}
+  BoxSize:
+  - {x: 1.04, y: 1.02}
+  - {x: 1.03, y: 1.09}
+  - {x: 1.19, y: 0.98}
+  - {x: 1.19, y: 1.01}
+  - {x: 0.97, y: 1.12}
+  - {x: 1.15, y: 1.08}
+  Textures:
+  - {fileID: 2800000, guid: 2a63bcd7bbe2dad4384fbbc752d306e2, type: 3}
+  - {fileID: 2800000, guid: 35d82f4013e352645a7e27673b2d2908, type: 3}
+  - {fileID: 2800000, guid: e0b542955f8f18745a73c4f5caec6042, type: 3}
+  - {fileID: 2800000, guid: 4d22661daebebff4a858fe35a15b21ea, type: 3}
+  - {fileID: 2800000, guid: 94d9cad96e8ea4c4b9583904a5238d68, type: 3}
+  - {fileID: 2800000, guid: dcc08f402a9e8784cac2a628dfa18b62, type: 3}
+  Pivots:
+  - {x: 64, y: 16.64}
+  - {x: 57.6, y: 16.64}
+  - {x: 57.6, y: 19.797094}
+  - {x: 57.6, y: 19.797094}
+  - {x: 64, y: 16.64}
+  - {x: 57.6, y: 19.797094}

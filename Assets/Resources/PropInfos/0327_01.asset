@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0327_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 256a7e29e28faf84f9770ae2f81aa520, type: 3}
+  FamilyName: Pipe
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 56, y: 0}
+  VisibleRect:
+    x: 38
+    y: 0
+    width: 82
+    height: 97
+  BoxCenterOffset: {x: 0.15, y: -0.155}
+  BoxSize: {x: 0.82, y: 0.97}
+  BoxWidth: 0.3203125
+  Pivot: {x: 62.51542, y: 7.5861754}
+  Texture: {fileID: 2800000, guid: 256a7e29e28faf84f9770ae2f81aa520, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4279247905
+  - serializedVersion: 2
+    rgba: 4280889418
+  - serializedVersion: 2
+    rgba: 4282545490
+  - serializedVersion: 2
+    rgba: 4284128908
+  - serializedVersion: 2
+    rgba: 4281619516
+  - serializedVersion: 2
+    rgba: 4285235893
+  - serializedVersion: 2
+    rgba: 4282873467
+  - serializedVersion: 2
+    rgba: 4285248173
+  - serializedVersion: 2
+    rgba: 4281943403
+  - serializedVersion: 2
+    rgba: 4283061652
+  - serializedVersion: 2
+    rgba: 4286889678
+  DamageColorProbs:
+  - 0.13622235
+  - 0.074968
+  - 0.010239532
+  - 0.022856098
+  - 0.0036569757
+  - 0.03912964
+  - 0.18358018
+  - 0.315597
+  - 0.0528433
+  - 0.047357835
+  - 0.1135491

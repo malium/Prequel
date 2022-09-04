@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0289_05
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.2
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 90550886eba438d46b24d584f5afe3c8, type: 3}
+  FamilyName: HumanSizePillow
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 65, y: 1}
+  VisibleRect:
+    x: 9
+    y: 1
+    width: 114
+    height: 123
+  BoxCenterOffset: {x: 0.02, y: -0.015}
+  BoxSize: {x: 1.14, y: 1.23}
+  BoxWidth: 0.734375
+  Pivot: {x: 64, y: 6.4}
+  Texture: {fileID: 2800000, guid: 90550886eba438d46b24d584f5afe3c8, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4290103246
+  - serializedVersion: 2
+    rgba: 4292272103
+  - serializedVersion: 2
+    rgba: 4287932077
+  - serializedVersion: 2
+    rgba: 4280903060
+  - serializedVersion: 2
+    rgba: 4284707245
+  - serializedVersion: 2
+    rgba: 4294047996
+  - serializedVersion: 2
+    rgba: 4283069828
+  - serializedVersion: 2
+    rgba: 4283387807
+  - serializedVersion: 2
+    rgba: 4281412756
+  - serializedVersion: 2
+    rgba: 4285373378
+  - serializedVersion: 2
+    rgba: 4290103287
+  - serializedVersion: 2
+    rgba: 4282550982
+  - serializedVersion: 2
+    rgba: 4280896883
+  - serializedVersion: 2
+    rgba: 4287931102
+  DamageColorProbs:
+  - 0.0020325202
+  - 0.00035868006
+  - 0.019966524
+  - 0.004901961
+  - 0.0021520804
+  - 0.0035868005
+  - 0.0007173601
+  - 0.23338115
+  - 0.20743664
+  - 0.31348637
+  - 0.10126734
+  - 0.023075083
+  - 0.040530846
+  - 0.047106646

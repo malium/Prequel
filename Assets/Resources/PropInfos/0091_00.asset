@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0091_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 0.6
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 4f109ffed06e3a949804b97f7d293485, type: 3}
+  FamilyName: Lilium
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 67, y: 17}
+  VisibleRect:
+    x: 8
+    y: 17
+    width: 111
+    height: 100
+  BoxCenterOffset: {x: -0.005, y: 0.03}
+  BoxSize: {x: 1.11, y: 1}
+  BoxWidth: 0.234375
+  Pivot: {x: 71.42287, y: 21.377874}
+  Texture: {fileID: 2800000, guid: 4f109ffed06e3a949804b97f7d293485, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4281431386
+  - serializedVersion: 2
+    rgba: 4279978297
+  - serializedVersion: 2
+    rgba: 4280396428
+  - serializedVersion: 2
+    rgba: 4279601264
+  - serializedVersion: 2
+    rgba: 4281547864
+  - serializedVersion: 2
+    rgba: 4279052832
+  - serializedVersion: 2
+    rgba: 4294440951
+  - serializedVersion: 2
+    rgba: 4289507258
+  - serializedVersion: 2
+    rgba: 4285230468
+  - serializedVersion: 2
+    rgba: 4290112497
+  - serializedVersion: 2
+    rgba: 4287600551
+  - serializedVersion: 2
+    rgba: 4283061619
+  - serializedVersion: 2
+    rgba: 4292467433
+  - serializedVersion: 2
+    rgba: 4283731345
+  - serializedVersion: 2
+    rgba: 4287943145
+  - serializedVersion: 2
+    rgba: 4284137141
+  - serializedVersion: 2
+    rgba: 4285238982
+  - serializedVersion: 2
+    rgba: 4282479031
+  - serializedVersion: 2
+    rgba: 4285774558
+  - serializedVersion: 2
+    rgba: 4279771210
+  - serializedVersion: 2
+    rgba: 4282542567
+  - serializedVersion: 2
+    rgba: 4281411707
+  - serializedVersion: 2
+    rgba: 4281945241
+  - serializedVersion: 2
+    rgba: 4290624222
+  - serializedVersion: 2
+    rgba: 4284716799
+  - serializedVersion: 2
+    rgba: 4283080406
+  DamageColorProbs:
+  - 0.033926703
+  - 0.012146597
+  - 0.014240838
+  - 0.011518325
+  - 0.009214659
+  - 0.015706806
+  - 0.012774869
+  - 0.005235602
+  - 0.007748691
+  - 0.0012565445
+  - 0.0054450263
+  - 0.00041884815
+  - 0.004816754
+  - 0.096335076
+  - 0.084816754
+  - 0.083141364
+  - 0.041884817
+  - 0.00020942408
+  - 0.082722515
+  - 0.071204185
+  - 0.22240838
+  - 0.043979056
+  - 0.026806282
+  - 0.016125655
+  - 0.05089005
+  - 0.04502618

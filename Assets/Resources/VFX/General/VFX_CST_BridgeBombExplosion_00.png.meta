@@ -1,0 +1,957 @@
+fileFormatVersion: 2
+guid: 118055aea06f85d41a855509d5abb9f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3583311722441662753
+    second: VFX_CST_BridgeBombExplosion_00_0
+  - first:
+      213: -1141374218638295071
+    second: VFX_CST_BridgeBombExplosion_00_1
+  - first:
+      213: -2097025319719593344
+    second: VFX_CST_BridgeBombExplosion_00_2
+  - first:
+      213: -8710855950123183228
+    second: VFX_CST_BridgeBombExplosion_00_3
+  - first:
+      213: 4577746484541250883
+    second: VFX_CST_BridgeBombExplosion_00_4
+  - first:
+      213: 341551391393030813
+    second: VFX_CST_BridgeBombExplosion_00_5
+  - first:
+      213: 3389207431754605226
+    second: VFX_CST_BridgeBombExplosion_00_6
+  - first:
+      213: -8532234995907520432
+    second: VFX_CST_BridgeBombExplosion_00_7
+  - first:
+      213: -7170902438329332604
+    second: VFX_CST_BridgeBombExplosion_00_8
+  - first:
+      213: 7324780853706043001
+    second: VFX_CST_BridgeBombExplosion_00_9
+  - first:
+      213: -6373740295124449228
+    second: VFX_CST_BridgeBombExplosion_00_10
+  - first:
+      213: -1476448963819039277
+    second: VFX_CST_BridgeBombExplosion_00_11
+  - first:
+      213: -5475912089675820382
+    second: VFX_CST_BridgeBombExplosion_00_12
+  - first:
+      213: 4630209702489896781
+    second: VFX_CST_BridgeBombExplosion_00_13
+  - first:
+      213: -6192005796383696303
+    second: VFX_CST_BridgeBombExplosion_00_14
+  - first:
+      213: -2203147856042073561
+    second: VFX_CST_BridgeBombExplosion_00_15
+  - first:
+      213: 716694913718234885
+    second: VFX_CST_BridgeBombExplosion_00_16
+  - first:
+      213: -662970060415669588
+    second: VFX_CST_BridgeBombExplosion_00_17
+  - first:
+      213: -5766485226575658609
+    second: VFX_CST_BridgeBombExplosion_00_18
+  - first:
+      213: 616365658877522245
+    second: VFX_CST_BridgeBombExplosion_00_19
+  - first:
+      213: 2010242147383287039
+    second: VFX_CST_BridgeBombExplosion_00_20
+  - first:
+      213: -8975618408642324849
+    second: VFX_CST_BridgeBombExplosion_00_21
+  - first:
+      213: -7224557061624974580
+    second: VFX_CST_BridgeBombExplosion_00_22
+  - first:
+      213: 5490646228580634039
+    second: VFX_CST_BridgeBombExplosion_00_23
+  - first:
+      213: -3044385935727376750
+    second: VFX_CST_BridgeBombExplosion_00_24
+  - first:
+      213: -2931269210411605386
+    second: VFX_CST_BridgeBombExplosion_00_25
+  - first:
+      213: 1588096083358263982
+    second: VFX_CST_BridgeBombExplosion_00_26
+  - first:
+      213: -1910012173779348331
+    second: VFX_CST_BridgeBombExplosion_00_27
+  - first:
+      213: -4146692947604528238
+    second: VFX_CST_BridgeBombExplosion_00_28
+  - first:
+      213: -906430717749801931
+    second: VFX_CST_BridgeBombExplosion_00_29
+  - first:
+      213: 7430068327723126246
+    second: VFX_CST_BridgeBombExplosion_00_30
+  - first:
+      213: 5445360011074804263
+    second: VFX_CST_BridgeBombExplosion_00_31
+  - first:
+      213: 1704466127509700624
+    second: VFX_CST_BridgeBombExplosion_00_32
+  - first:
+      213: -1413139290495759303
+    second: VFX_CST_BridgeBombExplosion_00_33
+  - first:
+      213: -2752820348015752060
+    second: VFX_CST_BridgeBombExplosion_00_34
+  - first:
+      213: -4489092945148607773
+    second: VFX_CST_BridgeBombExplosion_00_35
+  - first:
+      213: -7697455342332552214
+    second: VFX_CST_BridgeBombExplosion_00_36
+  - first:
+      213: 4882120051519654326
+    second: VFX_CST_BridgeBombExplosion_00_37
+  - first:
+      213: -1258879702088595768
+    second: VFX_CST_BridgeBombExplosion_00_38
+  - first:
+      213: 7280215728444858577
+    second: VFX_CST_BridgeBombExplosion_00_39
+  - first:
+      213: 7088579977015115416
+    second: VFX_CST_BridgeBombExplosion_00_40
+  - first:
+      213: 7000088795524724429
+    second: VFX_CST_BridgeBombExplosion_00_41
+  - first:
+      213: 5426575667519319059
+    second: VFX_CST_BridgeBombExplosion_00_42
+  - first:
+      213: -219413750576953339
+    second: VFX_CST_BridgeBombExplosion_00_43
+  - first:
+      213: -8210709569220068407
+    second: VFX_CST_BridgeBombExplosion_00_44
+  - first:
+      213: -2503064336807043381
+    second: VFX_CST_BridgeBombExplosion_00_45
+  - first:
+      213: 7608254857137663448
+    second: VFX_CST_BridgeBombExplosion_00_46
+  - first:
+      213: -5284804948780569650
+    second: VFX_CST_BridgeBombExplosion_00_47
+  - first:
+      213: -7104324858593953221
+    second: VFX_CST_BridgeBombExplosion_00_48
+  - first:
+      213: -837144528158643377
+    second: VFX_CST_BridgeBombExplosion_00_49
+  - first:
+      213: 5419883582142207602
+    second: VFX_CST_BridgeBombExplosion_00_50
+  - first:
+      213: -2138785984591121881
+    second: VFX_CST_BridgeBombExplosion_00_51
+  - first:
+      213: -4389490345913111279
+    second: VFX_CST_BridgeBombExplosion_00_52
+  - first:
+      213: 7122772090123577817
+    second: VFX_CST_BridgeBombExplosion_00_53
+  - first:
+      213: -4837558874268836810
+    second: VFX_CST_BridgeBombExplosion_00_54
+  - first:
+      213: 1537227810547371716
+    second: VFX_CST_BridgeBombExplosion_00_55
+  - first:
+      213: -1118758463026588147
+    second: VFX_CST_BridgeBombExplosion_00_56
+  - first:
+      213: 4476866178133867184
+    second: VFX_CST_BridgeBombExplosion_00_57
+  - first:
+      213: 980575691191327711
+    second: VFX_CST_BridgeBombExplosion_00_58
+  - first:
+      213: -2413849855842640098
+    second: VFX_CST_BridgeBombExplosion_00_59
+  - first:
+      213: -3684364015518742251
+    second: VFX_CST_BridgeBombExplosion_00_60
+  - first:
+      213: -1517973832272215558
+    second: VFX_CST_BridgeBombExplosion_00_61
+  - first:
+      213: -9052369759900850512
+    second: VFX_CST_BridgeBombExplosion_00_62
+  - first:
+      213: 8032793595986851460
+    second: VFX_CST_BridgeBombExplosion_00_63
+  - first:
+      213: 18446337174393090
+    second: VFX_CST_BridgeBombExplosion_00_64
+  - first:
+      213: 3481499592051741515
+    second: VFX_CST_BridgeBombExplosion_00_65
+  - first:
+      213: 8288488023274004109
+    second: VFX_CST_BridgeBombExplosion_00_66
+  - first:
+      213: 8614596444639027241
+    second: VFX_CST_BridgeBombExplosion_00_67
+  - first:
+      213: 927173419990302997
+    second: VFX_CST_BridgeBombExplosion_00_68
+  - first:
+      213: -4218427736402528144
+    second: VFX_CST_BridgeBombExplosion_00_69
+  - first:
+      213: 5703170793812627022
+    second: VFX_CST_BridgeBombExplosion_00_70
+  - first:
+      213: 900372216130732507
+    second: VFX_CST_BridgeBombExplosion_00_71
+  - first:
+      213: -3836969541352663024
+    second: VFX_CST_BridgeBombExplosion_00_72
+  - first:
+      213: 2710492800690038705
+    second: VFX_CST_BridgeBombExplosion_00_73
+  - first:
+      213: -8240949913082265673
+    second: VFX_CST_BridgeBombExplosion_00_74
+  - first:
+      213: -8957023662789748377
+    second: VFX_CST_BridgeBombExplosion_00_75
+  - first:
+      213: -5993166193003056302
+    second: VFX_CST_BridgeBombExplosion_00_76
+  - first:
+      213: -4482452673314353437
+    second: VFX_CST_BridgeBombExplosion_00_77
+  - first:
+      213: 5734318166480823115
+    second: VFX_CST_BridgeBombExplosion_00_78
+  - first:
+      213: 3081920831347368479
+    second: VFX_CST_BridgeBombExplosion_00_79
+  - first:
+      213: -5716226391127124200
+    second: VFX_CST_BridgeBombExplosion_00_80
+  - first:
+      213: -3299244994264119954
+    second: VFX_CST_BridgeBombExplosion_00_81
+  - first:
+      213: 3994691970891525324
+    second: VFX_CST_BridgeBombExplosion_00_82
+  - first:
+      213: -6283705478852980656
+    second: VFX_CST_BridgeBombExplosion_00_83
+  - first:
+      213: -8348798098101116615
+    second: VFX_CST_BridgeBombExplosion_00_84
+  - first:
+      213: -66441242709444914
+    second: VFX_CST_BridgeBombExplosion_00_85
+  - first:
+      213: -428653195347905289
+    second: VFX_CST_BridgeBombExplosion_00_86
+  - first:
+      213: -2667706473030819066
+    second: VFX_CST_BridgeBombExplosion_00_87
+  - first:
+      213: 4706365601262680169
+    second: VFX_CST_BridgeBombExplosion_00_88
+  - first:
+      213: -104425891882649003
+    second: VFX_CST_BridgeBombExplosion_00_89
+  - first:
+      213: -4881669773224948640
+    second: VFX_CST_BridgeBombExplosion_00_90
+  - first:
+      213: 4038982825069984018
+    second: VFX_CST_BridgeBombExplosion_00_91
+  - first:
+      213: -7317531206807496597
+    second: VFX_CST_BridgeBombExplosion_00_92
+  - first:
+      213: 3417519364868877031
+    second: VFX_CST_BridgeBombExplosion_00_93
+  - first:
+      213: 2872760157245733812
+    second: VFX_CST_BridgeBombExplosion_00_94
+  - first:
+      213: 4042822093128105865
+    second: VFX_CST_BridgeBombExplosion_00_95
+  - first:
+      213: -6709093112656932315
+    second: VFX_CST_BridgeBombExplosion_00_96
+  - first:
+      213: -8054493772461067696
+    second: VFX_CST_BridgeBombExplosion_00_97
+  - first:
+      213: 9200992174989307120
+    second: VFX_CST_BridgeBombExplosion_00_98
+  - first:
+      213: -371111822072883185
+    second: VFX_CST_BridgeBombExplosion_00_99
+  - first:
+      213: -6111179575590384356
+    second: VFX_CST_BridgeBombExplosion_00_100
+  - first:
+      213: -6590327694380524760
+    second: VFX_CST_BridgeBombExplosion_00_101
+  - first:
+      213: -1863349302922106037
+    second: VFX_CST_BridgeBombExplosion_00_102
+  - first:
+      213: -2870563203319244535
+    second: VFX_CST_BridgeBombExplosion_00_103
+  - first:
+      213: -3392427357653108830
+    second: VFX_CST_BridgeBombExplosion_00_104
+  - first:
+      213: 1600341360608217958
+    second: VFX_CST_BridgeBombExplosion_00_105
+  - first:
+      213: 8154663646409568573
+    second: VFX_CST_BridgeBombExplosion_00_106
+  - first:
+      213: 7755437200450696574
+    second: VFX_CST_BridgeBombExplosion_00_107
+  - first:
+      213: -8447506526083057271
+    second: VFX_CST_BridgeBombExplosion_00_108
+  - first:
+      213: -5621255344182746525
+    second: VFX_CST_BridgeBombExplosion_00_109
+  - first:
+      213: 1137622466694408049
+    second: VFX_CST_BridgeBombExplosion_00_110
+  - first:
+      213: 7616368892006291445
+    second: VFX_CST_BridgeBombExplosion_00_111
+  - first:
+      213: 135934652286978702
+    second: VFX_CST_BridgeBombExplosion_00_112
+  - first:
+      213: 1541243558798531260
+    second: VFX_CST_BridgeBombExplosion_00_113
+  - first:
+      213: -8195438390732497006
+    second: VFX_CST_BridgeBombExplosion_00_114
+  - first:
+      213: -871066089481516295
+    second: VFX_CST_BridgeBombExplosion_00_115
+  - first:
+      213: 6078460573598059272
+    second: VFX_CST_BridgeBombExplosion_00_116
+  - first:
+      213: 7396368209901478240
+    second: VFX_CST_BridgeBombExplosion_00_117
+  - first:
+      213: -6661695252112863582
+    second: VFX_CST_BridgeBombExplosion_00_118
+  - first:
+      213: -8360391772838146005
+    second: VFX_CST_BridgeBombExplosion_00_119
+  - first:
+      213: 4495789693328779528
+    second: VFX_CST_BridgeBombExplosion_00_120
+  - first:
+      213: -533340377839811020
+    second: VFX_CST_BridgeBombExplosion_00_121
+  - first:
+      213: 5252600435039948128
+    second: VFX_CST_BridgeBombExplosion_00_122
+  - first:
+      213: 1556822876949936800
+    second: VFX_CST_BridgeBombExplosion_00_123
+  - first:
+      213: -1603941861571325228
+    second: VFX_CST_BridgeBombExplosion_00_124
+  - first:
+      213: 7082399262480074915
+    second: VFX_CST_BridgeBombExplosion_00_125
+  - first:
+      213: -4638096456630377698
+    second: VFX_CST_BridgeBombExplosion_00_126
+  - first:
+      213: -1096762338503174311
+    second: VFX_CST_BridgeBombExplosion_00_127
+  - first:
+      213: -5987471549964650708
+    second: VFX_CST_BridgeBombExplosion_00_128
+  - first:
+      213: 32272644756278270
+    second: VFX_CST_BridgeBombExplosion_00_129
+  - first:
+      213: 6595741324881008434
+    second: VFX_CST_BridgeBombExplosion_00_130
+  - first:
+      213: -7789849254632883181
+    second: VFX_CST_BridgeBombExplosion_00_131
+  - first:
+      213: 4694321480544247332
+    second: VFX_CST_BridgeBombExplosion_00_132
+  - first:
+      213: 3178691840559403314
+    second: VFX_CST_BridgeBombExplosion_00_133
+  - first:
+      213: 2287170698467425578
+    second: VFX_CST_BridgeBombExplosion_00_134
+  - first:
+      213: 55589326476864506
+    second: VFX_CST_BridgeBombExplosion_00_135
+  - first:
+      213: 1755579867468136987
+    second: VFX_CST_BridgeBombExplosion_00_136
+  - first:
+      213: -3055513651103270513
+    second: VFX_CST_BridgeBombExplosion_00_137
+  - first:
+      213: 5742496654099606031
+    second: VFX_CST_BridgeBombExplosion_00_138
+  - first:
+      213: -6576308350894001331
+    second: VFX_CST_BridgeBombExplosion_00_139
+  - first:
+      213: 5886457505304767643
+    second: VFX_CST_BridgeBombExplosion_00_140
+  - first:
+      213: -9040387643829416715
+    second: VFX_CST_BridgeBombExplosion_00_141
+  - first:
+      213: -6505097953172651747
+    second: VFX_CST_BridgeBombExplosion_00_142
+  - first:
+      213: 7083004291879438499
+    second: VFX_CST_BridgeBombExplosion_00_143
+  - first:
+      213: -8051817033103762684
+    second: VFX_CST_BridgeBombExplosion_00_144
+  - first:
+      213: -6360948905208925123
+    second: VFX_CST_BridgeBombExplosion_00_145
+  - first:
+      213: -1524214468610828909
+    second: VFX_CST_BridgeBombExplosion_00_146
+  - first:
+      213: -3541744802847298732
+    second: VFX_CST_BridgeBombExplosion_00_147
+  - first:
+      213: 2773806552758082734
+    second: VFX_CST_BridgeBombExplosion_00_148
+  - first:
+      213: -8704276929633628545
+    second: VFX_CST_BridgeBombExplosion_00_149
+  - first:
+      213: -36468806891926456
+    second: VFX_CST_BridgeBombExplosion_00_150
+  - first:
+      213: -162031621560216179
+    second: VFX_CST_BridgeBombExplosion_00_151
+  - first:
+      213: -6949482798405098395
+    second: VFX_CST_BridgeBombExplosion_00_152
+  - first:
+      213: -8370540060116430438
+    second: VFX_CST_BridgeBombExplosion_00_153
+  - first:
+      213: 7856969835816852781
+    second: VFX_CST_BridgeBombExplosion_00_154
+  - first:
+      213: 3660715331112752184
+    second: VFX_CST_BridgeBombExplosion_00_155
+  - first:
+      213: 4731699969970958616
+    second: VFX_CST_BridgeBombExplosion_00_156
+  - first:
+      213: -1307018882137013749
+    second: VFX_CST_BridgeBombExplosion_00_157
+  - first:
+      213: 7089394246130010493
+    second: VFX_CST_BridgeBombExplosion_00_158
+  - first:
+      213: -8082390058669935674
+    second: VFX_CST_BridgeBombExplosion_00_159
+  - first:
+      213: 103694478627388888
+    second: VFX_CST_BridgeBombExplosion_00_160
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_CST_BridgeBombExplosion_00_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde1f5049f4854ec0800000000000000
+      internalID: -3583311722441662753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_BridgeBombExplosion_00_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef764602360920f0800000000000000
+      internalID: -1141374218638295071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_BridgeBombExplosion_00_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a1d1d059ed5e2e0800000000000000
+      internalID: -2097025319719593344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_BridgeBombExplosion_00_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4835f4b5aa2dc1780800000000000000
+      internalID: -8710855950123183228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_BridgeBombExplosion_00_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ddfda7c2c678f30800000000000000
+      internalID: 4577746484541250883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_BridgeBombExplosion_00_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92a58c4e2f6db400800000000000000
+      internalID: 341551391393030813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_BridgeBombExplosion_00_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2e8dfc332e80f20800000000000000
+      internalID: 3389207431754605226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_BridgeBombExplosion_00_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05896c81a79679980800000000000000
+      internalID: -8532234995907520432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_BridgeBombExplosion_00_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cc564b936db7c90800000000000000
+      internalID: -7170902438329332604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_BridgeBombExplosion_00_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e2bbac069d6a560800000000000000
+      internalID: 7324780853706043001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_BridgeBombExplosion_00_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438838a98fceb87a0800000000000000
+      internalID: -6373740295124449228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_BridgeBombExplosion_00_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5929e6d79928be0800000000000000
+      internalID: -1476448963819039277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_BridgeBombExplosion_00_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a21b9197f6a104b0800000000000000
+      internalID: -5475912089675820382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_BridgeBombExplosion_00_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d473a78413fc14040800000000000000
+      internalID: 4630209702489896781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_BridgeBombExplosion_00_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ad36be883911aa0800000000000000
+      internalID: -6192005796383696303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_BridgeBombExplosion_00_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722e2fc92b8dc61e0800000000000000
+      internalID: -2203147856042073561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      VFX_CST_BridgeBombExplosion_00_13: 4630209702489896781
+      VFX_CST_BridgeBombExplosion_00_8: -7170902438329332604
+      VFX_CST_BridgeBombExplosion_00_10: -6373740295124449228
+      VFX_CST_BridgeBombExplosion_00_7: -8532234995907520432
+      VFX_CST_BridgeBombExplosion_00_1: -1141374218638295071
+      VFX_CST_BridgeBombExplosion_00_4: 4577746484541250883
+      VFX_CST_BridgeBombExplosion_00_5: 341551391393030813
+      VFX_CST_BridgeBombExplosion_00_15: -2203147856042073561
+      VFX_CST_BridgeBombExplosion_00_12: -5475912089675820382
+      VFX_CST_BridgeBombExplosion_00_0: -3583311722441662753
+      VFX_CST_BridgeBombExplosion_00_3: -8710855950123183228
+      VFX_CST_BridgeBombExplosion_00_6: 3389207431754605226
+      VFX_CST_BridgeBombExplosion_00_14: -6192005796383696303
+      VFX_CST_BridgeBombExplosion_00_9: 7324780853706043001
+      VFX_CST_BridgeBombExplosion_00_11: -1476448963819039277
+      VFX_CST_BridgeBombExplosion_00_2: -2097025319719593344
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

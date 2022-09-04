@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0223_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 0.9
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 88ccbda3374cd774f8bab16169b04d59, type: 3}
+  FamilyName: BrokenArrows
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 47, y: 2}
+  VisibleRect:
+    x: 33
+    y: 2
+    width: 67
+    height: 75
+  BoxCenterOffset: {x: 0.025, y: -0.245}
+  BoxSize: {x: 0.67, y: 0.75}
+  BoxWidth: 0.15625
+  Pivot: {x: 66.672226, y: 4.617027}
+  Texture: {fileID: 2800000, guid: 88ccbda3374cd774f8bab16169b04d59, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4287919508
+  - serializedVersion: 2
+    rgba: 4283578711
+  - serializedVersion: 2
+    rgba: 4281211964
+  - serializedVersion: 2
+    rgba: 4290629590
+  - serializedVersion: 2
+    rgba: 4285749109
+  - serializedVersion: 2
+    rgba: 4289049269
+  - serializedVersion: 2
+    rgba: 4289563317
+  DamageColorProbs:
+  - 0.14185393
+  - 0.046348315
+  - 0.008426966
+  - 0.008426966
+  - 0.37078652
+  - 0.31601125
+  - 0.108146064

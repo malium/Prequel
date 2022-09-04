@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0326_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 0
+  PropSprite: {fileID: 21300000, guid: d22ba59ccd8fe124c8a5490bc9fb0fd8, type: 3}
+  FamilyName: PetrifiedAnimal
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 71, y: 30}
+  VisibleRect:
+    x: 7
+    y: 30
+    width: 106
+    height: 63
+  BoxCenterOffset: {x: -0.04, y: -0.025}
+  BoxSize: {x: 1.06, y: 0.63}
+  BoxWidth: 0.15625
+  Pivot: {x: 63.10925, y: 40.543728}
+  Texture: {fileID: 2800000, guid: d22ba59ccd8fe124c8a5490bc9fb0fd8, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4280693302
+  - serializedVersion: 2
+    rgba: 4284448134
+  - serializedVersion: 2
+    rgba: 4282669151
+  - serializedVersion: 2
+    rgba: 4286292653
+  - serializedVersion: 2
+    rgba: 4286870932
+  - serializedVersion: 2
+    rgba: 4288459453
+  DamageColorProbs:
+  - 0.10212308
+  - 0.0051061544
+  - 0.0008062349
+  - 0.5014781
+  - 0.24617039
+  - 0.14431605

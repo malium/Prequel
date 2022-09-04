@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0217_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: b1eb96d6e1796934d976dca9d4bf8e44, type: 3}
+  FamilyName: BigRib
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 136, y: 17}
+  VisibleRect:
+    x: 114
+    y: 17
+    width: 39
+    height: 124
+  BoxCenterOffset: {x: 0.055, y: -0.49}
+  BoxSize: {x: 0.39, y: 1.24}
+  BoxWidth: 0.11328125
+  Pivot: {x: 126.2185, y: 29.424265}
+  Texture: {fileID: 2800000, guid: b1eb96d6e1796934d976dca9d4bf8e44, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4285037947
+  - serializedVersion: 2
+    rgba: 4283588963
+  - serializedVersion: 2
+    rgba: 4281944394
+  - serializedVersion: 2
+    rgba: 4286289556
+  - serializedVersion: 2
+    rgba: 4288459445
+  - serializedVersion: 2
+    rgba: 4291750895
+  - serializedVersion: 2
+    rgba: 4290106318
+  DamageColorProbs:
+  - 0.09955752
+  - 0.17762326
+  - 0.048040453
+  - 0.06163085
+  - 0.3568268
+  - 0.22661188
+  - 0.02970923

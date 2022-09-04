@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0050_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 82e302740540f9846857db6f581eff92, type: 3}
+  FamilyName: CrystalStoneWhite
+  HasLighting: 1
+  LightHeight: 0.5
+  LightRange: 5
+  LightIntensity: 0.8
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 55, y: 27}
+  VisibleRect:
+    x: 24
+    y: 27
+    width: 78
+    height: 85
+  BoxCenterOffset: {x: -0.01, y: 0.055}
+  BoxSize: {x: 0.78, y: 0.85}
+  BoxWidth: 0.3359375
+  Pivot: {x: 65.18765, y: 41.568085}
+  Texture: {fileID: 2800000, guid: 82e302740540f9846857db6f581eff92, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4284101937
+  - serializedVersion: 2
+    rgba: 4286072647
+  - serializedVersion: 2
+    rgba: 4288438618
+  - serializedVersion: 2
+    rgba: 4282129947
+  - serializedVersion: 2
+    rgba: 4290082163
+  - serializedVersion: 2
+    rgba: 4289044091
+  - serializedVersion: 2
+    rgba: 4292795325
+  - serializedVersion: 2
+    rgba: 4294438870
+  - serializedVersion: 2
+    rgba: 4291214980
+  DamageColorProbs:
+  - 0.048726466
+  - 0.08394241
+  - 0.121816166
+  - 0.17763013
+  - 0.10011074
+  - 0.2633444
+  - 0.0952381
+  - 0.10431894
+  - 0.0048726466

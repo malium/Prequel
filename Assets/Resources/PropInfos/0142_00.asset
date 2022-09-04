@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0142_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 0.7
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 69c5cd8b53af3f64dbfaa03d5508c02a, type: 3}
+  FamilyName: Stool
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 37, y: 21}
+  VisibleRect:
+    x: 27
+    y: 21
+    width: 65
+    height: 88
+  BoxCenterOffset: {x: -0.045, y: 0.01}
+  BoxSize: {x: 0.65, y: 0.88}
+  BoxWidth: 0.4453125
+  Pivot: {x: 61.624664, y: 30.285322}
+  Texture: {fileID: 2800000, guid: 69c5cd8b53af3f64dbfaa03d5508c02a, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4285568131
+  - serializedVersion: 2
+    rgba: 4283789672
+  - serializedVersion: 2
+    rgba: 4280893762
+  - serializedVersion: 2
+    rgba: 4286885541
+  - serializedVersion: 2
+    rgba: 4289058774
+  - serializedVersion: 2
+    rgba: 4290638831
+  DamageColorProbs:
+  - 0.059490085
+  - 0.25547257
+  - 0.20448107
+  - 0.1184651
+  - 0.34947205
+  - 0.012619109

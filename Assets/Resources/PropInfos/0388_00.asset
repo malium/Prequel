@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0388_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 5c438c1431bb37e4bb9a02a0b86e8d5e, type: 3}
+  FamilyName: ToroOn
+  HasLighting: 1
+  LightHeight: 0.7
+  LightRange: 12
+  LightIntensity: 2
+  LightColor:
+    serializedVersion: 2
+    rgba: 4278222847
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 57, y: 1}
+  VisibleRect:
+    x: 12
+    y: 1
+    width: 104
+    height: 126
+  BoxCenterOffset: {x: 0, y: 0}
+  BoxSize: {x: 1.04, y: 1.26}
+  BoxWidth: 0.515625
+  Pivot: {x: 64.89073, y: 4.8732285}
+  Texture: {fileID: 2800000, guid: 5c438c1431bb37e4bb9a02a0b86e8d5e, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4286600789
+  - serializedVersion: 2
+    rgba: 4282524705
+  - serializedVersion: 2
+    rgba: 4289033587
+  - serializedVersion: 2
+    rgba: 4278216191
+  - serializedVersion: 2
+    rgba: 4279456448
+  - serializedVersion: 2
+    rgba: 4281088104
+  - serializedVersion: 2
+    rgba: 4284300087
+  - serializedVersion: 2
+    rgba: 4284122846
+  - serializedVersion: 2
+    rgba: 4281093785
+  - serializedVersion: 2
+    rgba: 4283584630
+  - serializedVersion: 2
+    rgba: 4284704148
+  - serializedVersion: 2
+    rgba: 4283064757
+  - serializedVersion: 2
+    rgba: 4278227711
+  - serializedVersion: 2
+    rgba: 4290087572
+  - serializedVersion: 2
+    rgba: 4286284469
+  DamageColorProbs:
+  - 0.044516053
+  - 0.023272468
+  - 0.007160759
+  - 0.0010741139
+  - 0.0029836495
+  - 0.0016708438
+  - 0.00023869197
+  - 0.00011934598
+  - 0.08401957
+  - 0.08819668
+  - 0.11063373
+  - 0.034610335
+  - 0.4860962
+  - 0.081871346
+  - 0.03353622

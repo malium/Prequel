@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0292_02
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 69a3234ea04ac1745b7c9b796923e01e, type: 3}
+  FamilyName: ImpaledHeadLong
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 115, y: 5}
+  VisibleRect:
+    x: 43
+    y: 5
+    width: 139
+    height: 232
+  BoxCenterOffset: {x: -0.155, y: -0.07}
+  BoxSize: {x: 1.39, y: 2.32}
+  BoxWidth: 0.18359375
+  Pivot: {x: 108.99744, y: 12.203202}
+  Texture: {fileID: 2800000, guid: 69a3234ea04ac1745b7c9b796923e01e, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4279961935
+  - serializedVersion: 2
+    rgba: 4286993272
+  - serializedVersion: 2
+    rgba: 4284430676
+  - serializedVersion: 2
+    rgba: 4281801774
+  - serializedVersion: 2
+    rgba: 4280352924
+  - serializedVersion: 2
+    rgba: 4289555868
+  - serializedVersion: 2
+    rgba: 4281227090
+  - serializedVersion: 2
+    rgba: 4278727729
+  - serializedVersion: 2
+    rgba: 4286883493
+  - serializedVersion: 2
+    rgba: 4282522714
+  - serializedVersion: 2
+    rgba: 4283201139
+  - serializedVersion: 2
+    rgba: 4290108382
+  - serializedVersion: 2
+    rgba: 4288463814
+  - serializedVersion: 2
+    rgba: 4282269307
+  - serializedVersion: 2
+    rgba: 4291727037
+  - serializedVersion: 2
+    rgba: 4285229551
+  - serializedVersion: 2
+    rgba: 4292276215
+  - serializedVersion: 2
+    rgba: 4283261081
+  - serializedVersion: 2
+    rgba: 4280877278
+  - serializedVersion: 2
+    rgba: 4286268828
+  - serializedVersion: 2
+    rgba: 4283988919
+  - serializedVersion: 2
+    rgba: 4281941162
+  - serializedVersion: 2
+    rgba: 4284716758
+  - serializedVersion: 2
+    rgba: 4284714636
+  - serializedVersion: 2
+    rgba: 4287947775
+  - serializedVersion: 2
+    rgba: 4280814710
+  - serializedVersion: 2
+    rgba: 4286886631
+  - serializedVersion: 2
+    rgba: 4286809277
+  - serializedVersion: 2
+    rgba: 4288452343
+  - serializedVersion: 2
+    rgba: 4290098927
+  - serializedVersion: 2
+    rgba: 4283058646
+  DamageColorProbs:
+  - 0.0091562355
+  - 0.015414928
+  - 0.01761706
+  - 0.022600835
+  - 0.0006954103
+  - 0.024455262
+  - 0.018080669
+  - 0.014951321
+  - 0.0017385257
+  - 0.012401484
+  - 0.0009272137
+  - 0.0006954103
+  - 0.0011590172
+  - 0.00023180342
+  - 0.00011590171
+  - 0.00023180342
+  - 0.12644877
+  - 0.05006954
+  - 0.060037088
+  - 0.030598054
+  - 0.013560501
+  - 0.09585072
+  - 0.06884562
+  - 0.014951321
+  - 0.052271675
+  - 0.05261938
+  - 0.016110338
+  - 0.040333796
+  - 0.16365322
+  - 0.057023644
+  - 0.017153453

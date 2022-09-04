@@ -1,0 +1,273 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0193_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 24065def2aa2c134e8bf7025d62f2d18, type: 3}
+  FamilyName: ArcadeMachine
+  HasLighting: 1
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4283891621
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 128, y: 12}
+  VisibleRect:
+    x: 73
+    y: 12
+    width: 103
+    height: 146
+  BoxCenterOffset: {x: -0.035, y: -0.43}
+  BoxSize: {x: 1.03, y: 1.46}
+  BoxWidth: 0.35546875
+  Pivot: {x: 130.3753, y: 28.236605}
+  Texture: {fileID: 2800000, guid: 24065def2aa2c134e8bf7025d62f2d18, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4287907072
+  - serializedVersion: 2
+    rgba: 4280884273
+  - serializedVersion: 2
+    rgba: 4281925648
+  - serializedVersion: 2
+    rgba: 4289888269
+  - serializedVersion: 2
+    rgba: 4287204511
+  - serializedVersion: 2
+    rgba: 4283910702
+  - serializedVersion: 2
+    rgba: 4287002667
+  - serializedVersion: 2
+    rgba: 4290104286
+  - serializedVersion: 2
+    rgba: 4284817413
+  - serializedVersion: 2
+    rgba: 4278195233
+  - serializedVersion: 2
+    rgba: 4284304992
+  - serializedVersion: 2
+    rgba: 4292257288
+  - serializedVersion: 2
+    rgba: 4290094633
+  - serializedVersion: 2
+    rgba: 4282149510
+  - serializedVersion: 2
+    rgba: 4278729818
+  - serializedVersion: 2
+    rgba: 4284712588
+  - serializedVersion: 2
+    rgba: 4289573565
+  - serializedVersion: 2
+    rgba: 4281224293
+  - serializedVersion: 2
+    rgba: 4285245117
+  - serializedVersion: 2
+    rgba: 4280402943
+  - serializedVersion: 2
+    rgba: 4279071397
+  - serializedVersion: 2
+    rgba: 4292802559
+  - serializedVersion: 2
+    rgba: 4282558174
+  - serializedVersion: 2
+    rgba: 4282552501
+  - serializedVersion: 2
+    rgba: 4289184649
+  - serializedVersion: 2
+    rgba: 4284730367
+  - serializedVersion: 2
+    rgba: 4278232807
+  - serializedVersion: 2
+    rgba: 4285237850
+  - serializedVersion: 2
+    rgba: 4285555200
+  - serializedVersion: 2
+    rgba: 4278734278
+  - serializedVersion: 2
+    rgba: 4291751680
+  - serializedVersion: 2
+    rgba: 4289176407
+  - serializedVersion: 2
+    rgba: 4292606268
+  - serializedVersion: 2
+    rgba: 4290435396
+  - serializedVersion: 2
+    rgba: 4293918612
+  - serializedVersion: 2
+    rgba: 4278728836
+  - serializedVersion: 2
+    rgba: 4292398440
+  - serializedVersion: 2
+    rgba: 4287400448
+  - serializedVersion: 2
+    rgba: 4279238738
+  - serializedVersion: 2
+    rgba: 4280683894
+  - serializedVersion: 2
+    rgba: 4293918571
+  - serializedVersion: 2
+    rgba: 4283766827
+  - serializedVersion: 2
+    rgba: 4279601732
+  - serializedVersion: 2
+    rgba: 4280192883
+  - serializedVersion: 2
+    rgba: 4278241189
+  - serializedVersion: 2
+    rgba: 4282873183
+  - serializedVersion: 2
+    rgba: 4282845775
+  - serializedVersion: 2
+    rgba: 4281451461
+  - serializedVersion: 2
+    rgba: 4278764378
+  - serializedVersion: 2
+    rgba: 4280505654
+  - serializedVersion: 2
+    rgba: 4285533544
+  - serializedVersion: 2
+    rgba: 4279794142
+  - serializedVersion: 2
+    rgba: 4287544636
+  - serializedVersion: 2
+    rgba: 4279240877
+  - serializedVersion: 2
+    rgba: 4281982959
+  - serializedVersion: 2
+    rgba: 4284678333
+  - serializedVersion: 2
+    rgba: 4283048051
+  - serializedVersion: 2
+    rgba: 4281437704
+  - serializedVersion: 2
+    rgba: 4280196258
+  - serializedVersion: 2
+    rgba: 4284711448
+  - serializedVersion: 2
+    rgba: 4278232765
+  - serializedVersion: 2
+    rgba: 4286253204
+  - serializedVersion: 2
+    rgba: 4288416875
+  - serializedVersion: 2
+    rgba: 4293197782
+  - serializedVersion: 2
+    rgba: 4278244327
+  - serializedVersion: 2
+    rgba: 4289533976
+  - serializedVersion: 2
+    rgba: 4286147955
+  - serializedVersion: 2
+    rgba: 4285770366
+  - serializedVersion: 2
+    rgba: 4283062734
+  - serializedVersion: 2
+    rgba: 4285234646
+  - serializedVersion: 2
+    rgba: 4281416959
+  - serializedVersion: 2
+    rgba: 4282523870
+  - serializedVersion: 2
+    rgba: 4281417914
+  - serializedVersion: 2
+    rgba: 4286598950
+  - serializedVersion: 2
+    rgba: 4279764207
+  - serializedVersion: 2
+    rgba: 4291748797
+  DamageColorProbs:
+  - 0.00051076873
+  - 0.0031497404
+  - 0.000085128115
+  - 0.0032348684
+  - 0.0012769217
+  - 0.00051076873
+  - 0.0034051246
+  - 0.00042564058
+  - 0.00051076873
+  - 0.00085128116
+  - 0.00051076873
+  - 0.00042564058
+  - 0.00034051246
+  - 0.0017025623
+  - 0.00034051246
+  - 0.00025538437
+  - 0.0015323061
+  - 0.0005958968
+  - 0.00051076873
+  - 0.00025538437
+  - 0.00025538437
+  - 0.0015323061
+  - 0.00025538437
+  - 0.0013620498
+  - 0.00017025623
+  - 0.093811184
+  - 0.00025538437
+  - 0.00017025623
+  - 0.000085128115
+  - 0.000085128115
+  - 0.0010215375
+  - 0.0011917936
+  - 0.00051076873
+  - 0.002128203
+  - 0.00085128116
+  - 0.000085128115
+  - 0.00051076873
+  - 0.000085128115
+  - 0.26994127
+  - 0.15399677
+  - 0.09261939
+  - 0.059334297
+  - 0.04647995
+  - 0.009278965
+  - 0.00085128116
+  - 0.03703073
+  - 0.011407168
+  - 0.020175364
+  - 0.0073210183
+  - 0.0006810249
+  - 0.01447178
+  - 0.026134333
+  - 0.002128203
+  - 0.009278965
+  - 0.0006810249
+  - 0.003575381
+  - 0.010981527
+  - 0.007831787
+  - 0.03388099
+  - 0.007831787
+  - 0.011407168
+  - 0.0037456371
+  - 0.0005958968
+  - 0.00017025623
+  - 0.00017025623
+  - 0.0016174342
+  - 0.00085128116
+  - 0.0011917936
+  - 0.011832808
+  - 0.0011066656
+  - 0.0032348684
+  - 0.0009364093
+  - 0.0018728186
+  - 0.0046820464
+  - 0.0054481993
+  - 0.00042564058

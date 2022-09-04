@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257dac38790f84f498cc52fab1edd870, type: 3}
+  m_Name: 0077
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  Name: Siren
+  SpriteScale: 1
+  Frames:
+  - {fileID: 21300000, guid: 4c61fe958339260468e0fd3732da203c, type: 3}
+  - {fileID: 21300000, guid: ca39ef457adbab9449eee05c8d8541f1, type: 3}
+  - {fileID: 21300000, guid: 36a7627316d16554ab20f8bf7abd99cb, type: 3}
+  - {fileID: 21300000, guid: d85c9156795321d40910c58cc1ae4e99, type: 3}
+  - {fileID: 21300000, guid: a6c4da9cff998524a8c17da1240620e7, type: 3}
+  - {fileID: 21300000, guid: 18c55a5f080771546940a2bd53e8f79a, type: 3}
+  BaseHealth: 100
+  BaseSpeed: 1
+  SightRange: 7
+  SightAngle: 60
+  HearingRange: 5
+  AttackRange: 10
+  AttackRate: 1
+  AttackDamage: 10
+  DamageType: 0
+  FriendlyFamilies: []
+  AIType: 0
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel:
+  - {x: 39, y: 3}
+  - {x: 68, y: 4}
+  - {x: 87, y: 2}
+  - {x: 56, y: 5}
+  - {x: 53, y: 10}
+  - {x: 36, y: 3}
+  VisibleRect:
+  - x: 2
+    y: 3
+    width: 118
+    height: 120
+  - x: 8
+    y: 4
+    width: 94
+    height: 121
+  - x: 5
+    y: 2
+    width: 111
+    height: 120
+  - x: 19
+    y: 5
+    width: 97
+    height: 116
+  - x: 21
+    y: 10
+    width: 104
+    height: 117
+  - x: 5
+    y: 3
+    width: 114
+    height: 122
+  BoxCenterOffset:
+  - {x: -0.03, y: -0.01}
+  - {x: -0.09, y: 0.005}
+  - {x: -0.035, y: -0.02}
+  - {x: 0.035, y: -0.01}
+  - {x: 0.09, y: 0.045}
+  - {x: -0.02, y: 0}
+  BoxSize:
+  - {x: 1.18, y: 1.2}
+  - {x: 0.94, y: 1.21}
+  - {x: 1.11, y: 1.2}
+  - {x: 0.97, y: 1.16}
+  - {x: 1.04, y: 1.17}
+  - {x: 1.14, y: 1.22}
+  Textures:
+  - {fileID: 2800000, guid: 4c61fe958339260468e0fd3732da203c, type: 3}
+  - {fileID: 2800000, guid: ca39ef457adbab9449eee05c8d8541f1, type: 3}
+  - {fileID: 2800000, guid: 36a7627316d16554ab20f8bf7abd99cb, type: 3}
+  - {fileID: 2800000, guid: d85c9156795321d40910c58cc1ae4e99, type: 3}
+  - {fileID: 2800000, guid: a6c4da9cff998524a8c17da1240620e7, type: 3}
+  - {fileID: 2800000, guid: 18c55a5f080771546940a2bd53e8f79a, type: 3}
+  Pivots:
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}

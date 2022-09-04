@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0346_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 0.8
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: ab87593d7b2342647bdb901893af3f0f, type: 3}
+  FamilyName: RusticLamp
+  HasLighting: 1
+  LightHeight: 0.5
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4281847551
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 57, y: 18}
+  VisibleRect:
+    x: 39
+    y: 18
+    width: 45
+    height: 99
+  BoxCenterOffset: {x: -0.025, y: 0.035}
+  BoxSize: {x: 0.45, y: 0.99}
+  BoxWidth: 0.3203125
+  Pivot: {x: 61.030846, y: 23.322664}
+  Texture: {fileID: 2800000, guid: ab87593d7b2342647bdb901893af3f0f, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4281224830
+  - serializedVersion: 2
+    rgba: 4281216610
+  - serializedVersion: 2
+    rgba: 4280489526
+  - serializedVersion: 2
+    rgba: 4278215052
+  - serializedVersion: 2
+    rgba: 4280906140
+  - serializedVersion: 2
+    rgba: 4281267199
+  - serializedVersion: 2
+    rgba: 4280724672
+  - serializedVersion: 2
+    rgba: 4289588223
+  - serializedVersion: 2
+    rgba: 4285775320
+  - serializedVersion: 2
+    rgba: 4283408832
+  - serializedVersion: 2
+    rgba: 4288990686
+  - serializedVersion: 2
+    rgba: 4286898175
+  - serializedVersion: 2
+    rgba: 4283582827
+  - serializedVersion: 2
+    rgba: 4292277239
+  DamageColorProbs:
+  - 0.02092634
+  - 0.005859375
+  - 0.05245536
+  - 0.0078125
+  - 0.0033482143
+  - 0.02455357
+  - 0.001953125
+  - 0.31054688
+  - 0.1484375
+  - 0.100446425
+  - 0.10379464
+  - 0.15931919
+  - 0.0390625
+  - 0.021484375

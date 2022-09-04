@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0010_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 3accfb52639dfa7429e79a68a4c9c60e, type: 3}
+  FamilyName: BitterTree
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 130, y: 12}
+  VisibleRect:
+    x: 46
+    y: 12
+    width: 183
+    height: 229
+  BoxCenterOffset: {x: 0.095, y: -0.015}
+  BoxSize: {x: 1.83, y: 2.29}
+  BoxWidth: 0.55078125
+  Pivot: {x: 127.40616, y: 46.31873}
+  Texture: {fileID: 2800000, guid: 3accfb52639dfa7429e79a68a4c9c60e, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4280828985
+  - serializedVersion: 2
+    rgba: 4280353858
+  - serializedVersion: 2
+    rgba: 4283066723
+  - serializedVersion: 2
+    rgba: 4281410659
+  - serializedVersion: 2
+    rgba: 4284711547
+  - serializedVersion: 2
+    rgba: 4282458783
+  - serializedVersion: 2
+    rgba: 4283576526
+  - serializedVersion: 2
+    rgba: 4278723608
+  - serializedVersion: 2
+    rgba: 4284106058
+  - serializedVersion: 2
+    rgba: 4289168015
+  - serializedVersion: 2
+    rgba: 4293898950
+  - serializedVersion: 2
+    rgba: 4286276973
+  - serializedVersion: 2
+    rgba: 4285769372
+  - serializedVersion: 2
+    rgba: 4292255405
+  - serializedVersion: 2
+    rgba: 4281974395
+  - serializedVersion: 2
+    rgba: 4280514898
+  - serializedVersion: 2
+    rgba: 4281440875
+  DamageColorProbs:
+  - 0.044743415
+  - 0.0024970698
+  - 0.0013759364
+  - 0.0006115273
+  - 0.010446925
+  - 0.007491209
+  - 0.00086633035
+  - 0.0006115273
+  - 0.00015288182
+  - 0.16878153
+  - 0.31840187
+  - 0.31111452
+  - 0.006471997
+  - 0.0041278093
+  - 0.11975743
+  - 0.0023951486
+  - 0.00015288182

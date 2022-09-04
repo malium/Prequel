@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0273_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.4
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 8e55289533a0ec6438159322f7d0f50a, type: 3}
+  FamilyName: Globe
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 58, y: 6}
+  VisibleRect:
+    x: 33
+    y: 6
+    width: 64
+    height: 110
+  BoxCenterOffset: {x: 0.01, y: -0.03}
+  BoxSize: {x: 0.64, y: 1.1}
+  BoxWidth: 0.4140625
+  Pivot: {x: 62.212242, y: 11.336452}
+  Texture: {fileID: 2800000, guid: 8e55289533a0ec6438159322f7d0f50a, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4278729843
+  - serializedVersion: 2
+    rgba: 4278211988
+  - serializedVersion: 2
+    rgba: 4279767081
+  - serializedVersion: 2
+    rgba: 4286277224
+  - serializedVersion: 2
+    rgba: 4281607236
+  - serializedVersion: 2
+    rgba: 4284103746
+  - serializedVersion: 2
+    rgba: 4281938035
+  - serializedVersion: 2
+    rgba: 4287922811
+  - serializedVersion: 2
+    rgba: 4278855503
+  - serializedVersion: 2
+    rgba: 4278235903
+  - serializedVersion: 2
+    rgba: 4284700085
+  - serializedVersion: 2
+    rgba: 4283063667
+  - serializedVersion: 2
+    rgba: 4284710292
+  - serializedVersion: 2
+    rgba: 4283383705
+  - serializedVersion: 2
+    rgba: 4280896858
+  - serializedVersion: 2
+    rgba: 4278225630
+  - serializedVersion: 2
+    rgba: 4287740616
+  - serializedVersion: 2
+    rgba: 4278218165
+  - serializedVersion: 2
+    rgba: 4286290605
+  DamageColorProbs:
+  - 0.023708558
+  - 0.0036622975
+  - 0.07748651
+  - 0.02929838
+  - 0.0009637625
+  - 0.00848111
+  - 0.041441787
+  - 0.013299922
+  - 0.0052043176
+  - 0.004240555
+  - 0.30146492
+  - 0.1960293
+  - 0.061295297
+  - 0.014841943
+  - 0.075173475
+  - 0.011950655
+  - 0.11969931
+  - 0.009444873
+  - 0.0023130302

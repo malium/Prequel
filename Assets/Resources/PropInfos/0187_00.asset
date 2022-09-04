@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0187_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.3
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: dcccec4afa7a1644c8e6dfe02c53c5c3, type: 3}
+  FamilyName: SoulsTree
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 123, y: 44}
+  VisibleRect:
+    x: 86
+    y: 44
+    width: 103
+    height: 190
+  BoxCenterOffset: {x: 0.095, y: 0.11}
+  BoxSize: {x: 1.03, y: 1.9}
+  BoxWidth: 0.1171875
+  Pivot: {x: 124.25351, y: 51.629406}
+  Texture: {fileID: 2800000, guid: dcccec4afa7a1644c8e6dfe02c53c5c3, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4280358953
+  - serializedVersion: 2
+    rgba: 4283065748
+  - serializedVersion: 2
+    rgba: 4281934996
+  - serializedVersion: 2
+    rgba: 4286889711
+  - serializedVersion: 2
+    rgba: 4283053146
+  - serializedVersion: 2
+    rgba: 4283580853
+  - serializedVersion: 2
+    rgba: 4284121773
+  - serializedVersion: 2
+    rgba: 4289062911
+  - serializedVersion: 2
+    rgba: 4286294978
+  - serializedVersion: 2
+    rgba: 4282866026
+  - serializedVersion: 2
+    rgba: 4280819034
+  DamageColorProbs:
+  - 0.038724374
+  - 0.015324084
+  - 0.01594533
+  - 0.006833713
+  - 0.00041416442
+  - 0.0014495755
+  - 0.44294885
+  - 0.30689585
+  - 0.037688963
+  - 0.06336716
+  - 0.07040795

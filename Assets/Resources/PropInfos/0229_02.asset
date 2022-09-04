@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0229_02
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: a6a7a4e56ac957443a750b67f94e238e, type: 3}
+  FamilyName: CargoMetalBox
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 133, y: 5}
+  VisibleRect:
+    x: 62
+    y: 5
+    width: 120
+    height: 244
+  BoxCenterOffset: {x: -0.06, y: -0.01}
+  BoxSize: {x: 1.2, y: 2.44}
+  BoxWidth: 0.453125
+  Pivot: {x: 116.12338, y: 15.022019}
+  Texture: {fileID: 2800000, guid: a6a7a4e56ac957443a750b67f94e238e, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4282535275
+  - serializedVersion: 2
+    rgba: 4283589020
+  - serializedVersion: 2
+    rgba: 4279774307
+  - serializedVersion: 2
+    rgba: 4281414697
+  - serializedVersion: 2
+    rgba: 4283398856
+  - serializedVersion: 2
+    rgba: 4280375725
+  - serializedVersion: 2
+    rgba: 4287932110
+  - serializedVersion: 2
+    rgba: 4286286264
+  - serializedVersion: 2
+    rgba: 4284717807
+  - serializedVersion: 2
+    rgba: 4280381902
+  - serializedVersion: 2
+    rgba: 4280370564
+  - serializedVersion: 2
+    rgba: 4287407863
+  - serializedVersion: 2
+    rgba: 4283385156
+  - serializedVersion: 2
+    rgba: 4290626518
+  - serializedVersion: 2
+    rgba: 4285232516
+  - serializedVersion: 2
+    rgba: 4290097820
+  - serializedVersion: 2
+    rgba: 4284507744
+  - serializedVersion: 2
+    rgba: 4287926916
+  DamageColorProbs:
+  - 0.00011738008
+  - 0.0004695203
+  - 0.0075514517
+  - 0.00007825338
+  - 0.0053994837
+  - 0.0051647234
+  - 0.000508647
+  - 0.00011738008
+  - 0.00007825338
+  - 0.12277956
+  - 0.23898584
+  - 0.027153924
+  - 0.31493074
+  - 0.19653338
+  - 0.026684403
+  - 0.028014712
+  - 0.01631583
+  - 0.009116519

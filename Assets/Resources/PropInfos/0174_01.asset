@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0174_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 0b80b1f1f1bb1e649b41fb67614b4aa0, type: 3}
+  FamilyName: VikingShield
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 50, y: 23}
+  VisibleRect:
+    x: 19
+    y: 23
+    width: 93
+    height: 63
+  BoxCenterOffset: {x: 0.015, y: -0.095}
+  BoxSize: {x: 0.93, y: 0.63}
+  BoxWidth: 0.5234375
+  Pivot: {x: 64, y: 33.28}
+  Texture: {fileID: 2800000, guid: 0b80b1f1f1bb1e649b41fb67614b4aa0, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4282524729
+  - serializedVersion: 2
+    rgba: 4283909450
+  - serializedVersion: 2
+    rgba: 4285556064
+  - serializedVersion: 2
+    rgba: 4287728003
+  - serializedVersion: 2
+    rgba: 4283399748
+  - serializedVersion: 2
+    rgba: 4291149504
+  - serializedVersion: 2
+    rgba: 4289045148
+  - serializedVersion: 2
+    rgba: 4288464829
+  - serializedVersion: 2
+    rgba: 4293914607
+  - serializedVersion: 2
+    rgba: 4281960993
+  - serializedVersion: 2
+    rgba: 4287388036
+  - serializedVersion: 2
+    rgba: 4281813798
+  - serializedVersion: 2
+    rgba: 4291224542
+  - serializedVersion: 2
+    rgba: 4292784862
+  - serializedVersion: 2
+    rgba: 4280387072
+  - serializedVersion: 2
+    rgba: 4285240694
+  - serializedVersion: 2
+    rgba: 4280376584
+  - serializedVersion: 2
+    rgba: 4289557925
+  DamageColorProbs:
+  - 0.078635015
+  - 0.05743959
+  - 0.063586265
+  - 0.07100467
+  - 0.22382365
+  - 0.00021195422
+  - 0.12039
+  - 0.005722764
+  - 0.001059771
+  - 0.00021195422
+  - 0.006994489
+  - 0.00021195422
+  - 0.0012717253
+  - 0.23124205
+  - 0.061466724
+  - 0.06083086
+  - 0.006146672
+  - 0.009749894

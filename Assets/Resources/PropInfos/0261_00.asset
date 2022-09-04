@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0261_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 9a4481c658803cd4e89a7339f7888f28, type: 3}
+  FamilyName: FocusLightOff
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 79, y: 6}
+  VisibleRect:
+    x: 26
+    y: 6
+    width: 62
+    height: 113
+  BoxCenterOffset: {x: -0.07, y: -0.015}
+  BoxSize: {x: 0.62, y: 1.13}
+  BoxWidth: 0.0546875
+  Pivot: {x: 72.90744, y: 12.930643}
+  Texture: {fileID: 2800000, guid: 9a4481c658803cd4e89a7339f7888f28, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4281934388
+  - serializedVersion: 2
+    rgba: 4284435293
+  - serializedVersion: 2
+    rgba: 4286868859
+  - serializedVersion: 2
+    rgba: 4290093741
+  - serializedVersion: 2
+    rgba: 4293907431
+  - serializedVersion: 2
+    rgba: 4288448657
+  - serializedVersion: 2
+    rgba: 4278722642
+  - serializedVersion: 2
+    rgba: 4287404651
+  - serializedVersion: 2
+    rgba: 4281941346
+  - serializedVersion: 2
+    rgba: 4282866816
+  - serializedVersion: 2
+    rgba: 4284710300
+  - serializedVersion: 2
+    rgba: 4279781240
+  - serializedVersion: 2
+    rgba: 4279801542
+  - serializedVersion: 2
+    rgba: 4285411487
+  - serializedVersion: 2
+    rgba: 4289030614
+  - serializedVersion: 2
+    rgba: 4286854350
+  DamageColorProbs:
+  - 0.010945274
+  - 0.0036484245
+  - 0.0013266999
+  - 0.0009950249
+  - 0.0006633499
+  - 0.0016583748
+  - 0.0009950249
+  - 0.0006633499
+  - 0.49054727
+  - 0.2859038
+  - 0.13830845
+  - 0.023880597
+  - 0.0006633499
+  - 0.019237148
+  - 0.020232173
+  - 0.00033167496

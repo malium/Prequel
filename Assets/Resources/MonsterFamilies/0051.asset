@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257dac38790f84f498cc52fab1edd870, type: 3}
+  m_Name: 0051
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  Name: Dropeater
+  SpriteScale: 0.5
+  Frames:
+  - {fileID: 21300000, guid: d6d0451f0d18763439b6ba056624d716, type: 3}
+  - {fileID: 21300000, guid: 39d4173e3cbf2bc4a970cf7102bdea9d, type: 3}
+  - {fileID: 21300000, guid: efd7b1cf173f320469341a91f25a0229, type: 3}
+  - {fileID: 21300000, guid: 71fe6e40a5b2dc34e8a7ea0c2656231d, type: 3}
+  - {fileID: 21300000, guid: 3493246f940575745a788cfeb6aa3f88, type: 3}
+  - {fileID: 21300000, guid: 2d55d7960f3ebf3429ce0e750e6d4bd4, type: 3}
+  BaseHealth: 100
+  BaseSpeed: 1
+  SightRange: 7
+  SightAngle: 60
+  HearingRange: 5
+  AttackRange: 10
+  AttackRate: 1
+  AttackDamage: 10
+  DamageType: 0
+  FriendlyFamilies: []
+  AIType: 0
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel:
+  - {x: 64, y: 3}
+  - {x: 37, y: 4}
+  - {x: 70, y: 3}
+  - {x: 47, y: 6}
+  - {x: 64, y: 3}
+  - {x: 71, y: 3}
+  VisibleRect:
+  - x: 11
+    y: 3
+    width: 109
+    height: 118
+  - x: 10
+    y: 4
+    width: 90
+    height: 97
+  - x: 7
+    y: 3
+    width: 90
+    height: 118
+  - x: 11
+    y: 6
+    width: 105
+    height: 92
+  - x: 21
+    y: 3
+    width: 100
+    height: 121
+  - x: 18
+    y: 3
+    width: 92
+    height: 122
+  BoxCenterOffset:
+  - {x: 0.015, y: -0.02}
+  - {x: -0.09, y: -0.115}
+  - {x: -0.12, y: -0.02}
+  - {x: -0.005, y: -0.12}
+  - {x: 0.07, y: -0.005}
+  - {x: 0, y: 0}
+  BoxSize:
+  - {x: 1.09, y: 1.18}
+  - {x: 0.9, y: 0.97}
+  - {x: 0.9, y: 1.18}
+  - {x: 1.05, y: 0.92}
+  - {x: 1, y: 1.21}
+  - {x: 0.92, y: 1.22}
+  Textures:
+  - {fileID: 2800000, guid: d6d0451f0d18763439b6ba056624d716, type: 3}
+  - {fileID: 2800000, guid: 39d4173e3cbf2bc4a970cf7102bdea9d, type: 3}
+  - {fileID: 2800000, guid: efd7b1cf173f320469341a91f25a0229, type: 3}
+  - {fileID: 2800000, guid: 71fe6e40a5b2dc34e8a7ea0c2656231d, type: 3}
+  - {fileID: 2800000, guid: 3493246f940575745a788cfeb6aa3f88, type: 3}
+  - {fileID: 2800000, guid: 2d55d7960f3ebf3429ce0e750e6d4bd4, type: 3}
+  Pivots:
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}

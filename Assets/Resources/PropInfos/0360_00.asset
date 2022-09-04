@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0360_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 96d85c486c9bb3d4c89c1c0c066f14ba, type: 3}
+  FamilyName: SkullDecorated
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 63, y: 10}
+  VisibleRect:
+    x: 33
+    y: 10
+    width: 58
+    height: 54
+  BoxCenterOffset: {x: -0.02, y: -0.27}
+  BoxSize: {x: 0.58, y: 0.54}
+  BoxWidth: 0.4296875
+  Pivot: {x: 61.32776, y: 20.65043}
+  Texture: {fileID: 2800000, guid: 96d85c486c9bb3d4c89c1c0c066f14ba, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4281548620
+  - serializedVersion: 2
+    rgba: 4281936012
+  - serializedVersion: 2
+    rgba: 4289574325
+  - serializedVersion: 2
+    rgba: 4293389287
+  - serializedVersion: 2
+    rgba: 4284635804
+  - serializedVersion: 2
+    rgba: 4283062561
+  - serializedVersion: 2
+    rgba: 4291743694
+  - serializedVersion: 2
+    rgba: 4287928997
+  - serializedVersion: 2
+    rgba: 4283202743
+  - serializedVersion: 2
+    rgba: 4283574453
+  - serializedVersion: 2
+    rgba: 4283913925
+  - serializedVersion: 2
+    rgba: 4286266566
+  - serializedVersion: 2
+    rgba: 4285759363
+  - serializedVersion: 2
+    rgba: 4292789082
+  - serializedVersion: 2
+    rgba: 4281430346
+  - serializedVersion: 2
+    rgba: 4284708162
+  - serializedVersion: 2
+    rgba: 4287899821
+  - serializedVersion: 2
+    rgba: 4283083453
+  - serializedVersion: 2
+    rgba: 4286879314
+  - serializedVersion: 2
+    rgba: 4289032637
+  - serializedVersion: 2
+    rgba: 4285566243
+  - serializedVersion: 2
+    rgba: 4284625038
+  - serializedVersion: 2
+    rgba: 4288438602
+  - serializedVersion: 2
+    rgba: 4284127132
+  - serializedVersion: 2
+    rgba: 4280396477
+  - serializedVersion: 2
+    rgba: 4282552931
+  - serializedVersion: 2
+    rgba: 4289572484
+  - serializedVersion: 2
+    rgba: 4279258409
+  - serializedVersion: 2
+    rgba: 4283587947
+  - serializedVersion: 2
+    rgba: 4279294975
+  - serializedVersion: 2
+    rgba: 4279279186
+  - serializedVersion: 2
+    rgba: 4291733049
+  - serializedVersion: 2
+    rgba: 4281937944
+  - serializedVersion: 2
+    rgba: 4288445998
+  - serializedVersion: 2
+    rgba: 4278250462
+  - serializedVersion: 2
+    rgba: 4294952770
+  - serializedVersion: 2
+    rgba: 4286863649
+  - serializedVersion: 2
+    rgba: 4279282324
+  - serializedVersion: 2
+    rgba: 4288253304
+  - serializedVersion: 2
+    rgba: 4279794968
+  - serializedVersion: 2
+    rgba: 4287516834
+  - serializedVersion: 2
+    rgba: 4282569711
+  - serializedVersion: 2
+    rgba: 4290052302
+  - serializedVersion: 2
+    rgba: 4287935009
+  - serializedVersion: 2
+    rgba: 4286079583
+  - serializedVersion: 2
+    rgba: 4279266799
+  - serializedVersion: 2
+    rgba: 4285261807
+  - serializedVersion: 2
+    rgba: 4279282415
+  - serializedVersion: 2
+    rgba: 4281442865
+  - serializedVersion: 2
+    rgba: 4290089427
+  - serializedVersion: 2
+    rgba: 4286875350
+  - serializedVersion: 2
+    rgba: 4292741367
+  - serializedVersion: 2
+    rgba: 4289871307
+  - serializedVersion: 2
+    rgba: 4279806480
+  - serializedVersion: 2
+    rgba: 4281028472
+  - serializedVersion: 2
+    rgba: 4279986861
+  - serializedVersion: 2
+    rgba: 4286887655
+  - serializedVersion: 2
+    rgba: 4284326627
+  - serializedVersion: 2
+    rgba: 4289582071
+  DamageColorProbs:
+  - 0.010428737
+  - 0.010814986
+  - 0.015063731
+  - 0.0011587485
+  - 0.0019312475
+  - 0.005021244
+  - 0.003862495
+  - 0.0011587485
+  - 0.0027037465
+  - 0.0003862495
+  - 0.0011587485
+  - 0.025106218
+  - 0.0034762456
+  - 0.01660873
+  - 0.005021244
+  - 0.004248745
+  - 0.003089996
+  - 0.011201236
+  - 0.010428737
+  - 0.011973735
+  - 0.006952491
+  - 0.004248745
+  - 0.001544998
+  - 0.0027037465
+  - 0.008883739
+  - 0.004634994
+  - 0.005021244
+  - 0.004248745
+  - 0.006179992
+  - 0.004248745
+  - 0.19582851
+  - 0.061027423
+  - 0.06836616
+  - 0.044804946
+  - 0.014291232
+  - 0.029741213
+  - 0.023174971
+  - 0.03167246
+  - 0.06913866
+  - 0.006952491
+  - 0.013904982
+  - 0.0027037465
+  - 0.021243723
+  - 0.01544998
+  - 0.03398996
+  - 0.008111239
+  - 0.042101197
+  - 0.020471225
+  - 0.006566242
+  - 0.019312477
+  - 0.00849749
+  - 0.006566242
+  - 0.013518733
+  - 0.01660873
+  - 0.009656238
+  - 0.0027037465
+  - 0.003089996
+  - 0.002317497
+  - 0.014677482

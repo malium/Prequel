@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0066_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.4
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: fa45b9ef34b2e7d4f972a8e7103e3bc3, type: 3}
+  FamilyName: FlagWalterland
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 35, y: 1}
+  VisibleRect:
+    x: 24
+    y: 1
+    width: 63
+    height: 126
+  BoxCenterOffset: {x: -0.085, y: 0}
+  BoxSize: {x: 0.63, y: 1.26}
+  BoxWidth: 0.375
+  Pivot: {x: 34.011593, y: 5.344472}
+  Texture: {fileID: 2800000, guid: fa45b9ef34b2e7d4f972a8e7103e3bc3, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4278210981
+  - serializedVersion: 2
+    rgba: 4278746032
+  - serializedVersion: 2
+    rgba: 4278227670
+  - serializedVersion: 2
+    rgba: 4280367211
+  - serializedVersion: 2
+    rgba: 4284647316
+  - serializedVersion: 2
+    rgba: 4281411732
+  - serializedVersion: 2
+    rgba: 4281758860
+  - serializedVersion: 2
+    rgba: 4285206668
+  - serializedVersion: 2
+    rgba: 4287403676
+  - serializedVersion: 2
+    rgba: 4278210939
+  - serializedVersion: 2
+    rgba: 4283606783
+  - serializedVersion: 2
+    rgba: 4285547415
+  - serializedVersion: 2
+    rgba: 4281116126
+  - serializedVersion: 2
+    rgba: 4287327908
+  - serializedVersion: 2
+    rgba: 4282568703
+  - serializedVersion: 2
+    rgba: 4289047221
+  - serializedVersion: 2
+    rgba: 4279808767
+  - serializedVersion: 2
+    rgba: 4281437111
+  - serializedVersion: 2
+    rgba: 4285256703
+  - serializedVersion: 2
+    rgba: 4287948799
+  - serializedVersion: 2
+    rgba: 4284660187
+  DamageColorProbs:
+  - 0.014343087
+  - 0.02161025
+  - 0.0034423408
+  - 0.0070759226
+  - 0.0053547523
+  - 0.00095620577
+  - 0.0032510997
+  - 0.0011474469
+  - 0.0003824823
+  - 0.00019124115
+  - 0.0003824823
+  - 0.32491872
+  - 0.10021037
+  - 0.020654045
+  - 0.008032128
+  - 0.037292026
+  - 0.018550392
+  - 0.022566456
+  - 0.011091987
+  - 0.2950851
+  - 0.10346147

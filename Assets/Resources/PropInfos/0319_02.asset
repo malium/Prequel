@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0319_02
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 0
+  PropSprite: {fileID: 21300000, guid: 3c8572b0947d2a84397edee72546cf22, type: 3}
+  FamilyName: MonsterEgg
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 46, y: 3}
+  VisibleRect:
+    x: 25
+    y: 3
+    width: 82
+    height: 95
+  BoxCenterOffset: {x: 0.02, y: -0.135}
+  BoxSize: {x: 0.82, y: 0.95}
+  BoxWidth: 0.59375
+  Pivot: {x: 65.484566, y: 14.118302}
+  Texture: {fileID: 2800000, guid: 3c8572b0947d2a84397edee72546cf22, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4283724147
+  - serializedVersion: 2
+    rgba: 4285896084
+  - serializedVersion: 2
+    rgba: 4288068285
+  - serializedVersion: 2
+    rgba: 4281939067
+  - serializedVersion: 2
+    rgba: 4290108382
+  - serializedVersion: 2
+    rgba: 4280881259
+  - serializedVersion: 2
+    rgba: 4283914902
+  - serializedVersion: 2
+    rgba: 4286271966
+  - serializedVersion: 2
+    rgba: 4282984610
+  - serializedVersion: 2
+    rgba: 4286283189
+  - serializedVersion: 2
+    rgba: 4287917559
+  - serializedVersion: 2
+    rgba: 4284628160
+  - serializedVersion: 2
+    rgba: 4289565406
+  - serializedVersion: 2
+    rgba: 4284093893
+  - serializedVersion: 2
+    rgba: 4286852302
+  - serializedVersion: 2
+    rgba: 4291734263
+  - serializedVersion: 2
+    rgba: 4289022430
+  DamageColorProbs:
+  - 0.02002279
+  - 0.049324434
+  - 0.01790656
+  - 0.0107439365
+  - 0.0026045905
+  - 0.08562592
+  - 0.007162624
+  - 0.21601823
+  - 0.43350154
+  - 0.08269575
+  - 0.0013022952
+  - 0.062347386
+  - 0.0011395083
+  - 0.0016278691
+  - 0.001790656
+  - 0.001790656
+  - 0.0043952465

@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0242_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 5c8824aa405449744aaa56a201d3d24d, type: 3}
+  FamilyName: Cryogenizer
+  HasLighting: 1
+  LightHeight: 1.5
+  LightRange: 10
+  LightIntensity: 3
+  LightColor:
+    serializedVersion: 2
+    rgba: 4279697152
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 121, y: 3}
+  VisibleRect:
+    x: 80
+    y: 3
+    width: 93
+    height: 251
+  BoxCenterOffset: {x: -0.015, y: 0.005}
+  BoxSize: {x: 0.93, y: 2.51}
+  BoxWidth: 0.30859375
+  Pivot: {x: 126.2185, y: 30.018095}
+  Texture: {fileID: 2800000, guid: 5c8824aa405449744aaa56a201d3d24d, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4283054649
+  - serializedVersion: 2
+    rgba: 4281024288
+  - serializedVersion: 2
+    rgba: 4280880169
+  - serializedVersion: 2
+    rgba: 4282871345
+  - serializedVersion: 2
+    rgba: 4286084194
+  - serializedVersion: 2
+    rgba: 4288455291
+  - serializedVersion: 2
+    rgba: 4284718658
+  - serializedVersion: 2
+    rgba: 4278716424
+  - serializedVersion: 2
+    rgba: 4284691546
+  - serializedVersion: 2
+    rgba: 4284334445
+  - serializedVersion: 2
+    rgba: 4288271728
+  - serializedVersion: 2
+    rgba: 4291229621
+  - serializedVersion: 2
+    rgba: 4280919626
+  - serializedVersion: 2
+    rgba: 4286862715
+  - serializedVersion: 2
+    rgba: 4288444812
+  - serializedVersion: 2
+    rgba: 4287429494
+  - serializedVersion: 2
+    rgba: 4290114444
+  - serializedVersion: 2
+    rgba: 4280374528
+  - serializedVersion: 2
+    rgba: 4285264730
+  - serializedVersion: 2
+    rgba: 4282699575
+  - serializedVersion: 2
+    rgba: 4280402712
+  - serializedVersion: 2
+    rgba: 4278739241
+  - serializedVersion: 2
+    rgba: 4293383134
+  - serializedVersion: 2
+    rgba: 4281433344
+  - serializedVersion: 2
+    rgba: 4286492509
+  - serializedVersion: 2
+    rgba: 4289022364
+  - serializedVersion: 2
+    rgba: 4292263597
+  - serializedVersion: 2
+    rgba: 4289051292
+  - serializedVersion: 2
+    rgba: 4292803542
+  - serializedVersion: 2
+    rgba: 4286261371
+  DamageColorProbs:
+  - 0.123605326
+  - 0.12180575
+  - 0.0002056661
+  - 0.02529693
+  - 0.006169983
+  - 0.00015424957
+  - 0.015373541
+  - 0.0023137436
+  - 0.0002056661
+  - 0.001953828
+  - 0.001079747
+  - 0.003342074
+  - 0.0034449073
+  - 0.000051416526
+  - 0.0004113322
+  - 0.14484034
+  - 0.0154249575
+  - 0.04056764
+  - 0.027045092
+  - 0.017275952
+  - 0.025554013
+  - 0.015887706
+  - 0.16139647
+  - 0.0007198313
+  - 0.044321045
+  - 0.007969561
+  - 0.0034963237
+  - 0.16946886
+  - 0.00051416527
+  - 0.02010386

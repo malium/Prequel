@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257dac38790f84f498cc52fab1edd870, type: 3}
+  m_Name: 0086
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  Name: TwoHeadedBeast
+  SpriteScale: 1.2
+  Frames:
+  - {fileID: 21300000, guid: 949f6655cdf35ef49ba5231e11e09b4c, type: 3}
+  - {fileID: 21300000, guid: f4eb5a300d8c0d4498752868c18b24f7, type: 3}
+  - {fileID: 21300000, guid: b4168884bbcdb354196dac5c9678e044, type: 3}
+  - {fileID: 21300000, guid: c7a75963a6b186e4c91246cfde9ba95a, type: 3}
+  - {fileID: 21300000, guid: 1653ee4e922562c45853e297e4fe5b39, type: 3}
+  - {fileID: 21300000, guid: a90d191baf1b2d74a8040f7145d8bf97, type: 3}
+  BaseHealth: 100
+  BaseSpeed: 1
+  SightRange: 7
+  SightAngle: 60
+  HearingRange: 5
+  AttackRange: 10
+  AttackRate: 1
+  AttackDamage: 10
+  DamageType: 0
+  FriendlyFamilies: []
+  AIType: 0
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel:
+  - {x: 22, y: 1}
+  - {x: 22, y: 1}
+  - {x: 26, y: 1}
+  - {x: 26, y: 1}
+  - {x: 33, y: 5}
+  - {x: 24, y: 0}
+  VisibleRect:
+  - x: 11
+    y: 1
+    width: 115
+    height: 126
+  - x: 2
+    y: 1
+    width: 121
+    height: 126
+  - x: 4
+    y: 1
+    width: 116
+    height: 126
+  - x: 2
+    y: 1
+    width: 119
+    height: 126
+  - x: 0
+    y: 5
+    width: 124
+    height: 122
+  - x: 0
+    y: 0
+    width: 123
+    height: 127
+  BoxCenterOffset:
+  - {x: 0.045, y: 0}
+  - {x: -0.015, y: 0}
+  - {x: -0.02, y: 0}
+  - {x: -0.025, y: 0}
+  - {x: -0.02, y: 0.02}
+  - {x: -0.025, y: -0.005}
+  BoxSize:
+  - {x: 1.15, y: 1.26}
+  - {x: 1.21, y: 1.26}
+  - {x: 1.16, y: 1.26}
+  - {x: 1.19, y: 1.26}
+  - {x: 1.24, y: 1.22}
+  - {x: 1.23, y: 1.27}
+  Textures:
+  - {fileID: 2800000, guid: 949f6655cdf35ef49ba5231e11e09b4c, type: 3}
+  - {fileID: 2800000, guid: f4eb5a300d8c0d4498752868c18b24f7, type: 3}
+  - {fileID: 2800000, guid: b4168884bbcdb354196dac5c9678e044, type: 3}
+  - {fileID: 2800000, guid: c7a75963a6b186e4c91246cfde9ba95a, type: 3}
+  - {fileID: 2800000, guid: 1653ee4e922562c45853e297e4fe5b39, type: 3}
+  - {fileID: 2800000, guid: a90d191baf1b2d74a8040f7145d8bf97, type: 3}
+  Pivots:
+  - {x: 64, y: 1.92}
+  - {x: 64, y: 1.92}
+  - {x: 69.12, y: 1.28}
+  - {x: 69.12, y: 1.28}
+  - {x: 64, y: 1.92}
+  - {x: 69.12, y: 1.28}

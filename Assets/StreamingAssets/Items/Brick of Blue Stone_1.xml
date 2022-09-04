@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Item>
+  <m_Name>Brick of Blue Stone</m_Name>
+  <m_ID>1</m_ID>
+  <m_ImageName>BrickOfBlueStone</m_ImageName>
+  <m_Category>Resource</m_Category>
+  <m_Subcategory>COUNT</m_Subcategory>
+  <m_Description>
+  </m_Description>
+  <m_ActiveItem>False</m_ActiveItem>
+  <m_Effects>
+    <Count>0</Count>
+  </m_Effects>
+</Item>

@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0189_03
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 3d33ec4aa6f23534aa769a783b30bc6c, type: 3}
+  FamilyName: AnimalBones
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 42, y: 3}
+  VisibleRect:
+    x: 18
+    y: 3
+    width: 90
+    height: 62
+  BoxCenterOffset: {x: -0.01, y: -0.3}
+  BoxSize: {x: 0.9, y: 0.62}
+  BoxWidth: 0.640625
+  Pivot: {x: 64.89074, y: 22.135004}
+  Texture: {fileID: 2800000, guid: 3d33ec4aa6f23534aa769a783b30bc6c, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4284119928
+  - serializedVersion: 2
+    rgba: 4282474589
+  - serializedVersion: 2
+    rgba: 4281026116
+  - serializedVersion: 2
+    rgba: 4289582038
+  - serializedVersion: 2
+    rgba: 4285765014
+  - serializedVersion: 2
+    rgba: 4287937213
+  - serializedVersion: 2
+    rgba: 4291750887
+  DamageColorProbs:
+  - 0.0813591
+  - 0.123753116
+  - 0.101309225
+  - 0.06421446
+  - 0.4021197
+  - 0.09102245
+  - 0.13622195

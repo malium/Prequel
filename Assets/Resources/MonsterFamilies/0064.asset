@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257dac38790f84f498cc52fab1edd870, type: 3}
+  m_Name: 0064
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  Name: Ogre
+  SpriteScale: 1
+  Frames:
+  - {fileID: 21300000, guid: dcdc61268ef7d5a42af56779ab425e7a, type: 3}
+  - {fileID: 21300000, guid: f10bc5b614a98454a881de1ba72c0e5d, type: 3}
+  - {fileID: 21300000, guid: 1088fefc9e89d7d48be7d02abbd2633e, type: 3}
+  - {fileID: 21300000, guid: ef39a5a27afbf4c4fa0fb1e3d1c7bfc4, type: 3}
+  - {fileID: 21300000, guid: 075d4f0ba0caa834abc27fa1aabcdb97, type: 3}
+  - {fileID: 21300000, guid: eb8339c9e65b548438895611f4dc340e, type: 3}
+  BaseHealth: 100
+  BaseSpeed: 1
+  SightRange: 7
+  SightAngle: 60
+  HearingRange: 5
+  AttackRange: 10
+  AttackRate: 1
+  AttackDamage: 10
+  DamageType: 0
+  FriendlyFamilies: []
+  AIType: 0
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel:
+  - {x: 83, y: 12}
+  - {x: 81, y: 11}
+  - {x: 48, y: 16}
+  - {x: 48, y: 16}
+  - {x: 86, y: 11}
+  - {x: 52, y: 16}
+  VisibleRect:
+  - x: 6
+    y: 12
+    width: 112
+    height: 104
+  - x: 6
+    y: 11
+    width: 112
+    height: 110
+  - x: 9
+    y: 16
+    width: 110
+    height: 104
+  - x: 7
+    y: 16
+    width: 110
+    height: 100
+  - x: 2
+    y: 11
+    width: 115
+    height: 115
+  - x: 1
+    y: 16
+    width: 110
+    height: 111
+  BoxCenterOffset:
+  - {x: -0.02, y: 0}
+  - {x: -0.02, y: 0.02}
+  - {x: 0, y: 0.04}
+  - {x: -0.02, y: 0.02}
+  - {x: -0.045, y: 0.045}
+  - {x: -0.08, y: 0.075}
+  BoxSize:
+  - {x: 1.12, y: 1.04}
+  - {x: 1.12, y: 1.1}
+  - {x: 1.1, y: 1.04}
+  - {x: 1.1, y: 1}
+  - {x: 1.15, y: 1.15}
+  - {x: 1.1, y: 1.11}
+  Textures:
+  - {fileID: 2800000, guid: dcdc61268ef7d5a42af56779ab425e7a, type: 3}
+  - {fileID: 2800000, guid: f10bc5b614a98454a881de1ba72c0e5d, type: 3}
+  - {fileID: 2800000, guid: 1088fefc9e89d7d48be7d02abbd2633e, type: 3}
+  - {fileID: 2800000, guid: ef39a5a27afbf4c4fa0fb1e3d1c7bfc4, type: 3}
+  - {fileID: 2800000, guid: 075d4f0ba0caa834abc27fa1aabcdb97, type: 3}
+  - {fileID: 2800000, guid: eb8339c9e65b548438895611f4dc340e, type: 3}
+  Pivots:
+  - {x: 72.96, y: 12.16}
+  - {x: 72.96, y: 12.16}
+  - {x: 76.8, y: 18.944}
+  - {x: 76.8, y: 18.944}
+  - {x: 72.96, y: 12.16}
+  - {x: 76.8, y: 18.944}

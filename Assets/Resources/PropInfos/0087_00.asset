@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0087_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 6b10d0d3b83866e4590ccd843ac190b6, type: 3}
+  FamilyName: LemonTreePickle
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 141, y: 11}
+  VisibleRect:
+    x: 43
+    y: 11
+    width: 164
+    height: 240
+  BoxCenterOffset: {x: -0.03, y: 0.03}
+  BoxSize: {x: 1.64, y: 2.4}
+  BoxWidth: 0.4375
+  Pivot: {x: 130.96913, y: 30.285326}
+  Texture: {fileID: 2800000, guid: 6b10d0d3b83866e4590ccd843ac190b6, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4282549826
+  - serializedVersion: 2
+    rgba: 4278920208
+  - serializedVersion: 2
+    rgba: 4285760041
+  - serializedVersion: 2
+    rgba: 4285241955
+  - serializedVersion: 2
+    rgba: 4281612301
+  - serializedVersion: 2
+    rgba: 4284114200
+  - serializedVersion: 2
+    rgba: 4279785752
+  - serializedVersion: 2
+    rgba: 4290631622
+  - serializedVersion: 2
+    rgba: 4281419065
+  - serializedVersion: 2
+    rgba: 4283063634
+  - serializedVersion: 2
+    rgba: 4287932052
+  - serializedVersion: 2
+    rgba: 4289056677
+  - serializedVersion: 2
+    rgba: 4286299755
+  - serializedVersion: 2
+    rgba: 4287930954
+  - serializedVersion: 2
+    rgba: 4289050219
+  DamageColorProbs:
+  - 0.008068113
+  - 0.0011352118
+  - 0.016298398
+  - 0.00032434624
+  - 0.000729779
+  - 0.00016217312
+  - 0.00016217312
+  - 0.00068923575
+  - 0.14915873
+  - 0.6457328
+  - 0.13172512
+  - 0.030204743
+  - 0.0070139873
+  - 0.00790594
+  - 0.00068923575

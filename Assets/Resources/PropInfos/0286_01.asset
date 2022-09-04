@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0286_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: f8470ceb4e9c314419e8fe39b40f1a3c, type: 3}
+  FamilyName: GraveMarble
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 72, y: 35}
+  VisibleRect:
+    x: 40
+    y: 35
+    width: 46
+    height: 87
+  BoxCenterOffset: {x: -0.01, y: 0.145}
+  BoxSize: {x: 0.46, y: 0.87}
+  BoxWidth: 0
+  Pivot: {x: 59.843185, y: 46.482025}
+  Texture: {fileID: 2800000, guid: f8470ceb4e9c314419e8fe39b40f1a3c, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4285561723
+  - serializedVersion: 2
+    rgba: 4287207321
+  - serializedVersion: 2
+    rgba: 4289181111
+  - serializedVersion: 2
+    rgba: 4291220438
+  - serializedVersion: 2
+    rgba: 4278197347
+  - serializedVersion: 2
+    rgba: 4281944402
+  - serializedVersion: 2
+    rgba: 4281095308
+  - serializedVersion: 2
+    rgba: 4281826741
+  - serializedVersion: 2
+    rgba: 4282558174
+  - serializedVersion: 2
+    rgba: 4278742461
+  - serializedVersion: 2
+    rgba: 4283195763
+  - serializedVersion: 2
+    rgba: 4284647327
+  - serializedVersion: 2
+    rgba: 4292799471
+  - serializedVersion: 2
+    rgba: 4278208933
+  - serializedVersion: 2
+    rgba: 4285440456
+  - serializedVersion: 2
+    rgba: 4286890974
+  DamageColorProbs:
+  - 0.016995447
+  - 0.043399088
+  - 0.00030349015
+  - 0.0012139606
+  - 0.04461305
+  - 0.010925645
+  - 0.0015174507
+  - 0.0012139606
+  - 0.13474962
+  - 0.07708649
+  - 0.35569045
+  - 0.17025797
+  - 0.017298939
+  - 0.0006069803
+  - 0.047647953
+  - 0.07647952

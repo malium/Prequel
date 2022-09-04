@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0252_06
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.8
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 7cf7fe64732f24145ab567a324a2b54b, type: 3}
+  FamilyName: EaselExpositive
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 48, y: 1}
+  VisibleRect:
+    x: 41
+    y: 1
+    width: 56
+    height: 126
+  BoxCenterOffset: {x: 0.05, y: 0}
+  BoxSize: {x: 0.56, y: 1.26}
+  BoxWidth: 0.390625
+  Pivot: {x: 63.999992, y: 16.493622}
+  Texture: {fileID: 2800000, guid: 7cf7fe64732f24145ab567a324a2b54b, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4280894794
+  - serializedVersion: 2
+    rgba: 4283791486
+  - serializedVersion: 2
+    rgba: 4282343269
+  - serializedVersion: 2
+    rgba: 4286884525
+  - serializedVersion: 2
+    rgba: 4279772209
+  - serializedVersion: 2
+    rgba: 4285043606
+  - serializedVersion: 2
+    rgba: 4288462534
+  - serializedVersion: 2
+    rgba: 4289585127
+  - serializedVersion: 2
+    rgba: 4284110146
+  - serializedVersion: 2
+    rgba: 4281950612
+  - serializedVersion: 2
+    rgba: 4284116397
+  - serializedVersion: 2
+    rgba: 4281940116
+  DamageColorProbs:
+  - 0.032141242
+  - 0.009280217
+  - 0.006790403
+  - 0.002037121
+  - 0.0015844273
+  - 0.0029425079
+  - 0.48279765
+  - 0.21140787
+  - 0.102535084
+  - 0.07333635
+  - 0.015165233
+  - 0.059981894

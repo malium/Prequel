@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0351_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 2
+  HasShadow: 0
+  PropSprite: {fileID: 21300000, guid: ada2442a4a2e32c4a995da8b95e906ac, type: 3}
+  FamilyName: ScribbledBlackMoon
+  HasLighting: 1
+  LightHeight: 3
+  LightRange: 20
+  LightIntensity: 10
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294942397
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 96, y: 153}
+  VisibleRect:
+    x: 66
+    y: 153
+    width: 77
+    height: 70
+  BoxCenterOffset: {x: -0.235, y: 0.6}
+  BoxSize: {x: 0.77, y: 0.7}
+  BoxWidth: 0
+  Pivot: {x: 127.99997, y: 13.3908615}
+  Texture: {fileID: 2800000, guid: ada2442a4a2e32c4a995da8b95e906ac, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4278190080
+  DamageColorProbs:
+  - 1

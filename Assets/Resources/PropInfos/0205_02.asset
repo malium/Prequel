@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0205_02
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.2
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 88b8e716a54e7484cabf126709be6bf5, type: 3}
+  FamilyName: BannerPatriotic
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 122, y: 17}
+  VisibleRect:
+    x: 84
+    y: 17
+    width: 78
+    height: 216
+  BoxCenterOffset: {x: -0.05, y: -0.03}
+  BoxSize: {x: 0.78, y: 2.16}
+  BoxWidth: 0.03515625
+  Pivot: {x: 122.65552, y: 22.298307}
+  Texture: {fileID: 2800000, guid: 88b8e716a54e7484cabf126709be6bf5, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4278190212
+  - serializedVersion: 2
+    rgba: 4279763117
+  - serializedVersion: 2
+    rgba: 4278736573
+  - serializedVersion: 2
+    rgba: 4279249845
+  - serializedVersion: 2
+    rgba: 4278190170
+  - serializedVersion: 2
+    rgba: 4278233847
+  - serializedVersion: 2
+    rgba: 4278204498
+  - serializedVersion: 2
+    rgba: 4278532990
+  - serializedVersion: 2
+    rgba: 4278223558
+  - serializedVersion: 2
+    rgba: 4278216068
+  - serializedVersion: 2
+    rgba: 4278714582
+  DamageColorProbs:
+  - 0.016093118
+  - 0.014473684
+  - 0.00010121457
+  - 0.0010121458
+  - 0.020242915
+  - 0.0015182187
+  - 0.14190283
+  - 0.22186235
+  - 0.5691295
+  - 0.0063765184
+  - 0.007287449

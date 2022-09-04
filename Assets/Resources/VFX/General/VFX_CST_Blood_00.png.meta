@@ -1,0 +1,675 @@
+fileFormatVersion: 2
+guid: f172149561c752d44bbdebae58c1cf78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3116880141112283639
+    second: VFX_CST_BLOOD_00_0
+  - first:
+      213: -5198999444407931074
+    second: VFX_CST_BLOOD_00_1
+  - first:
+      213: -3769227532500027138
+    second: VFX_CST_BLOOD_00_2
+  - first:
+      213: 4597448402718485842
+    second: VFX_CST_BLOOD_00_3
+  - first:
+      213: 1342235894833571351
+    second: VFX_CST_BLOOD_00_4
+  - first:
+      213: -6860370000575913113
+    second: VFX_CST_BLOOD_00_5
+  - first:
+      213: -5989130595151659220
+    second: VFX_CST_BLOOD_00_6
+  - first:
+      213: 2284613981389897369
+    second: VFX_CST_BLOOD_00_7
+  - first:
+      213: -9033206174196768020
+    second: VFX_CST_BLOOD_00_8
+  - first:
+      213: 7725543202592475431
+    second: VFX_CST_BLOOD_00_9
+  - first:
+      213: 7336176341196936357
+    second: VFX_CST_BLOOD_00_10
+  - first:
+      213: -569151882443426708
+    second: VFX_CST_BLOOD_00_11
+  - first:
+      213: 1587096010169805488
+    second: VFX_CST_BLOOD_00_12
+  - first:
+      213: -6886908853131258623
+    second: VFX_CST_BLOOD_00_13
+  - first:
+      213: 6558414577522591446
+    second: VFX_CST_BLOOD_00_14
+  - first:
+      213: -5524301652417306171
+    second: VFX_CST_BLOOD_00_15
+  - first:
+      213: 7244877200032113276
+    second: VFX_CST_BLOOD_00_16
+  - first:
+      213: -2363802558656523992
+    second: VFX_CST_BLOOD_00_17
+  - first:
+      213: -6200645256271188077
+    second: VFX_CST_BLOOD_00_18
+  - first:
+      213: 2642129067227485784
+    second: VFX_CST_BLOOD_00_19
+  - first:
+      213: 4699470223428489172
+    second: VFX_CST_BLOOD_00_20
+  - first:
+      213: -4447710678295166045
+    second: VFX_CST_BLOOD_00_21
+  - first:
+      213: -7023259652395573019
+    second: VFX_CST_BLOOD_00_22
+  - first:
+      213: -5331820182545461126
+    second: VFX_CST_BLOOD_00_23
+  - first:
+      213: -743276966415895221
+    second: VFX_CST_BLOOD_00_24
+  - first:
+      213: 7045017381217448010
+    second: VFX_CST_BLOOD_00_25
+  - first:
+      213: 7141354520756687392
+    second: VFX_CST_BLOOD_00_26
+  - first:
+      213: -8537086531065543453
+    second: VFX_CST_BLOOD_00_27
+  - first:
+      213: -4022826960550491243
+    second: VFX_CST_BLOOD_00_28
+  - first:
+      213: 7161639518037334189
+    second: VFX_CST_BLOOD_00_29
+  - first:
+      213: -8001316945395820631
+    second: VFX_CST_BLOOD_00_30
+  - first:
+      213: 7639729019922856074
+    second: VFX_CST_BLOOD_00_31
+  - first:
+      213: -8674581329793328141
+    second: VFX_CST_BLOOD_00_32
+  - first:
+      213: -3965426014851318034
+    second: VFX_CST_BLOOD_00_33
+  - first:
+      213: -8209744132228088940
+    second: VFX_CST_BLOOD_00_34
+  - first:
+      213: 4898813004998512690
+    second: VFX_CST_BLOOD_00_35
+  - first:
+      213: 3064786376983110257
+    second: VFX_CST_BLOOD_00_36
+  - first:
+      213: -7265214588532773893
+    second: VFX_CST_BLOOD_00_37
+  - first:
+      213: -738849285362750154
+    second: VFX_CST_BLOOD_00_38
+  - first:
+      213: -9136151830736433414
+    second: VFX_CST_Blood_00_0
+  - first:
+      213: -1640573092742885265
+    second: VFX_CST_Blood_00_1
+  - first:
+      213: 6072571987877741124
+    second: VFX_CST_Blood_00_2
+  - first:
+      213: 852416883010231021
+    second: VFX_CST_Blood_00_3
+  - first:
+      213: -687342095802032894
+    second: VFX_CST_Blood_00_4
+  - first:
+      213: 5017038055736821561
+    second: VFX_CST_Blood_00_5
+  - first:
+      213: 3037765803415305717
+    second: VFX_CST_Blood_00_6
+  - first:
+      213: -1092664608574720145
+    second: VFX_CST_Blood_00_7
+  - first:
+      213: 2253512401115254978
+    second: VFX_CST_Blood_00_8
+  - first:
+      213: -8708240484349171433
+    second: VFX_CST_Blood_00_9
+  - first:
+      213: -8606411982514716310
+    second: VFX_CST_Blood_00_10
+  - first:
+      213: 5752303064154434427
+    second: VFX_CST_Blood_00_11
+  - first:
+      213: -8737872573719574326
+    second: VFX_CST_Blood_00_12
+  - first:
+      213: 229763769084459243
+    second: VFX_CST_Blood_00_13
+  - first:
+      213: 3639441838375938137
+    second: VFX_CST_Blood_00_14
+  - first:
+      213: 1168050552277183137
+    second: VFX_CST_Blood_00_15
+  - first:
+      213: -8025829194738552515
+    second: VFX_CST_Blood_00_0
+  - first:
+      213: -2944992073119550819
+    second: VFX_CST_Blood_00_1
+  - first:
+      213: 3108316031786243057
+    second: VFX_CST_Blood_00_2
+  - first:
+      213: 9032559349174577197
+    second: VFX_CST_Blood_00_3
+  - first:
+      213: -5630066231470313425
+    second: VFX_CST_Blood_00_4
+  - first:
+      213: 8338059082842064879
+    second: VFX_CST_Blood_00_5
+  - first:
+      213: 8016272854480195624
+    second: VFX_CST_Blood_00_6
+  - first:
+      213: -2417690303224496407
+    second: VFX_CST_Blood_00_7
+  - first:
+      213: 3280982302827550390
+    second: VFX_CST_Blood_00_8
+  - first:
+      213: -5017596562404228512
+    second: VFX_CST_Blood_00_9
+  - first:
+      213: -1749678126966855325
+    second: VFX_CST_Blood_00_10
+  - first:
+      213: 3816048405109455285
+    second: VFX_CST_Blood_00_11
+  - first:
+      213: 1668743377737528588
+    second: VFX_CST_Blood_00_12
+  - first:
+      213: 1201765459729525858
+    second: VFX_CST_Blood_00_13
+  - first:
+      213: -4355282602123438323
+    second: VFX_CST_Blood_00_14
+  - first:
+      213: -5062072294121944846
+    second: VFX_CST_Blood_00_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_CST_Blood_00_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3136abbed68e9090800000000000000
+      internalID: -9136151830736433414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Blood_00_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d923e5f00594127d0800000000000000
+      internalID: -1640573092742885265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Blood_00_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3554c56f4f22b20800000000000000
+      internalID: 6072571987877741124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Blood_00_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d282f2c1fd81a5d70800000000000000
+      internalID: 852416883010231021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Blood_00_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f203a43879cfdd1b0800000000000000
+      internalID: -687342095802032894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Blood_00_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe745051f8cb6b370800000000000000
+      internalID: 5017038055736821561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Blood_00_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82016e960b58f3f60800000000000000
+      internalID: 3037765803415305717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Blood_00_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eeb56b8a73a27ed0800000000000000
+      internalID: -1092664608574720145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Blood_00_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b611626504688d20800000000000000
+      internalID: 2253512401115254978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Blood_00_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062cca7c28aed5ab0800000000000000
+      internalID: -8708240484349171433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Blood_00_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369aed28305e7b7e0800000000000000
+      internalID: -8606411982514716310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Blood_00_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9be306ec355f430800000000000000
+      internalID: 5752303064154434427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Blood_00_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05b45bb241982710800000000000000
+      internalID: -8737872573719574326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Blood_00_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c238281578da010800000000000000
+      internalID: 229763769084459243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Blood_00_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d075ef37c8dee83c0800000000000000
+      internalID: 3639441838375938137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_Blood_00_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8c3898118efb9b0800000000000000
+      internalID: 1168050552277183137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: af661c67e4f48c244a43903dd7e7f1ec
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      VFX_CST_Blood_00_9: -8708240484349171433
+      VFX_CST_Blood_00_14: 3639441838375938137
+      VFX_CST_Blood_00_4: -687342095802032894
+      VFX_CST_Blood_00_5: 5017038055736821561
+      VFX_CST_Blood_00_8: 2253512401115254978
+      VFX_CST_Blood_00_3: 852416883010231021
+      VFX_CST_Blood_00_13: 229763769084459243
+      VFX_CST_Blood_00_11: 5752303064154434427
+      VFX_CST_Blood_00_12: -8737872573719574326
+      VFX_CST_Blood_00_7: -1092664608574720145
+      VFX_CST_Blood_00_1: -1640573092742885265
+      VFX_CST_Blood_00_2: 6072571987877741124
+      VFX_CST_Blood_00_15: 1168050552277183137
+      VFX_CST_Blood_00_0: -9136151830736433414
+      VFX_CST_Blood_00_10: -8606411982514716310
+      VFX_CST_Blood_00_6: 3037765803415305717
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

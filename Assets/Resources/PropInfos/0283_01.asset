@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0283_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 0.7
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 51b38f54d2ac9554bac061ae1a18c544, type: 3}
+  FamilyName: GoldIngot
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 37, y: 7}
+  VisibleRect:
+    x: 9
+    y: 7
+    width: 107
+    height: 85
+  BoxCenterOffset: {x: -0.015, y: -0.145}
+  BoxSize: {x: 1.07, y: 0.85}
+  BoxWidth: 0.7734375
+  Pivot: {x: 62.218502, y: 27.107391}
+  Texture: {fileID: 2800000, guid: 51b38f54d2ac9554bac061ae1a18c544, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4278204793
+  - serializedVersion: 2
+    rgba: 4278934425
+  - serializedVersion: 2
+    rgba: 4279663287
+  - serializedVersion: 2
+    rgba: 4283090935
+  - serializedVersion: 2
+    rgba: 4281441232
+  - serializedVersion: 2
+    rgba: 4284327371
+  - serializedVersion: 2
+    rgba: 4285782007
+  - serializedVersion: 2
+    rgba: 4278750942
+  - serializedVersion: 2
+    rgba: 4290114559
+  - serializedVersion: 2
+    rgba: 4282352818
+  - serializedVersion: 2
+    rgba: 4286496728
+  DamageColorProbs:
+  - 0.09654674
+  - 0.07557404
+  - 0.0065087685
+  - 0.0010847948
+  - 0.0019887905
+  - 0.0005423974
+  - 0.2267221
+  - 0.33881757
+  - 0.10884108
+  - 0.036521424
+  - 0.106852286

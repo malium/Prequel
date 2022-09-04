@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0269_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 0.8
+  HasShadow: 0
+  PropSprite: {fileID: 21300000, guid: 36d68dba7a017f946abb0c40b1947d4c, type: 3}
+  FamilyName: GeiserBasaltic
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 64, y: 12}
+  VisibleRect:
+    x: 11
+    y: 12
+    width: 105
+    height: 70
+  BoxCenterOffset: {x: -0.005, y: -0.17}
+  BoxSize: {x: 1.05, y: 0.7}
+  BoxWidth: 0.7890625
+  Pivot: {x: 60.143227, y: 19.959513}
+  Texture: {fileID: 2800000, guid: 36d68dba7a017f946abb0c40b1947d4c, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4279256410
+  - serializedVersion: 2
+    rgba: 4278724665
+  - serializedVersion: 2
+    rgba: 4283055203
+  - serializedVersion: 2
+    rgba: 4283917402
+  - serializedVersion: 2
+    rgba: 4285766276
+  - serializedVersion: 2
+    rgba: 4279240987
+  - serializedVersion: 2
+    rgba: 4287412868
+  - serializedVersion: 2
+    rgba: 4284714586
+  - serializedVersion: 2
+    rgba: 4289051301
+  - serializedVersion: 2
+    rgba: 4281423178
+  - serializedVersion: 2
+    rgba: 4281608263
+  - serializedVersion: 2
+    rgba: 4280891425
+  - serializedVersion: 2
+    rgba: 4282547522
+  DamageColorProbs:
+  - 0.032935284
+  - 0.025616333
+  - 0.00866718
+  - 0.0053929123
+  - 0.000577812
+  - 0.000577812
+  - 0.000577812
+  - 0.5718413
+  - 0.1107473
+  - 0.06375193
+  - 0.054699536
+  - 0.06914484
+  - 0.055469953

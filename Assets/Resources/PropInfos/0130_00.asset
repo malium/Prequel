@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0130_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: d28946fc89c12e145865a5e0f73c52f5, type: 3}
+  FamilyName: SingleForestLettuce
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 111, y: 7}
+  VisibleRect:
+    x: 61
+    y: 7
+    width: 120
+    height: 242
+  BoxCenterOffset: {x: -0.07, y: 0}
+  BoxSize: {x: 1.2, y: 2.42}
+  BoxWidth: 0.125
+  Pivot: {x: 123.84318, y: 16.627241}
+  Texture: {fileID: 2800000, guid: d28946fc89c12e145865a5e0f73c52f5, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4284300623
+  - serializedVersion: 2
+    rgba: 4287724692
+  - serializedVersion: 2
+    rgba: 4285748587
+  - serializedVersion: 2
+    rgba: 4293514729
+  - serializedVersion: 2
+    rgba: 4291738326
+  - serializedVersion: 2
+    rgba: 4290093757
+  - serializedVersion: 2
+    rgba: 4290084269
+  - serializedVersion: 2
+    rgba: 4282550883
+  - serializedVersion: 2
+    rgba: 4284719739
+  - serializedVersion: 2
+    rgba: 4287936173
+  - serializedVersion: 2
+    rgba: 4282147140
+  - serializedVersion: 2
+    rgba: 4278731032
+  - serializedVersion: 2
+    rgba: 4281221678
+  DamageColorProbs:
+  - 0.113673195
+  - 0.039266244
+  - 0.042434067
+  - 0.11654634
+  - 0.0033151614
+  - 0.05503168
+  - 0.03270959
+  - 0.02033299
+  - 0.012302932
+  - 0.00007367025
+  - 0.37424487
+  - 0.12251363
+  - 0.06755562

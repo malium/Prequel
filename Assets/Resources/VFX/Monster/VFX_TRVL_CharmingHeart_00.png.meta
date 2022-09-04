@@ -1,0 +1,570 @@
+fileFormatVersion: 2
+guid: 7c9c8af122538bf4c9ca1f12f1bbcd1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4809609738573178677
+    second: VFX_PRJ_TRVL_CharmingHeart_00_0
+  - first:
+      213: 6185704927856104761
+    second: VFX_PRJ_TRVL_CharmingHeart_00_1
+  - first:
+      213: -2358390465549766681
+    second: VFX_PRJ_TRVL_CharmingHeart_00_2
+  - first:
+      213: 8110703356575059326
+    second: VFX_PRJ_TRVL_CharmingHeart_00_3
+  - first:
+      213: -2035293763766178662
+    second: VFX_PRJ_TRVL_CharmingHeart_00_4
+  - first:
+      213: 4755481809466851960
+    second: VFX_PRJ_TRVL_CharmingHeart_00_5
+  - first:
+      213: 7812491890309040241
+    second: VFX_PRJ_TRVL_CharmingHeart_00_6
+  - first:
+      213: 8694407816261147086
+    second: VFX_PRJ_TRVL_CharmingHeart_00_7
+  - first:
+      213: -6734967694268833991
+    second: VFX_PRJ_TRVL_CharmingHeart_00_8
+  - first:
+      213: 6588252978147723192
+    second: VFX_PRJ_TRVL_CharmingHeart_00_9
+  - first:
+      213: 6424393946969588465
+    second: VFX_PRJ_TRVL_CharmingHeart_00_10
+  - first:
+      213: 5196191512304702055
+    second: VFX_PRJ_TRVL_CharmingHeart_00_11
+  - first:
+      213: 4026104297037257365
+    second: VFX_PRJ_TRVL_CharmingHeart_00_12
+  - first:
+      213: 4050645449382417445
+    second: VFX_PRJ_TRVL_CharmingHeart_00_13
+  - first:
+      213: 8665913231887272077
+    second: VFX_PRJ_TRVL_CharmingHeart_00_14
+  - first:
+      213: -5755713342244032024
+    second: VFX_PRJ_TRVL_CharmingHeart_00_15
+  - first:
+      213: -8331250317480754988
+    second: VFX_TRVL_CharmingHeart_00_0
+  - first:
+      213: -858605674997272939
+    second: VFX_TRVL_CharmingHeart_00_1
+  - first:
+      213: 5043587114511591359
+    second: VFX_TRVL_CharmingHeart_00_2
+  - first:
+      213: 4385963686804051439
+    second: VFX_TRVL_CharmingHeart_00_3
+  - first:
+      213: -3221930552702250583
+    second: VFX_TRVL_CharmingHeart_00_4
+  - first:
+      213: 3303129141292790680
+    second: VFX_TRVL_CharmingHeart_00_5
+  - first:
+      213: -7884234889022934242
+    second: VFX_TRVL_CharmingHeart_00_6
+  - first:
+      213: 5804727339213882875
+    second: VFX_TRVL_CharmingHeart_00_7
+  - first:
+      213: -4782755182921923183
+    second: VFX_TRVL_CharmingHeart_00_8
+  - first:
+      213: -2327447387721957660
+    second: VFX_TRVL_CharmingHeart_00_9
+  - first:
+      213: 4212330916484256899
+    second: VFX_TRVL_CharmingHeart_00_10
+  - first:
+      213: 6339653682352975721
+    second: VFX_TRVL_CharmingHeart_00_11
+  - first:
+      213: 3787207510843981914
+    second: VFX_TRVL_CharmingHeart_00_12
+  - first:
+      213: 5683785253083454078
+    second: VFX_TRVL_CharmingHeart_00_13
+  - first:
+      213: 4678918917188147327
+    second: VFX_TRVL_CharmingHeart_00_14
+  - first:
+      213: -3518868516882157670
+    second: VFX_TRVL_CharmingHeart_00_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_TRVL_CharmingHeart_00_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d003b32af3716c80800000000000000
+      internalID: -8331250317480754988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_CharmingHeart_00_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e27ab00be9514f0800000000000000
+      internalID: -858605674997272939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_CharmingHeart_00_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7633232cb6ef540800000000000000
+      internalID: 5043587114511591359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_CharmingHeart_00_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5d7bd3cb21edc30800000000000000
+      internalID: 4385963686804051439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_CharmingHeart_00_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1543b9b376943d0800000000000000
+      internalID: -3221930552702250583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_CharmingHeart_00_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8937ff9047217dd20800000000000000
+      internalID: 3303129141292790680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_CharmingHeart_00_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13fb021422959290800000000000000
+      internalID: -7884234889022934242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_CharmingHeart_00_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf587df92c88e8050800000000000000
+      internalID: 5804727339213882875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_CharmingHeart_00_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195c742508d30adb0800000000000000
+      internalID: -4782755182921923183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_CharmingHeart_00_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eefb65aeee33bfd0800000000000000
+      internalID: -2327447387721957660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_CharmingHeart_00_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384907196a4357a30800000000000000
+      internalID: 4212330916484256899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_CharmingHeart_00_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f65a76f69faf750800000000000000
+      internalID: 6339653682352975721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_CharmingHeart_00_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a500c866a2dde8430800000000000000
+      internalID: 3787207510843981914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_CharmingHeart_00_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a94add29cd0ee40800000000000000
+      internalID: 5683785253083454078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_CharmingHeart_00_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78dad717fbdee040800000000000000
+      internalID: 4678918917188147327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_TRVL_CharmingHeart_00_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9feee74ab77a2fc0800000000000000
+      internalID: -3518868516882157670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      VFX_TRVL_CharmingHeart_00_4: -3221930552702250583
+      VFX_TRVL_CharmingHeart_00_14: 4678918917188147327
+      VFX_TRVL_CharmingHeart_00_9: -2327447387721957660
+      VFX_TRVL_CharmingHeart_00_15: -3518868516882157670
+      VFX_TRVL_CharmingHeart_00_7: 5804727339213882875
+      VFX_TRVL_CharmingHeart_00_8: -4782755182921923183
+      VFX_TRVL_CharmingHeart_00_6: -7884234889022934242
+      VFX_TRVL_CharmingHeart_00_10: 4212330916484256899
+      VFX_TRVL_CharmingHeart_00_2: 5043587114511591359
+      VFX_TRVL_CharmingHeart_00_13: 5683785253083454078
+      VFX_TRVL_CharmingHeart_00_12: 3787207510843981914
+      VFX_TRVL_CharmingHeart_00_5: 3303129141292790680
+      VFX_TRVL_CharmingHeart_00_11: 6339653682352975721
+      VFX_TRVL_CharmingHeart_00_0: -8331250317480754988
+      VFX_TRVL_CharmingHeart_00_1: -858605674997272939
+      VFX_TRVL_CharmingHeart_00_3: 4385963686804051439
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

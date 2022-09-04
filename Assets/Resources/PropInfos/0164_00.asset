@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0164_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 0.8
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 65c2a5a5fa38bd24b8ebde296698051e, type: 3}
+  FamilyName: VaseGold
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 57, y: 9}
+  VisibleRect:
+    x: 28
+    y: 9
+    width: 71
+    height: 112
+  BoxCenterOffset: {x: -0.005, y: 0.01}
+  BoxSize: {x: 0.71, y: 1.12}
+  BoxWidth: 0.3203125
+  Pivot: {x: 64.59383, y: 16.033407}
+  Texture: {fileID: 2800000, guid: 65c2a5a5fa38bd24b8ebde296698051e, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4281561800
+  - serializedVersion: 2
+    rgba: 4283937766
+  - serializedVersion: 2
+    rgba: 4285059071
+  - serializedVersion: 2
+    rgba: 4285265919
+  - serializedVersion: 2
+    rgba: 4280904191
+  - serializedVersion: 2
+    rgba: 4279775413
+  - serializedVersion: 2
+    rgba: 4284517835
+  - serializedVersion: 2
+    rgba: 4287954943
+  - serializedVersion: 2
+    rgba: 4280373726
+  - serializedVersion: 2
+    rgba: 4282554623
+  - serializedVersion: 2
+    rgba: 4288469233
+  - serializedVersion: 2
+    rgba: 4290641919
+  - serializedVersion: 2
+    rgba: 4286495971
+  DamageColorProbs:
+  - 0.053932585
+  - 0.0025929126
+  - 0.051858254
+  - 0.01642178
+  - 0.00207433
+  - 0.00207433
+  - 0.0015557476
+  - 0.060847018
+  - 0.053414002
+  - 0.27657735
+  - 0.16698357
+  - 0.0062229903
+  - 0.3054451

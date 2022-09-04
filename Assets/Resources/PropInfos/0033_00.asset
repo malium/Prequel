@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0033_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: ebcb06ec01e260e488eba28b939d33c5, type: 3}
+  FamilyName: Candle
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 53, y: 39}
+  VisibleRect:
+    x: 48
+    y: 39
+    width: 50
+    height: 71
+  BoxCenterOffset: {x: 0.09, y: 0.105}
+  BoxSize: {x: 0.5, y: 0.71}
+  BoxWidth: 0
+  Pivot: {x: 73.20435, y: 48.99096}
+  Texture: {fileID: 2800000, guid: ebcb06ec01e260e488eba28b939d33c5, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4287012005
+  - serializedVersion: 2
+    rgba: 4283721326
+  - serializedVersion: 2
+    rgba: 4289380294
+  - serializedVersion: 2
+    rgba: 4281941066
+  - serializedVersion: 2
+    rgba: 4294441983
+  - serializedVersion: 2
+    rgba: 4285564299
+  - serializedVersion: 2
+    rgba: 4291748839
+  DamageColorProbs:
+  - 0.031218015
+  - 0.13254862
+  - 0.17195496
+  - 0.060900718
+  - 0.02149437
+  - 0.23234391
+  - 0.3495394

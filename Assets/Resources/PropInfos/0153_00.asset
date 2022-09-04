@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0153_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 4d06bdd0643ec4f4f898622b85967b29, type: 3}
+  FamilyName: TrockplockTree
+  HasLighting: 1
+  LightHeight: 0.8
+  LightRange: 10
+  LightIntensity: 1.8
+  LightColor:
+    serializedVersion: 2
+    rgba: 4283498240
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 62, y: 23}
+  VisibleRect:
+    x: 27
+    y: 23
+    width: 81
+    height: 91
+  BoxCenterOffset: {x: 0.035, y: 0.045}
+  BoxSize: {x: 0.81, y: 0.91}
+  BoxWidth: 0.125
+  Pivot: {x: 62.812325, y: 27.910002}
+  Texture: {fileID: 2800000, guid: 4d06bdd0643ec4f4f898622b85967b29, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4281944661
+  - serializedVersion: 2
+    rgba: 4283588979
+  - serializedVersion: 2
+    rgba: 4280839734
+  - serializedVersion: 2
+    rgba: 4279776297
+  - serializedVersion: 2
+    rgba: 4285984894
+  - serializedVersion: 2
+    rgba: 4283095890
+  - serializedVersion: 2
+    rgba: 4281967684
+  - serializedVersion: 2
+    rgba: 4282882441
+  - serializedVersion: 2
+    rgba: 4284137133
+  - serializedVersion: 2
+    rgba: 4284857968
+  - serializedVersion: 2
+    rgba: 4284868819
+  - serializedVersion: 2
+    rgba: 4279257344
+  - serializedVersion: 2
+    rgba: 4285383470
+  - serializedVersion: 2
+    rgba: 4291755850
+  - serializedVersion: 2
+    rgba: 4287954712
+  - serializedVersion: 2
+    rgba: 4284139264
+  - serializedVersion: 2
+    rgba: 4289587051
+  - serializedVersion: 2
+    rgba: 4282680094
+  - serializedVersion: 2
+    rgba: 4283923018
+  - serializedVersion: 2
+    rgba: 4288068723
+  - serializedVersion: 2
+    rgba: 4292280187
+  - serializedVersion: 2
+    rgba: 4292804525
+  - serializedVersion: 2
+    rgba: 4288462778
+  - serializedVersion: 2
+    rgba: 4281562981
+  - serializedVersion: 2
+    rgba: 4286314413
+  - serializedVersion: 2
+    rgba: 4292804607
+  - serializedVersion: 2
+    rgba: 4286903295
+  - serializedVersion: 2
+    rgba: 4285764962
+  - serializedVersion: 2
+    rgba: 4284148735
+  - serializedVersion: 2
+    rgba: 4289918463
+  - serializedVersion: 2
+    rgba: 4278746500
+  - serializedVersion: 2
+    rgba: 4289068989
+  - serializedVersion: 2
+    rgba: 4290633628
+  - serializedVersion: 2
+    rgba: 4281973446
+  - serializedVersion: 2
+    rgba: 4289068866
+  - serializedVersion: 2
+    rgba: 4286310218
+  DamageColorProbs:
+  - 0.072758526
+  - 0.0094528785
+  - 0.010025781
+  - 0.0071612718
+  - 0.0028645087
+  - 0.024921225
+  - 0.0042967633
+  - 0.020624463
+  - 0.01947866
+  - 0.00028645087
+  - 0.00658837
+  - 0.0028645087
+  - 0.00028645087
+  - 0.00057290174
+  - 0.0034374106
+  - 0.0011458035
+  - 0.00057290174
+  - 0.00085935264
+  - 0.3970209
+  - 0.037525065
+  - 0.012603838
+  - 0.032082498
+  - 0.021483816
+  - 0.057290174
+  - 0.014895446
+  - 0.058149528
+  - 0.032082498
+  - 0.011458035
+  - 0.034087654
+  - 0.015181896
+  - 0.002291607
+  - 0.057003725
+  - 0.014036093
+  - 0.010885133
+  - 0.00028645087
+  - 0.0034374106

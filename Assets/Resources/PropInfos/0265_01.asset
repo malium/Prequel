@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0265_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.5
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: e790b4eb0e688354dba0bc3c7251cf21, type: 3}
+  FamilyName: Fridge
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 68, y: 0}
+  VisibleRect:
+    x: 25
+    y: 0
+    width: 79
+    height: 127
+  BoxCenterOffset: {x: 0.005, y: -0.005}
+  BoxSize: {x: 0.79, y: 1.27}
+  BoxWidth: 0.578125
+  Pivot: {x: 67.26606, y: 9.961494}
+  Texture: {fileID: 2800000, guid: e790b4eb0e688354dba0bc3c7251cf21, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4283588971
+  - serializedVersion: 2
+    rgba: 4286483604
+  - serializedVersion: 2
+    rgba: 4278225597
+  - serializedVersion: 2
+    rgba: 4292273127
+  - serializedVersion: 2
+    rgba: 4281428353
+  - serializedVersion: 2
+    rgba: 4289378237
+  - serializedVersion: 2
+    rgba: 4279782763
+  - serializedVersion: 2
+    rgba: 4282528834
+  - serializedVersion: 2
+    rgba: 4286292917
+  - serializedVersion: 2
+    rgba: 4283600036
+  - serializedVersion: 2
+    rgba: 4280358936
+  - serializedVersion: 2
+    rgba: 4286279789
+  - serializedVersion: 2
+    rgba: 4289584111
+  - serializedVersion: 2
+    rgba: 4281112514
+  - serializedVersion: 2
+    rgba: 4284136150
+  - serializedVersion: 2
+    rgba: 4289563284
+  - serializedVersion: 2
+    rgba: 4287417310
+  - serializedVersion: 2
+    rgba: 4289171136
+  - serializedVersion: 2
+    rgba: 4283055227
+  - serializedVersion: 2
+    rgba: 4278190080
+  - serializedVersion: 2
+    rgba: 4291738334
+  - serializedVersion: 2
+    rgba: 4285550478
+  - serializedVersion: 2
+    rgba: 4279778361
+  - serializedVersion: 2
+    rgba: 4288439989
+  - serializedVersion: 2
+    rgba: 4286853285
+  - serializedVersion: 2
+    rgba: 4294440959
+  DamageColorProbs:
+  - 0.0058041112
+  - 0.0027811367
+  - 0.0009673519
+  - 0.0010882708
+  - 0.00012091899
+  - 0.0013301088
+  - 0.0049576783
+  - 0.00048367595
+  - 0.0019347038
+  - 0.00060459494
+  - 0.0007255139
+  - 0.005441354
+  - 0.0022974608
+  - 0.16021766
+  - 0.11886336
+  - 0.26033857
+  - 0.021281742
+  - 0.0012091899
+  - 0.24038695
+  - 0.06674728
+  - 0.007980653
+  - 0.006045949
+  - 0.08065296
+  - 0.0048367595
+  - 0.0015719468
+  - 0.0013301088

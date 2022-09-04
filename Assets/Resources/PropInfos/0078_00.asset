@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0078_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 364eca253e3bf4b4985e369ba8a7c966, type: 3}
+  FamilyName: Hellmlock
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 63, y: 18}
+  VisibleRect:
+    x: 21
+    y: 18
+    width: 75
+    height: 96
+  BoxCenterOffset: {x: -0.055, y: 0.02}
+  BoxSize: {x: 0.75, y: 0.96}
+  BoxWidth: 0.2265625
+  Pivot: {x: 66.96914, y: 22.86245}
+  Texture: {fileID: 2800000, guid: 364eca253e3bf4b4985e369ba8a7c966, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4278727704
+  - serializedVersion: 2
+    rgba: 4287542954
+  - serializedVersion: 2
+    rgba: 4280919626
+  - serializedVersion: 2
+    rgba: 4283399525
+  - serializedVersion: 2
+    rgba: 4279793969
+  - serializedVersion: 2
+    rgba: 4281977690
+  - serializedVersion: 2
+    rgba: 4291751919
+  - serializedVersion: 2
+    rgba: 4290305232
+  - serializedVersion: 2
+    rgba: 4285043585
+  - serializedVersion: 2
+    rgba: 4281425234
+  - serializedVersion: 2
+    rgba: 4279781689
+  DamageColorProbs:
+  - 0.146145
+  - 0.07479862
+  - 0.034906022
+  - 0.010740315
+  - 0.00076716533
+  - 0.001150748
+  - 0.3007288
+  - 0.19370924
+  - 0.014959724
+  - 0.11238972
+  - 0.10970464

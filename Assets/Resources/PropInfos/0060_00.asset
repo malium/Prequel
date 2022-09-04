@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0060_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.4
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 5e2bea43faca15b4d8be43eda6f6af41, type: 3}
+  FamilyName: FlagEagleBlack
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 35, y: 1}
+  VisibleRect:
+    x: 24
+    y: 1
+    width: 63
+    height: 126
+  BoxCenterOffset: {x: -0.085, y: 0}
+  BoxSize: {x: 0.63, y: 1.26}
+  BoxWidth: 0.375
+  Pivot: {x: 34.011593, y: 5.047557}
+  Texture: {fileID: 2800000, guid: 5e2bea43faca15b4d8be43eda6f6af41, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4286279272
+  - serializedVersion: 2
+    rgba: 4284632908
+  - serializedVersion: 2
+    rgba: 4287925892
+  - serializedVersion: 2
+    rgba: 4284095529
+  - serializedVersion: 2
+    rgba: 4282127957
+  - serializedVersion: 2
+    rgba: 4279763084
+  - serializedVersion: 2
+    rgba: 4278190088
+  - serializedVersion: 2
+    rgba: 4282988689
+  - serializedVersion: 2
+    rgba: 4278714422
+  - serializedVersion: 2
+    rgba: 4281939769
+  - serializedVersion: 2
+    rgba: 4280360993
+  - serializedVersion: 2
+    rgba: 4286280095
+  - serializedVersion: 2
+    rgba: 4289571501
+  - serializedVersion: 2
+    rgba: 4293386198
+  - serializedVersion: 2
+    rgba: 4291740605
+  - serializedVersion: 2
+    rgba: 4284111227
+  - serializedVersion: 2
+    rgba: 4285750726
+  - serializedVersion: 2
+    rgba: 4279238755
+  DamageColorProbs:
+  - 0.007458405
+  - 0.059284758
+  - 0.014725569
+  - 0.0007649646
+  - 0.0003824823
+  - 0.0007649646
+  - 0.00019124115
+  - 0.009179575
+  - 0.0019124115
+  - 0.16121629
+  - 0.050678905
+  - 0.06119717
+  - 0.04761905
+  - 0.033849683
+  - 0.39414802
+  - 0.0464716
+  - 0.10307898
+  - 0.0070759226

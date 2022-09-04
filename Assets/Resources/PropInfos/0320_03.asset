@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0320_03
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 562cf89170a1efd45932c3c409b51c7d, type: 3}
+  FamilyName: Neon
+  HasLighting: 1
+  LightHeight: 0.75
+  LightRange: 10
+  LightIntensity: 1.8
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294773120
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 57, y: 2}
+  VisibleRect:
+    x: 47
+    y: 2
+    width: 28
+    height: 124
+  BoxCenterOffset: {x: -0.03, y: 0}
+  BoxSize: {x: 0.28, y: 1.24}
+  BoxWidth: 0.21875
+  Pivot: {x: 61.32776, y: 7.2892604}
+  Texture: {fileID: 2800000, guid: 562cf89170a1efd45932c3c409b51c7d, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4285746266
+  - serializedVersion: 2
+    rgba: 4293901014
+  - serializedVersion: 2
+    rgba: 4288970638
+  - serializedVersion: 2
+    rgba: 4292955793
+  - serializedVersion: 2
+    rgba: 4283906116
+  - serializedVersion: 2
+    rgba: 4287324790
+  - serializedVersion: 2
+    rgba: 4293163693
+  - serializedVersion: 2
+    rgba: 4288452277
+  - serializedVersion: 2
+    rgba: 4289873011
+  - serializedVersion: 2
+    rgba: 4287372362
+  - serializedVersion: 2
+    rgba: 4294940358
+  - serializedVersion: 2
+    rgba: 4291697771
+  - serializedVersion: 2
+    rgba: 4294956023
+  - serializedVersion: 2
+    rgba: 4291204781
+  DamageColorProbs:
+  - 0.0020691694
+  - 0.019509312
+  - 0.045817323
+  - 0.0130062075
+  - 0.026308011
+  - 0.0877919
+  - 0.002364765
+  - 0.0011823825
+  - 0.0014779781
+  - 0.0017735738
+  - 0.6455808
+  - 0.0130062075
+  - 0.08454035
+  - 0.055571977

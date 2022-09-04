@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0054_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 239b52fa014911e4c9197b15fb4329d8, type: 3}
+  FamilyName: DustedArmor
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 20, y: 13}
+  VisibleRect:
+    x: 19
+    y: 13
+    width: 98
+    height: 61
+  BoxCenterOffset: {x: 0.04, y: -0.205}
+  BoxSize: {x: 0.98, y: 0.61}
+  BoxWidth: 0.2734375
+  Pivot: {x: 70.82903, y: 38.598938}
+  Texture: {fileID: 2800000, guid: 239b52fa014911e4c9197b15fb4329d8, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4278722667
+  - serializedVersion: 2
+    rgba: 4280894794
+  - serializedVersion: 2
+    rgba: 4278204316
+  - serializedVersion: 2
+    rgba: 4278192185
+  - serializedVersion: 2
+    rgba: 4281958325
+  - serializedVersion: 2
+    rgba: 4279791062
+  - serializedVersion: 2
+    rgba: 4278211014
+  - serializedVersion: 2
+    rgba: 4289581956
+  - serializedVersion: 2
+    rgba: 4285770140
+  - serializedVersion: 2
+    rgba: 4284710251
+  - serializedVersion: 2
+    rgba: 4279453051
+  - serializedVersion: 2
+    rgba: 4283065666
+  - serializedVersion: 2
+    rgba: 4282281094
+  - serializedVersion: 2
+    rgba: 4280361017
+  - serializedVersion: 2
+    rgba: 4278215159
+  - serializedVersion: 2
+    rgba: 4288459330
+  - serializedVersion: 2
+    rgba: 4279788965
+  - serializedVersion: 2
+    rgba: 4285236802
+  DamageColorProbs:
+  - 0.032658692
+  - 0.0096596135
+  - 0.006899724
+  - 0.0096596135
+  - 0.0009199632
+  - 0.0013799448
+  - 0.0018399263
+  - 0.0036798527
+  - 0.0004599816
+  - 0.31646734
+  - 0.25022998
+  - 0.09521619
+  - 0.15593377
+  - 0.0850966
+  - 0.012419503
+  - 0.0032198713
+  - 0.013339466
+  - 0.0009199632

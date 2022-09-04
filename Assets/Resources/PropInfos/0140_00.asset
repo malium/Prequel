@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0140_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.6
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 963129e7c8ff5554b93623bed16f00c3, type: 3}
+  FamilyName: Startail
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 134, y: 13}
+  VisibleRect:
+    x: 75
+    y: 13
+    width: 81
+    height: 233
+  BoxCenterOffset: {x: -0.125, y: 0.015}
+  BoxSize: {x: 0.81, y: 2.33}
+  BoxWidth: 0.0625
+  Pivot: {x: 130.96913, y: 22.565538}
+  Texture: {fileID: 2800000, guid: 963129e7c8ff5554b93623bed16f00c3, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4286283123
+  - serializedVersion: 2
+    rgba: 4286289556
+  - serializedVersion: 2
+    rgba: 4286856225
+  - serializedVersion: 2
+    rgba: 4289567355
+  - serializedVersion: 2
+    rgba: 4287935149
+  - serializedVersion: 2
+    rgba: 4291734156
+  - serializedVersion: 2
+    rgba: 4290232762
+  - serializedVersion: 2
+    rgba: 4291747806
+  - serializedVersion: 2
+    rgba: 4293917687
+  - serializedVersion: 2
+    rgba: 4293384117
+  DamageColorProbs:
+  - 0.019350216
+  - 0.13712375
+  - 0.043956045
+  - 0.12087912
+  - 0.05900621
+  - 0.44577163
+  - 0.0014333492
+  - 0.04180602
+  - 0.13043478
+  - 0.00023889155

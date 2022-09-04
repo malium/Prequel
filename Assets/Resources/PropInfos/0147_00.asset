@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0147_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.3
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: acc82d1222b451f4fb8a887aeed2fe5b, type: 3}
+  FamilyName: SwordStick
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 75, y: 4}
+  VisibleRect:
+    x: 42
+    y: 4
+    width: 44
+    height: 119
+  BoxCenterOffset: {x: 0, y: -0.005}
+  BoxSize: {x: 0.44, y: 1.19}
+  BoxWidth: 0.0859375
+  Pivot: {x: 72.01669, y: 9.204365}
+  Texture: {fileID: 2800000, guid: acc82d1222b451f4fb8a887aeed2fe5b, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4280695138
+  - serializedVersion: 2
+    rgba: 4280898964
+  - serializedVersion: 2
+    rgba: 4285756820
+  - serializedVersion: 2
+    rgba: 4283193211
+  - serializedVersion: 2
+    rgba: 4278197322
+  - serializedVersion: 2
+    rgba: 4278728836
+  - serializedVersion: 2
+    rgba: 4287927973
+  - serializedVersion: 2
+    rgba: 4283066789
+  - serializedVersion: 2
+    rgba: 4280383942
+  - serializedVersion: 2
+    rgba: 4280917726
+  - serializedVersion: 2
+    rgba: 4278737333
+  DamageColorProbs:
+  - 0.026824703
+  - 0.007485964
+  - 0.030567685
+  - 0.0012476606
+  - 0.0006238303
+  - 0.0006238303
+  - 0.22083594
+  - 0.26076108
+  - 0.24204616
+  - 0.107298814
+  - 0.10168434

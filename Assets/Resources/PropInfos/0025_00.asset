@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0025_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: c06832f87b6e17b458d0d4e149762f58, type: 3}
+  FamilyName: BungleTreeBlueCheese
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 149, y: 13}
+  VisibleRect:
+    x: 4
+    y: 13
+    width: 245
+    height: 234
+  BoxCenterOffset: {x: -0.015, y: 0.02}
+  BoxSize: {x: 2.45, y: 2.34}
+  BoxWidth: 0.109375
+  Pivot: {x: 154.72232, y: 24.347029}
+  Texture: {fileID: 2800000, guid: c06832f87b6e17b458d0d4e149762f58, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4285216875
+  - serializedVersion: 2
+    rgba: 4287911316
+  - serializedVersion: 2
+    rgba: 4280357929
+  - serializedVersion: 2
+    rgba: 4282523714
+  - serializedVersion: 2
+    rgba: 4289554861
+  - serializedVersion: 2
+    rgba: 4283386953
+  - serializedVersion: 2
+    rgba: 4287204489
+  - serializedVersion: 2
+    rgba: 4284839258
+  - serializedVersion: 2
+    rgba: 4289576621
+  - serializedVersion: 2
+    rgba: 4279971595
+  - serializedVersion: 2
+    rgba: 4291746766
+  - serializedVersion: 2
+    rgba: 4285772436
+  - serializedVersion: 2
+    rgba: 4281944099
+  - serializedVersion: 2
+    rgba: 4283602038
+  - serializedVersion: 2
+    rgba: 4278192128
+  - serializedVersion: 2
+    rgba: 4287943622
+  - serializedVersion: 2
+    rgba: 4279256369
+  - serializedVersion: 2
+    rgba: 4280902978
+  DamageColorProbs:
+  - 0.13528796
+  - 0.06496667
+  - 0.055942483
+  - 0.032539506
+  - 0.0074140644
+  - 0.05612971
+  - 0.14472403
+  - 0.18138246
+  - 0.017861154
+  - 0.0008237849
+  - 0.008574852
+  - 0.0012731222
+  - 0.00018722385
+  - 0.003894256
+  - 0.00029955816
+  - 0.00007488954
+  - 0.23900996
+  - 0.049614318

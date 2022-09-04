@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0108_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 0.7
+  HasShadow: 0
+  PropSprite: {fileID: 21300000, guid: 2df288f1ef0a59a468d1185cb552bdde, type: 3}
+  FamilyName: PileSandRed
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 32, y: 21}
+  VisibleRect:
+    x: 7
+    y: 21
+    width: 115
+    height: 71
+  BoxCenterOffset: {x: 0.005, y: -0.075}
+  BoxSize: {x: 1.15, y: 0.71}
+  BoxWidth: 0.328125
+  Pivot: {x: 68.1568, y: 44.537235}
+  Texture: {fileID: 2800000, guid: 2df288f1ef0a59a468d1185cb552bdde, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4282533524
+  - serializedVersion: 2
+    rgba: 4283914162
+  - serializedVersion: 2
+    rgba: 4285361110
+  - serializedVersion: 2
+    rgba: 4286283255
+  - serializedVersion: 2
+    rgba: 4280362099
+  - serializedVersion: 2
+    rgba: 4288453375
+  - serializedVersion: 2
+    rgba: 4290099959
+  DamageColorProbs:
+  - 0.033824205
+  - 0.28531983
+  - 0.00069028995
+  - 0.024160147
+  - 0.5637368
+  - 0.061435804
+  - 0.03083295

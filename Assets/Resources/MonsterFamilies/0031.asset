@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257dac38790f84f498cc52fab1edd870, type: 3}
+  m_Name: 0031
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  Name: Incubus
+  SpriteScale: 1
+  Frames:
+  - {fileID: 21300000, guid: 5484f8d559033d94aa5c241e7e1e4b07, type: 3}
+  - {fileID: 21300000, guid: 9ad22fd28b493c44b8dc258ef6c8cef1, type: 3}
+  - {fileID: 21300000, guid: ffc56ab82cf138741be581da16a26fd3, type: 3}
+  - {fileID: 21300000, guid: 47e808a7561e33c4d9cea2703135a229, type: 3}
+  - {fileID: 21300000, guid: b03c8d0907521db4c9aca760ea949f83, type: 3}
+  - {fileID: 21300000, guid: 380ca5214ef9d12448f029bb18371d30, type: 3}
+  BaseHealth: 80
+  BaseSpeed: 1
+  SightRange: 7
+  SightAngle: 60
+  HearingRange: 5
+  AttackRange: 2.2
+  AttackRate: 4.2
+  AttackDamage: 9
+  DamageType: 7
+  FriendlyFamilies: []
+  AIType: 2
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel:
+  - {x: 58, y: 35}
+  - {x: 71, y: 34}
+  - {x: 59, y: 30}
+  - {x: 68, y: 31}
+  - {x: 43, y: 38}
+  - {x: 40, y: 26}
+  VisibleRect:
+  - x: 25
+    y: 35
+    width: 90
+    height: 89
+  - x: 21
+    y: 34
+    width: 90
+    height: 88
+  - x: 22
+    y: 30
+    width: 70
+    height: 90
+  - x: 18
+    y: 31
+    width: 73
+    height: 90
+  - x: 25
+    y: 38
+    width: 89
+    height: 86
+  - x: 14
+    y: 26
+    width: 76
+    height: 93
+  BoxCenterOffset:
+  - {x: 0.06, y: 0.155}
+  - {x: 0.02, y: 0.14}
+  - {x: -0.07, y: 0.11}
+  - {x: -0.095, y: 0.12}
+  - {x: 0.055, y: 0.17}
+  - {x: -0.12, y: 0.085}
+  BoxSize:
+  - {x: 0.9, y: 0.89}
+  - {x: 0.9, y: 0.88}
+  - {x: 0.7, y: 0.9}
+  - {x: 0.73, y: 0.9}
+  - {x: 0.89, y: 0.86}
+  - {x: 0.76, y: 0.93}
+  Textures:
+  - {fileID: 2800000, guid: 5484f8d559033d94aa5c241e7e1e4b07, type: 3}
+  - {fileID: 2800000, guid: 9ad22fd28b493c44b8dc258ef6c8cef1, type: 3}
+  - {fileID: 2800000, guid: ffc56ab82cf138741be581da16a26fd3, type: 3}
+  - {fileID: 2800000, guid: 47e808a7561e33c4d9cea2703135a229, type: 3}
+  - {fileID: 2800000, guid: b03c8d0907521db4c9aca760ea949f83, type: 3}
+  - {fileID: 2800000, guid: 380ca5214ef9d12448f029bb18371d30, type: 3}
+  Pivots:
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}

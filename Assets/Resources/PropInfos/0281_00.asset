@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0281_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 48b3360a5f256ce4fa1007d1653845d1, type: 3}
+  FamilyName: GoblinBanner
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 66, y: 3}
+  VisibleRect:
+    x: 13
+    y: 3
+    width: 79
+    height: 123
+  BoxCenterOffset: {x: -0.115, y: 0.005}
+  BoxSize: {x: 0.79, y: 1.23}
+  BoxWidth: 0.2734375
+  Pivot: {x: 62.812336, y: 8.47692}
+  Texture: {fileID: 2800000, guid: 48b3360a5f256ce4fa1007d1653845d1, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4284311147
+  - serializedVersion: 2
+    rgba: 4288655029
+  - serializedVersion: 2
+    rgba: 4286285452
+  - serializedVersion: 2
+    rgba: 4290103246
+  - serializedVersion: 2
+    rgba: 4278727974
+  - serializedVersion: 2
+    rgba: 4291747815
+  - serializedVersion: 2
+    rgba: 4282145623
+  - serializedVersion: 2
+    rgba: 4282549867
+  - serializedVersion: 2
+    rgba: 4280307516
+  - serializedVersion: 2
+    rgba: 4285238973
+  - serializedVersion: 2
+    rgba: 4278722650
+  - serializedVersion: 2
+    rgba: 4279779691
+  - serializedVersion: 2
+    rgba: 4284118428
+  DamageColorProbs:
+  - 0.267778
+  - 0.04579025
+  - 0.054441866
+  - 0.018569319
+  - 0.115214184
+  - 0.013082929
+  - 0.3114581
+  - 0.06457058
+  - 0.041358937
+  - 0.06182739
+  - 0.0012660899
+  - 0.0042202994
+  - 0.00042202996

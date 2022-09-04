@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0286_02
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 56ef0d76df8980a458350a4ab1ebb19c, type: 3}
+  FamilyName: GraveMarble
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 84, y: 32}
+  VisibleRect:
+    x: 37
+    y: 32
+    width: 58
+    height: 76
+  BoxCenterOffset: {x: 0.02, y: 0.06}
+  BoxSize: {x: 0.58, y: 0.76}
+  BoxWidth: 0
+  Pivot: {x: 63.406166, y: 47.37277}
+  Texture: {fileID: 2800000, guid: 56ef0d76df8980a458350a4ab1ebb19c, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4286813334
+  - serializedVersion: 2
+    rgba: 4288458421
+  - serializedVersion: 2
+    rgba: 4285233531
+  - serializedVersion: 2
+    rgba: 4283063684
+  - serializedVersion: 2
+    rgba: 4290104270
+  - serializedVersion: 2
+    rgba: 4292798439
+  - serializedVersion: 2
+    rgba: 4279250035
+  - serializedVersion: 2
+    rgba: 4278217133
+  - serializedVersion: 2
+    rgba: 4285767357
+  - serializedVersion: 2
+    rgba: 4278208651
+  - serializedVersion: 2
+    rgba: 4280903066
+  - serializedVersion: 2
+    rgba: 4278236911
+  - serializedVersion: 2
+    rgba: 4278749894
+  - serializedVersion: 2
+    rgba: 4283074992
+  DamageColorProbs:
+  - 0.046011355
+  - 0.0023902003
+  - 0.036151778
+  - 0.016432626
+  - 0.0104571255
+  - 0.0029877503
+  - 0.0017926501
+  - 0.16462503
+  - 0.07080968
+  - 0.4009561
+  - 0.060950104
+  - 0.07857783
+  - 0.095309235
+  - 0.012548551

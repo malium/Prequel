@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0022_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: aad5c7995fd44764bbc2a03a9bd1051d, type: 3}
+  FamilyName: Bonsai
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 55, y: 6}
+  VisibleRect:
+    x: 23
+    y: 6
+    width: 98
+    height: 118
+  BoxCenterOffset: {x: 0.08, y: 0.01}
+  BoxSize: {x: 0.98, y: 1.18}
+  BoxWidth: 0.453125
+  Pivot: {x: 64.59383, y: 15.142663}
+  Texture: {fileID: 2800000, guid: aad5c7995fd44764bbc2a03a9bd1051d, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4282529891
+  - serializedVersion: 2
+    rgba: 4281411650
+  - serializedVersion: 2
+    rgba: 4284117404
+  - serializedVersion: 2
+    rgba: 4283585915
+  - serializedVersion: 2
+    rgba: 4284827719
+  - serializedVersion: 2
+    rgba: 4286477667
+  - serializedVersion: 2
+    rgba: 4283577377
+  - serializedVersion: 2
+    rgba: 4287398548
+  - serializedVersion: 2
+    rgba: 4289569453
+  - serializedVersion: 2
+    rgba: 4288451171
+  - serializedVersion: 2
+    rgba: 4290620011
+  - serializedVersion: 2
+    rgba: 4285763253
+  - serializedVersion: 2
+    rgba: 4291215046
+  - serializedVersion: 2
+    rgba: 4281929843
+  - serializedVersion: 2
+    rgba: 4292794334
+  - serializedVersion: 2
+    rgba: 4284821916
+  - serializedVersion: 2
+    rgba: 4286597061
+  - serializedVersion: 2
+    rgba: 4288437743
+  - serializedVersion: 2
+    rgba: 4287918534
+  - serializedVersion: 2
+    rgba: 4290086140
+  DamageColorProbs:
+  - 0.00029555193
+  - 0.00059110386
+  - 0.036205113
+  - 0.033249594
+  - 0.00990099
+  - 0.038273975
+  - 0.02748633
+  - 0.079799026
+  - 0.045071673
+  - 0.0017733116
+  - 0.2847643
+  - 0.19772425
+  - 0.06413477
+  - 0.023200827
+  - 0.012413181
+  - 0.029111866
+  - 0.0014777597
+  - 0.0571893
+  - 0.0026599674
+  - 0.05467711

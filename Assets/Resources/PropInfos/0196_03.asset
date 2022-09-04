@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0196_03
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.3
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 11e69a0534f1dc14b8c669d3bcac43eb, type: 3}
+  FamilyName: ArmorStand
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 56, y: 0}
+  VisibleRect:
+    x: 22
+    y: 0
+    width: 91
+    height: 126
+  BoxCenterOffset: {x: 0.035, y: -0.01}
+  BoxSize: {x: 0.91, y: 1.26}
+  BoxWidth: 0.4453125
+  Pivot: {x: 59.843185, y: 12.930643}
+  Texture: {fileID: 2800000, guid: 11e69a0534f1dc14b8c669d3bcac43eb, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4283587947
+  - serializedVersion: 2
+    rgba: 4286072975
+  - serializedVersion: 2
+    rgba: 4287914405
+  - serializedVersion: 2
+    rgba: 4283904875
+  - serializedVersion: 2
+    rgba: 4283605578
+  - serializedVersion: 2
+    rgba: 4282465095
+  - serializedVersion: 2
+    rgba: 4281947425
+  - serializedVersion: 2
+    rgba: 4285237900
+  - serializedVersion: 2
+    rgba: 4283071793
+  - serializedVersion: 2
+    rgba: 4283043930
+  - serializedVersion: 2
+    rgba: 4281407545
+  - serializedVersion: 2
+    rgba: 4285222333
+  - serializedVersion: 2
+    rgba: 4285735052
+  - serializedVersion: 2
+    rgba: 4279773200
+  - serializedVersion: 2
+    rgba: 4289176217
+  - serializedVersion: 2
+    rgba: 4287398515
+  - serializedVersion: 2
+    rgba: 4285768365
+  - serializedVersion: 2
+    rgba: 4290619069
+  - serializedVersion: 2
+    rgba: 4281932932
+  - serializedVersion: 2
+    rgba: 4287938246
+  - serializedVersion: 2
+    rgba: 4292794326
+  - serializedVersion: 2
+    rgba: 4280355939
+  - serializedVersion: 2
+    rgba: 4289562334
+  DamageColorProbs:
+  - 0.00043004588
+  - 0.039994266
+  - 0.011611238
+  - 0.024655964
+  - 0.006163991
+  - 0.0012901376
+  - 0.0007167431
+  - 0.0012901376
+  - 0.00014334862
+  - 0.0027236238
+  - 0.0007167431
+  - 0.00014334862
+  - 0.3616686
+  - 0.15825687
+  - 0.036697246
+  - 0.014334862
+  - 0.15381308
+  - 0.110665135
+  - 0.038990825
+  - 0.023652524
+  - 0.007597477
+  - 0.0011467889
+  - 0.0032970184

@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0361_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.2
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 390f4e20b2818cf4899bd346d06a1962, type: 3}
+  FamilyName: Skull
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 63, y: 10}
+  VisibleRect:
+    x: 33
+    y: 10
+    width: 58
+    height: 54
+  BoxCenterOffset: {x: -0.02, y: -0.27}
+  BoxSize: {x: 0.58, y: 0.54}
+  BoxWidth: 0.4296875
+  Pivot: {x: 58.061695, y: 18.86894}
+  Texture: {fileID: 2800000, guid: 390f4e20b2818cf4899bd346d06a1962, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4281548620
+  - serializedVersion: 2
+    rgba: 4283587947
+  - serializedVersion: 2
+    rgba: 4285759363
+  - serializedVersion: 2
+    rgba: 4293389287
+  - serializedVersion: 2
+    rgba: 4287928997
+  - serializedVersion: 2
+    rgba: 4291743694
+  - serializedVersion: 2
+    rgba: 4289574325
+  DamageColorProbs:
+  - 0.25106218
+  - 0.09038239
+  - 0.25608343
+  - 0.014291232
+  - 0.07840865
+  - 0.02356122
+  - 0.2862109

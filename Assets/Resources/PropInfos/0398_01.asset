@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0398_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 0.8
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: b182e0e4435335d438304b19a42ae6ce, type: 3}
+  FamilyName: Urne
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 59, y: 11}
+  VisibleRect:
+    x: 27
+    y: 11
+    width: 74
+    height: 99
+  BoxCenterOffset: {x: 0, y: -0.035}
+  BoxSize: {x: 0.74, y: 0.99}
+  BoxWidth: 0.3671875
+  Pivot: {x: 64.896996, y: 16.471697}
+  Texture: {fileID: 2800000, guid: b182e0e4435335d438304b19a42ae6ce, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4283581786
+  - serializedVersion: 2
+    rgba: 4281804353
+  - serializedVersion: 2
+    rgba: 4280095774
+  - serializedVersion: 2
+    rgba: 4278337656
+  - serializedVersion: 2
+    rgba: 4285754756
+  - serializedVersion: 2
+    rgba: 4278528084
+  - serializedVersion: 2
+    rgba: 4278213020
+  - serializedVersion: 2
+    rgba: 4279806686
+  - serializedVersion: 2
+    rgba: 4282549916
+  - serializedVersion: 2
+    rgba: 4279275197
+  - serializedVersion: 2
+    rgba: 4287398556
+  - serializedVersion: 2
+    rgba: 4289572533
+  - serializedVersion: 2
+    rgba: 4280893285
+  - serializedVersion: 2
+    rgba: 4283064969
+  DamageColorProbs:
+  - 0.004006969
+  - 0.0033101046
+  - 0.00017421602
+  - 0.024390243
+  - 0.009059234
+  - 0.0006968641
+  - 0.0010452962
+  - 0.36777005
+  - 0.22108014
+  - 0.23972125
+  - 0.10505226
+  - 0.0184669
+  - 0.0038327526
+  - 0.0013937282

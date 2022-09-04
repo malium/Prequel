@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0349_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.4
+  HasShadow: 0
+  PropSprite: {fileID: 21300000, guid: 0e8f87d56fa129042acbce1243beb64d, type: 3}
+  FamilyName: Sandcastle
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 62, y: 14}
+  VisibleRect:
+    x: 36
+    y: 14
+    width: 60
+    height: 70
+  BoxCenterOffset: {x: 0.02, y: -0.15}
+  BoxSize: {x: 0.6, y: 0.7}
+  BoxWidth: 0.4375
+  Pivot: {x: 64.59383, y: 23.61958}
+  Texture: {fileID: 2800000, guid: 0e8f87d56fa129042acbce1243beb64d, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4282541427
+  - serializedVersion: 2
+    rgba: 4284122516
+  - serializedVersion: 2
+    rgba: 4286293685
+  - serializedVersion: 2
+    rgba: 4289191916
+  - serializedVersion: 2
+    rgba: 4287741390
+  DamageColorProbs:
+  - 0.14537582
+  - 0.2932261
+  - 0.37086296
+  - 0.17012063
+  - 0.020414475

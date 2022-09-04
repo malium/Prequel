@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0320_06
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: f495a1e54dafcc94f8f6b564e5cf1a54, type: 3}
+  FamilyName: Neon
+  HasLighting: 1
+  LightHeight: 0.75
+  LightRange: 10
+  LightIntensity: 1.8
+  LightColor:
+    serializedVersion: 2
+    rgba: 4279815423
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 57, y: 2}
+  VisibleRect:
+    x: 47
+    y: 2
+    width: 28
+    height: 124
+  BoxCenterOffset: {x: -0.03, y: 0}
+  BoxSize: {x: 0.28, y: 1.24}
+  BoxWidth: 0.21875
+  Pivot: {x: 62.218506, y: 5.804686}
+  Texture: {fileID: 2800000, guid: f495a1e54dafcc94f8f6b564e5cf1a54, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4281748055
+  - serializedVersion: 2
+    rgba: 4284448139
+  - serializedVersion: 2
+    rgba: 4283196019
+  - serializedVersion: 2
+    rgba: 4290634743
+  - serializedVersion: 2
+    rgba: 4286496996
+  - serializedVersion: 2
+    rgba: 4286880429
+  - serializedVersion: 2
+    rgba: 4293393407
+  - serializedVersion: 2
+    rgba: 4280374660
+  - serializedVersion: 2
+    rgba: 4282679725
+  - serializedVersion: 2
+    rgba: 4283608033
+  - serializedVersion: 2
+    rgba: 4287421439
+  - serializedVersion: 2
+    rgba: 4280388302
+  DamageColorProbs:
+  - 0.04463494
+  - 0.015666569
+  - 0.026012415
+  - 0.05468519
+  - 0.0032515519
+  - 0.015962163
+  - 0.06591783
+  - 0.0017735738
+  - 0.00029559562
+  - 0.6698197
+  - 0.01625776
+  - 0.08572273

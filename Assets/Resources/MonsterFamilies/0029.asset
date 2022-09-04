@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257dac38790f84f498cc52fab1edd870, type: 3}
+  m_Name: 0029
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  Name: Forker
+  SpriteScale: 0.8
+  Frames:
+  - {fileID: 21300000, guid: f63e696550ac5ae449efcfcfae6d5d3c, type: 3}
+  - {fileID: 21300000, guid: 6273707af4748de4a83c4fcc938fcd45, type: 3}
+  - {fileID: 21300000, guid: d64238e981677fe47a0b3d24e6350c36, type: 3}
+  - {fileID: 21300000, guid: 47ad7273be9b0824691ff903f597466d, type: 3}
+  - {fileID: 21300000, guid: 5c29f0773fcd31e42b6964e24193f80a, type: 3}
+  - {fileID: 21300000, guid: 5bbf504fe9551da449cca4b604486730, type: 3}
+  BaseHealth: 100
+  BaseSpeed: 2
+  SightRange: 7
+  SightAngle: 60
+  HearingRange: 5
+  AttackRange: 0.8
+  AttackRate: 1.2
+  AttackDamage: 21
+  DamageType: 1
+  FriendlyFamilies: []
+  AIType: 2
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel:
+  - {x: 62, y: 5}
+  - {x: 63, y: 6}
+  - {x: 78, y: 7}
+  - {x: 78, y: 7}
+  - {x: 60, y: 3}
+  - {x: 77, y: 7}
+  VisibleRect:
+  - x: 12
+    y: 5
+    width: 111
+    height: 119
+  - x: 3
+    y: 6
+    width: 114
+    height: 115
+  - x: 11
+    y: 7
+    width: 113
+    height: 115
+  - x: 4
+    y: 7
+    width: 110
+    height: 113
+  - x: 29
+    y: 3
+    width: 98
+    height: 122
+  - x: 22
+    y: 7
+    width: 95
+    height: 114
+  BoxCenterOffset:
+  - {x: 0.035, y: 0.005}
+  - {x: -0.04, y: -0.005}
+  - {x: 0.035, y: 0.005}
+  - {x: -0.05, y: -0.005}
+  - {x: 0.14, y: 0}
+  - {x: 0.055, y: 0}
+  BoxSize:
+  - {x: 1.11, y: 1.19}
+  - {x: 1.14, y: 1.15}
+  - {x: 1.13, y: 1.15}
+  - {x: 1.1, y: 1.13}
+  - {x: 0.98, y: 1.22}
+  - {x: 0.95, y: 1.14}
+  Textures:
+  - {fileID: 2800000, guid: f63e696550ac5ae449efcfcfae6d5d3c, type: 3}
+  - {fileID: 2800000, guid: 6273707af4748de4a83c4fcc938fcd45, type: 3}
+  - {fileID: 2800000, guid: d64238e981677fe47a0b3d24e6350c36, type: 3}
+  - {fileID: 2800000, guid: 47ad7273be9b0824691ff903f597466d, type: 3}
+  - {fileID: 2800000, guid: 5c29f0773fcd31e42b6964e24193f80a, type: 3}
+  - {fileID: 2800000, guid: 5bbf504fe9551da449cca4b604486730, type: 3}
+  Pivots:
+  - {x: 75.52, y: 7.68}
+  - {x: 75.52, y: 7.68}
+  - {x: 66.56, y: 8.704}
+  - {x: 66.56, y: 8.704}
+  - {x: 75.52, y: 7.68}
+  - {x: 66.56, y: 8.704}

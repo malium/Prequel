@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0165_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 1a11795266f65d245b34830001b1ff69, type: 3}
+  FamilyName: VaseGreek
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 57, y: 9}
+  VisibleRect:
+    x: 28
+    y: 9
+    width: 71
+    height: 112
+  BoxCenterOffset: {x: -0.005, y: 0.01}
+  BoxSize: {x: 0.71, y: 1.12}
+  BoxWidth: 0.3203125
+  Pivot: {x: 65.18765, y: 16.330322}
+  Texture: {fileID: 2800000, guid: 1a11795266f65d245b34830001b1ff69, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4280889418
+  - serializedVersion: 2
+    rgba: 4279769123
+  - serializedVersion: 2
+    rgba: 4280375708
+  - serializedVersion: 2
+    rgba: 4280893811
+  - serializedVersion: 2
+    rgba: 4283581819
+  DamageColorProbs:
+  - 0.16018662
+  - 0.015033696
+  - 0.0036288232
+  - 0.6896492
+  - 0.13150164

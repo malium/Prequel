@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Item>
+  <m_Name>Succubus Ham</m_Name>
+  <m_ID>0</m_ID>
+  <m_ImageName>SuccubusHam</m_ImageName>
+  <m_Category>Consumable</m_Category>
+  <m_Subcategory>COUNT</m_Subcategory>
+  <m_Description>
+  </m_Description>
+  <m_ActiveItem>True</m_ActiveItem>
+  <m_Effects>
+    <Count>2</Count>
+    <effect_0>
+      <m_EffectName>StatUpDown</m_EffectName>
+      <Stat>Health</Stat>
+      <Amount>10</Amount>
+      <Add_Extra>False</Add_Extra>
+    </effect_0>
+    <effect_1>
+      <m_EffectName>Consumable</m_EffectName>
+      <Type>Eating</Type>
+    </effect_1>
+  </m_Effects>
+</Item>

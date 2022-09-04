@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0286_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 4e767c1d8c508ef4f8dbe3662b0b5062, type: 3}
+  FamilyName: GraveMarble
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 70, y: 38}
+  VisibleRect:
+    x: 43
+    y: 38
+    width: 46
+    height: 63
+  BoxCenterOffset: {x: 0.02, y: 0.055}
+  BoxSize: {x: 0.46, y: 0.63}
+  BoxWidth: 0
+  Pivot: {x: 61.624676, y: 48.56043}
+  Texture: {fileID: 2800000, guid: 4e767c1d8c508ef4f8dbe3662b0b5062, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4285561723
+  - serializedVersion: 2
+    rgba: 4287339164
+  - serializedVersion: 2
+    rgba: 4289050293
+  - serializedVersion: 2
+    rgba: 4290628558
+  - serializedVersion: 2
+    rgba: 4285244093
+  - serializedVersion: 2
+    rgba: 4292798439
+  - serializedVersion: 2
+    rgba: 4282878124
+  - serializedVersion: 2
+    rgba: 4280512156
+  - serializedVersion: 2
+    rgba: 4278733171
+  - serializedVersion: 2
+    rgba: 4286891998
+  - serializedVersion: 2
+    rgba: 4281244366
+  - serializedVersion: 2
+    rgba: 4285785087
+  DamageColorProbs:
+  - 0.007889546
+  - 0.015779093
+  - 0.0051282053
+  - 0.0019723866
+  - 0.0051282053
+  - 0.0015779092
+  - 0.16370809
+  - 0.18106508
+  - 0.48678502
+  - 0.07455622
+  - 0.041025642
+  - 0.015384615

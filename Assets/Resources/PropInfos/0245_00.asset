@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0245_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 0.8
+  HasShadow: 0
+  PropSprite: {fileID: 21300000, guid: 96e505df6621c6140a446fbb3c35f28b, type: 3}
+  FamilyName: DemonEgg
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 74, y: 1}
+  VisibleRect:
+    x: 7
+    y: 1
+    width: 102
+    height: 80
+  BoxCenterOffset: {x: -0.06, y: -0.23}
+  BoxSize: {x: 1.02, y: 0.8}
+  BoxWidth: 0.78125
+  Pivot: {x: 56.87404, y: 40.84064}
+  Texture: {fileID: 2800000, guid: 96e505df6621c6140a446fbb3c35f28b, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4291743694
+  - serializedVersion: 2
+    rgba: 4293190892
+  - serializedVersion: 2
+    rgba: 4287918509
+  - serializedVersion: 2
+    rgba: 4285746605
+  - serializedVersion: 2
+    rgba: 4290095805
+  - serializedVersion: 2
+    rgba: 4291210999
+  - serializedVersion: 2
+    rgba: 4284692620
+  - serializedVersion: 2
+    rgba: 4283570291
+  - serializedVersion: 2
+    rgba: 4294966271
+  - serializedVersion: 2
+    rgba: 4289367768
+  - serializedVersion: 2
+    rgba: 4287718870
+  DamageColorProbs:
+  - 0.061211996
+  - 0.07875944
+  - 0.0010202
+  - 0.055090796
+  - 0.00224444
+  - 0.01387472
+  - 0.22668843
+  - 0.11222199
+  - 0.18812487
+  - 0.17057744
+  - 0.09018568

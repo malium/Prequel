@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0035_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: eaddff326b5d06041b4efa2a2c521497, type: 3}
+  FamilyName: CattoyTree
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 104, y: 8}
+  VisibleRect:
+    x: 83
+    y: 8
+    width: 100
+    height: 242
+  BoxCenterOffset: {x: 0.05, y: 0.01}
+  BoxSize: {x: 1, y: 2.42}
+  BoxWidth: 0.2578125
+  Pivot: {x: 128.59381, y: 23.096731}
+  Texture: {fileID: 2800000, guid: eaddff326b5d06041b4efa2a2c521497, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4280885281
+  - serializedVersion: 2
+    rgba: 4286283140
+  - serializedVersion: 2
+    rgba: 4283783261
+  - serializedVersion: 2
+    rgba: 4290102214
+  - serializedVersion: 2
+    rgba: 4282529849
+  - serializedVersion: 2
+    rgba: 4291745758
+  - serializedVersion: 2
+    rgba: 4287928988
+  - serializedVersion: 2
+    rgba: 4284696865
+  - serializedVersion: 2
+    rgba: 4286280026
+  - serializedVersion: 2
+    rgba: 4289563325
+  DamageColorProbs:
+  - 0.06690577
+  - 0.0056270096
+  - 0.0044521396
+  - 0.0012367055
+  - 0.00030917636
+  - 0.08310661
+  - 0.25630718
+  - 0.32562453
+  - 0.03141232
+  - 0.22501855

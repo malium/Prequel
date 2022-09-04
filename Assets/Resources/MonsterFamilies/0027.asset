@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257dac38790f84f498cc52fab1edd870, type: 3}
+  m_Name: 0027
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  Name: Valkiria
+  SpriteScale: 1.1
+  Frames:
+  - {fileID: 21300000, guid: a0412c04643f36346abe66e52f6f03f7, type: 3}
+  - {fileID: 21300000, guid: ed5c76a8bea22bb45a2878ffc3a37fdc, type: 3}
+  - {fileID: 21300000, guid: ef5b711ed0d7c3d48a529e434fa4772f, type: 3}
+  - {fileID: 21300000, guid: b3ce8e221a976424285bd79e28202b7c, type: 3}
+  - {fileID: 21300000, guid: 2913cf37e4465934297f3839d8c61f43, type: 3}
+  - {fileID: 21300000, guid: 06f921c24d2445641921880853a7d8c1, type: 3}
+  BaseHealth: 180
+  BaseSpeed: 2.2
+  SightRange: 7
+  SightAngle: 60
+  HearingRange: 5
+  AttackRange: 0.8
+  AttackRate: 1
+  AttackDamage: 39
+  DamageType: 1
+  FriendlyFamilies: []
+  AIType: 2
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel:
+  - {x: 41, y: 1}
+  - {x: 39, y: 1}
+  - {x: 42, y: 2}
+  - {x: 42, y: 2}
+  - {x: 39, y: 1}
+  - {x: 41, y: 2}
+  VisibleRect:
+  - x: 14
+    y: 1
+    width: 105
+    height: 125
+  - x: 11
+    y: 1
+    width: 103
+    height: 126
+  - x: 9
+    y: 2
+    width: 103
+    height: 120
+  - x: 2
+    y: 2
+    width: 110
+    height: 119
+  - x: 22
+    y: 1
+    width: 105
+    height: 125
+  - x: 0
+    y: 2
+    width: 126
+    height: 122
+  BoxCenterOffset:
+  - {x: 0.025, y: -0.005}
+  - {x: -0.015, y: 0}
+  - {x: -0.035, y: -0.02}
+  - {x: -0.07, y: -0.025}
+  - {x: 0.105, y: -0.005}
+  - {x: -0.01, y: -0.01}
+  BoxSize:
+  - {x: 1.05, y: 1.25}
+  - {x: 1.03, y: 1.26}
+  - {x: 1.03, y: 1.2}
+  - {x: 1.1, y: 1.19}
+  - {x: 1.05, y: 1.25}
+  - {x: 1.26, y: 1.22}
+  Textures:
+  - {fileID: 2800000, guid: a0412c04643f36346abe66e52f6f03f7, type: 3}
+  - {fileID: 2800000, guid: ed5c76a8bea22bb45a2878ffc3a37fdc, type: 3}
+  - {fileID: 2800000, guid: ef5b711ed0d7c3d48a529e434fa4772f, type: 3}
+  - {fileID: 2800000, guid: b3ce8e221a976424285bd79e28202b7c, type: 3}
+  - {fileID: 2800000, guid: 2913cf37e4465934297f3839d8c61f43, type: 3}
+  - {fileID: 2800000, guid: 06f921c24d2445641921880853a7d8c1, type: 3}
+  Pivots:
+  - {x: 64, y: 3.84}
+  - {x: 64, y: 3.84}
+  - {x: 63.999996, y: 3.84}
+  - {x: 64, y: 3.84}
+  - {x: 64, y: 3.84}
+  - {x: 64, y: 3.84}

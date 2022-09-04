@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0397_05
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.6
+  HasShadow: 0
+  PropSprite: {fileID: 21300000, guid: cc6e1828f02b78d498a466fd6755d493, type: 3}
+  FamilyName: UndevouredFlesh
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 50, y: 39}
+  VisibleRect:
+    x: 36
+    y: 39
+    width: 37
+    height: 18
+  BoxCenterOffset: {x: -0.095, y: -0.16}
+  BoxSize: {x: 0.37, y: 0.18}
+  BoxWidth: 0
+  Pivot: {x: 54.49872, y: 44.997448}
+  Texture: {fileID: 2800000, guid: cc6e1828f02b78d498a466fd6755d493, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4280886362
+  - serializedVersion: 2
+    rgba: 4285228477
+  - serializedVersion: 2
+    rgba: 4279239762
+  - serializedVersion: 2
+    rgba: 4287399605
+  - serializedVersion: 2
+    rgba: 4282860419
+  - serializedVersion: 2
+    rgba: 4280360142
+  - serializedVersion: 2
+    rgba: 4282530997
+  - serializedVersion: 2
+    rgba: 4284703116
+  - serializedVersion: 2
+    rgba: 4278716597
+  - serializedVersion: 2
+    rgba: 4288451294
+  - serializedVersion: 2
+    rgba: 4279241860
+  DamageColorProbs:
+  - 0.03862661
+  - 0.0042918455
+  - 0.05364807
+  - 0.010729614
+  - 0.017167382
+  - 0.008583691
+  - 0.40343347
+  - 0.17167382
+  - 0.15665236
+  - 0.08583691
+  - 0.049356222

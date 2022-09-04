@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257dac38790f84f498cc52fab1edd870, type: 3}
+  m_Name: 0047
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  Name: Cheap
+  SpriteScale: 1
+  Frames:
+  - {fileID: 21300000, guid: 2f8d7eb526e48e74fad6442d9341f01a, type: 3}
+  - {fileID: 21300000, guid: 1f5299a25b690de4b9d2495d9aa6f856, type: 3}
+  - {fileID: 21300000, guid: 19839a9f0f112e142ab0f9ae148900cb, type: 3}
+  - {fileID: 21300000, guid: c3b8a77ab4e9ffa48b62e8b7acbbad3d, type: 3}
+  - {fileID: 21300000, guid: 20f6de2387a440e4cb1cda32d9c69a37, type: 3}
+  - {fileID: 21300000, guid: f87cc4c52d06e964595f0ac2715ba504, type: 3}
+  BaseHealth: 100
+  BaseSpeed: 1
+  SightRange: 7
+  SightAngle: 60
+  HearingRange: 5
+  AttackRange: 10
+  AttackRate: 1
+  AttackDamage: 10
+  DamageType: 0
+  FriendlyFamilies: []
+  AIType: 0
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel:
+  - {x: 72, y: 8}
+  - {x: 75, y: 6}
+  - {x: 54, y: 8}
+  - {x: 54, y: 8}
+  - {x: 70, y: 11}
+  - {x: 52, y: 9}
+  VisibleRect:
+  - x: 2
+    y: 8
+    width: 122
+    height: 109
+  - x: 4
+    y: 6
+    width: 118
+    height: 111
+  - x: 3
+    y: 8
+    width: 110
+    height: 105
+  - x: 6
+    y: 8
+    width: 111
+    height: 105
+  - x: 10
+    y: 11
+    width: 110
+    height: 106
+  - x: 3
+    y: 9
+    width: 107
+    height: 108
+  BoxCenterOffset:
+  - {x: -0.01, y: -0.015}
+  - {x: -0.01, y: -0.025}
+  - {x: -0.06, y: -0.035}
+  - {x: -0.025, y: -0.035}
+  - {x: 0.01, y: 0}
+  - {x: -0.075, y: -0.01}
+  BoxSize:
+  - {x: 1.22, y: 1.09}
+  - {x: 1.18, y: 1.11}
+  - {x: 1.1, y: 1.05}
+  - {x: 1.11, y: 1.05}
+  - {x: 1.1, y: 1.06}
+  - {x: 1.07, y: 1.08}
+  Textures:
+  - {fileID: 2800000, guid: 2f8d7eb526e48e74fad6442d9341f01a, type: 3}
+  - {fileID: 2800000, guid: 1f5299a25b690de4b9d2495d9aa6f856, type: 3}
+  - {fileID: 2800000, guid: 19839a9f0f112e142ab0f9ae148900cb, type: 3}
+  - {fileID: 2800000, guid: c3b8a77ab4e9ffa48b62e8b7acbbad3d, type: 3}
+  - {fileID: 2800000, guid: 20f6de2387a440e4cb1cda32d9c69a37, type: 3}
+  - {fileID: 2800000, guid: f87cc4c52d06e964595f0ac2715ba504, type: 3}
+  Pivots:
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}

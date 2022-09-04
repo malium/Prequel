@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0192_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: b96af2c86b962bf4e8d03e35024bebc0, type: 3}
+  FamilyName: ArcadeMachineCursed
+  HasLighting: 1
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294954240
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 128, y: 12}
+  VisibleRect:
+    x: 73
+    y: 12
+    width: 103
+    height: 146
+  BoxCenterOffset: {x: -0.035, y: -0.43}
+  BoxSize: {x: 1.03, y: 1.46}
+  BoxWidth: 0.35546875
+  Pivot: {x: 130.96913, y: 25.861286}
+  Texture: {fileID: 2800000, guid: b96af2c86b962bf4e8d03e35024bebc0, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4281934889
+  - serializedVersion: 2
+    rgba: 4284501536
+  - serializedVersion: 2
+    rgba: 4288449024
+  - serializedVersion: 2
+    rgba: 4279766032
+  - serializedVersion: 2
+    rgba: 4294958336
+  - serializedVersion: 2
+    rgba: 4286475280
+  - serializedVersion: 2
+    rgba: 4283054597
+  - serializedVersion: 2
+    rgba: 4283578434
+  - serializedVersion: 2
+    rgba: 4279241827
+  - serializedVersion: 2
+    rgba: 4279241111
+  - serializedVersion: 2
+    rgba: 4278715598
+  - serializedVersion: 2
+    rgba: 4293376512
+  - serializedVersion: 2
+    rgba: 4290815493
+  - serializedVersion: 2
+    rgba: 4286813263
+  - serializedVersion: 2
+    rgba: 4284705123
+  - serializedVersion: 2
+    rgba: 4287416204
+  - serializedVersion: 2
+    rgba: 4286276921
+  - serializedVersion: 2
+    rgba: 4289048138
+  DamageColorProbs:
+  - 0.0002554496
+  - 0.00008514986
+  - 0.005449591
+  - 0.0012772479
+  - 0.0020435967
+  - 0.0017029973
+  - 0.004427793
+  - 0.0020435967
+  - 0.0002554496
+  - 0.4375
+  - 0.23629087
+  - 0.06811989
+  - 0.096900545
+  - 0.01941417
+  - 0.0009366485
+  - 0.025800409
+  - 0.0010217984
+  - 0.0964748

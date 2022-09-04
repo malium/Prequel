@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0410_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 0
+  PropSprite: {fileID: 21300000, guid: 31080efa2fb7e6a4398de93f5414dcf9, type: 3}
+  FamilyName: SolarFlareRed
+  HasLighting: 1
+  LightHeight: 1
+  LightRange: 12
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 70, y: 0}
+  VisibleRect:
+    x: 56
+    y: 0
+    width: 174
+    height: 235
+  BoxCenterOffset: {x: 0.15, y: -0.105}
+  BoxSize: {x: 1.74, y: 2.35}
+  BoxWidth: 0.47265625
+  Pivot: {x: 116.37755, y: 30.126644}
+  Texture: {fileID: 2800000, guid: 31080efa2fb7e6a4398de93f5414dcf9, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4280382959
+  - serializedVersion: 2
+    rgba: 4279977199
+  - serializedVersion: 2
+    rgba: 4283605743
+  - serializedVersion: 2
+    rgba: 4288467959
+  - serializedVersion: 2
+    rgba: 4285252599
+  - serializedVersion: 2
+    rgba: 4281933036
+  - serializedVersion: 2
+    rgba: 4282865647
+  - serializedVersion: 2
+    rgba: 4280393455
+  - serializedVersion: 2
+    rgba: 4285787127
+  - serializedVersion: 2
+    rgba: 4284690671
+  - serializedVersion: 2
+    rgba: 4285232623
+  - serializedVersion: 2
+    rgba: 4286847215
+  - serializedVersion: 2
+    rgba: 4286816756
+  DamageColorProbs:
+  - 0.000066720044
+  - 0.000033360022
+  - 0.012610088
+  - 0.00083400053
+  - 0.00020016012
+  - 0.00030024018
+  - 0.000033360022
+  - 0.8031425
+  - 0.0972111
+  - 0.063951164
+  - 0.013444088
+  - 0.004737123
+  - 0.0034360823

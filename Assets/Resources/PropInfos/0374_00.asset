@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0374_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 86a43eee6d0a8e04db01f1c67e5e5a6e, type: 3}
+  FamilyName: StreetlightPaperCT
+  HasLighting: 1
+  LightHeight: 1.5
+  LightRange: 20
+  LightIntensity: 4
+  LightColor:
+    serializedVersion: 2
+    rgba: 4278223615
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 137, y: 1}
+  VisibleRect:
+    x: 31
+    y: 1
+    width: 129
+    height: 251
+  BoxCenterOffset: {x: -0.325, y: -0.015}
+  BoxSize: {x: 1.29, y: 2.51}
+  BoxWidth: 0.0703125
+  Pivot: {x: 139.87659, y: 9.234054}
+  Texture: {fileID: 2800000, guid: 86a43eee6d0a8e04db01f1c67e5e5a6e, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4278224582
+  - serializedVersion: 2
+    rgba: 4278723699
+  - serializedVersion: 2
+    rgba: 4279240770
+  - serializedVersion: 2
+    rgba: 4278741413
+  - serializedVersion: 2
+    rgba: 4279258756
+  - serializedVersion: 2
+    rgba: 4284114291
+  - serializedVersion: 2
+    rgba: 4280685969
+  - serializedVersion: 2
+    rgba: 4281406662
+  - serializedVersion: 2
+    rgba: 4282140768
+  - serializedVersion: 2
+    rgba: 4278211071
+  - serializedVersion: 2
+    rgba: 4281977855
+  - serializedVersion: 2
+    rgba: 4280721880
+  - serializedVersion: 2
+    rgba: 4278209491
+  - serializedVersion: 2
+    rgba: 4278529439
+  - serializedVersion: 2
+    rgba: 4279267815
+  - serializedVersion: 2
+    rgba: 4278718488
+  - serializedVersion: 2
+    rgba: 4280899071
+  - serializedVersion: 2
+    rgba: 4278198470
+  - serializedVersion: 2
+    rgba: 4278234846
+  - serializedVersion: 2
+    rgba: 4279763051
+  - serializedVersion: 2
+    rgba: 4280167479
+  - serializedVersion: 2
+    rgba: 4287214536
+  - serializedVersion: 2
+    rgba: 4286287791
+  - serializedVersion: 2
+    rgba: 4291744726
+  - serializedVersion: 2
+    rgba: 4282136498
+  - serializedVersion: 2
+    rgba: 4284112284
+  - serializedVersion: 2
+    rgba: 4283582942
+  - serializedVersion: 2
+    rgba: 4284736511
+  - serializedVersion: 2
+    rgba: 4287425535
+  - serializedVersion: 2
+    rgba: 4282684602
+  - serializedVersion: 2
+    rgba: 4283581737
+  - serializedVersion: 2
+    rgba: 4284707146
+  - serializedVersion: 2
+    rgba: 4287402553
+  - serializedVersion: 2
+    rgba: 4281039753
+  - serializedVersion: 2
+    rgba: 4287929996
+  - serializedVersion: 2
+    rgba: 4288851037
+  - serializedVersion: 2
+    rgba: 4285044325
+  - serializedVersion: 2
+    rgba: 4283086558
+  - serializedVersion: 2
+    rgba: 4283602580
+  - serializedVersion: 2
+    rgba: 4286889587
+  DamageColorProbs:
+  - 0.002994012
+  - 0.0009798585
+  - 0.0008709853
+  - 0.00043549266
+  - 0.00065323897
+  - 0.000108873166
+  - 0.00038105607
+  - 0.00032661948
+  - 0.001687534
+  - 0.00032661948
+  - 0.0011431682
+  - 0.0038105608
+  - 0.005062602
+  - 0.0012520413
+  - 0.0005988024
+  - 0.00076211215
+  - 0.0010342951
+  - 0.000054436583
+  - 0.000054436583
+  - 0.0002721829
+  - 0.16314644
+  - 0.117474146
+  - 0.049591724
+  - 0.03777899
+  - 0.022808928
+  - 0.014044638
+  - 0.001959717
+  - 0.08170931
+  - 0.015296679
+  - 0.4029396
+  - 0.002721829
+  - 0.010941753
+  - 0.0044637998
+  - 0.0318454
+  - 0.0095808385
+  - 0.0007076756
+  - 0.0010887316
+  - 0.0027762656
+  - 0.00021774633
+  - 0.006096897

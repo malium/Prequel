@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0376_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 7d3be54608bd67146b3bc01bc870d8ea, type: 3}
+  FamilyName: StuffedAnimalOneHanded
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 69, y: 2}
+  VisibleRect:
+    x: 15
+    y: 2
+    width: 96
+    height: 114
+  BoxCenterOffset: {x: -0.01, y: -0.05}
+  BoxSize: {x: 0.96, y: 1.14}
+  BoxWidth: 0.4921875
+  Pivot: {x: 68.76849, y: 9.865093}
+  Texture: {fileID: 2800000, guid: 7d3be54608bd67146b3bc01bc870d8ea, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4279768088
+  - serializedVersion: 2
+    rgba: 4285558902
+  - serializedVersion: 2
+    rgba: 4287532177
+  - serializedVersion: 2
+    rgba: 4282859850
+  - serializedVersion: 2
+    rgba: 4292270299
+  - serializedVersion: 2
+    rgba: 4281935913
+  - serializedVersion: 2
+    rgba: 4289571501
+  - serializedVersion: 2
+    rgba: 4285222243
+  - serializedVersion: 2
+    rgba: 4294440951
+  - serializedVersion: 2
+    rgba: 4279051068
+  - serializedVersion: 2
+    rgba: 4278735236
+  - serializedVersion: 2
+    rgba: 4278218930
+  - serializedVersion: 2
+    rgba: 4278860384
+  - serializedVersion: 2
+    rgba: 4285767341
+  - serializedVersion: 2
+    rgba: 4278226646
+  - serializedVersion: 2
+    rgba: 4278195307
+  - serializedVersion: 2
+    rgba: 4281424243
+  - serializedVersion: 2
+    rgba: 4283200908
+  DamageColorProbs:
+  - 0.04770206
+  - 0.009350237
+  - 0.0025356577
+  - 0.0011093502
+  - 0.0004754358
+  - 0.0011093502
+  - 0.0038034865
+  - 0.00015847861
+  - 0.00031695722
+  - 0.2630745
+  - 0.24310619
+  - 0.11267829
+  - 0.07511886
+  - 0.016164817
+  - 0.13375594
+  - 0.08399366
+  - 0.0019017432
+  - 0.003645008

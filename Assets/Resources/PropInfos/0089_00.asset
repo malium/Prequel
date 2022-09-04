@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0089_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 990baa4b89ae8b04cae5e6d246e735ef, type: 3}
+  FamilyName: LettuceLettuce
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 58, y: 11}
+  VisibleRect:
+    x: 21
+    y: 11
+    width: 87
+    height: 110
+  BoxCenterOffset: {x: 0.005, y: 0.02}
+  BoxSize: {x: 0.87, y: 1.1}
+  BoxWidth: 0.359375
+  Pivot: {x: 63.70308, y: 21.971704}
+  Texture: {fileID: 2800000, guid: 990baa4b89ae8b04cae5e6d246e735ef, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4283575345
+  - serializedVersion: 2
+    rgba: 4289575572
+  - serializedVersion: 2
+    rgba: 4281930776
+  - serializedVersion: 2
+    rgba: 4287403652
+  - serializedVersion: 2
+    rgba: 4286262346
+  - serializedVersion: 2
+    rgba: 4290611893
+  - serializedVersion: 2
+    rgba: 4287918699
+  - serializedVersion: 2
+    rgba: 4291745709
+  - serializedVersion: 2
+    rgba: 4286287434
+  - serializedVersion: 2
+    rgba: 4289051243
+  - serializedVersion: 2
+    rgba: 4285225306
+  - serializedVersion: 2
+    rgba: 4284841358
+  - serializedVersion: 2
+    rgba: 4289555852
+  - serializedVersion: 2
+    rgba: 4292781790
+  - serializedVersion: 2
+    rgba: 4279583837
+  - serializedVersion: 2
+    rgba: 4282547629
+  - serializedVersion: 2
+    rgba: 4281622147
+  - serializedVersion: 2
+    rgba: 4279771185
+  - serializedVersion: 2
+    rgba: 4281443005
+  - serializedVersion: 2
+    rgba: 4283088598
+  - serializedVersion: 2
+    rgba: 4282270546
+  - serializedVersion: 2
+    rgba: 4287924909
+  - serializedVersion: 2
+    rgba: 4284129981
+  DamageColorProbs:
+  - 0.024517315
+  - 0.006895495
+  - 0.030646645
+  - 0.053631626
+  - 0.001379099
+  - 0.023597917
+  - 0.0052099293
+  - 0.012258657
+  - 0.0024517316
+  - 0.00015323322
+  - 0.001379099
+  - 0.0050566965
+  - 0.10128716
+  - 0.33006436
+  - 0.09071407
+  - 0.081979774
+  - 0.028194912
+  - 0.15859638
+  - 0.0029114312
+  - 0.0065890285
+  - 0.0009193993
+  - 0.00030646645
+  - 0.031259578

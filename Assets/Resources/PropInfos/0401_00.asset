@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0401_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.4
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 05a6925e77d73ce4b83717e83ded0233, type: 3}
+  FamilyName: Videocamera
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 71, y: 2}
+  VisibleRect:
+    x: 34
+    y: 2
+    width: 70
+    height: 124
+  BoxCenterOffset: {x: 0.05, y: 0}
+  BoxSize: {x: 0.7, y: 1.24}
+  BoxWidth: 0.1953125
+  Pivot: {x: 63.70308, y: 9.367664}
+  Texture: {fileID: 2800000, guid: 05a6925e77d73ce4b83717e83ded0233, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4280693790
+  - serializedVersion: 2
+    rgba: 4286285427
+  - serializedVersion: 2
+    rgba: 4283588426
+  - serializedVersion: 2
+    rgba: 4287932052
+  - serializedVersion: 2
+    rgba: 4282988860
+  - serializedVersion: 2
+    rgba: 4290100909
+  - serializedVersion: 2
+    rgba: 4292274126
+  - serializedVersion: 2
+    rgba: 4279374112
+  - serializedVersion: 2
+    rgba: 4285750370
+  - serializedVersion: 2
+    rgba: 4284712530
+  - serializedVersion: 2
+    rgba: 4286886507
+  - serializedVersion: 2
+    rgba: 4280883274
+  DamageColorProbs:
+  - 0.0012227929
+  - 0.00048911717
+  - 0.002934703
+  - 0.0009782343
+  - 0.0022010272
+  - 0.00171191
+  - 0.67962825
+  - 0.2083639
+  - 0.07043287
+  - 0.027146002
+  - 0.004646613
+  - 0.00024455859

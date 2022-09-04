@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0103_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 7053840b1f917dd4d863cb5ce240733f, type: 3}
+  FamilyName: PaellaLettuce
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 60, y: 20}
+  VisibleRect:
+    x: 15
+    y: 20
+    width: 94
+    height: 77
+  BoxCenterOffset: {x: -0.02, y: -0.055}
+  BoxSize: {x: 0.94, y: 0.77}
+  BoxWidth: 0.546875
+  Pivot: {x: 66.672226, y: 36.223618}
+  Texture: {fileID: 2800000, guid: 7053840b1f917dd4d863cb5ce240733f, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4284108114
+  - serializedVersion: 2
+    rgba: 4281608488
+  - serializedVersion: 2
+    rgba: 4286278003
+  - serializedVersion: 2
+    rgba: 4287923868
+  - serializedVersion: 2
+    rgba: 4281416527
+  - serializedVersion: 2
+    rgba: 4279768080
+  - serializedVersion: 2
+    rgba: 4278866593
+  - serializedVersion: 2
+    rgba: 4283591052
+  - serializedVersion: 2
+    rgba: 4281953717
+  - serializedVersion: 2
+    rgba: 4279056237
+  - serializedVersion: 2
+    rgba: 4279794888
+  - serializedVersion: 2
+    rgba: 4278724665
+  - serializedVersion: 2
+    rgba: 4281029769
+  - serializedVersion: 2
+    rgba: 4279064146
+  - serializedVersion: 2
+    rgba: 4291208885
+  - serializedVersion: 2
+    rgba: 4280491665
+  - serializedVersion: 2
+    rgba: 4283049166
+  - serializedVersion: 2
+    rgba: 4279766115
+  - serializedVersion: 2
+    rgba: 4280394479
+  - serializedVersion: 2
+    rgba: 4285252574
+  - serializedVersion: 2
+    rgba: 4278363600
+  - serializedVersion: 2
+    rgba: 4284852162
+  - serializedVersion: 2
+    rgba: 4287940574
+  - serializedVersion: 2
+    rgba: 4281953767
+  - serializedVersion: 2
+    rgba: 4282696167
+  - serializedVersion: 2
+    rgba: 4281746621
+  DamageColorProbs:
+  - 0.011861118
+  - 0.00064697
+  - 0.0049601034
+  - 0.0077636405
+  - 0.0045287902
+  - 0.0028035368
+  - 0.0010782834
+  - 0.0038818202
+  - 0.00258788
+  - 0.0064697
+  - 0.0008626267
+  - 0.0008626267
+  - 0.00064697
+  - 0.2697865
+  - 0.14750917
+  - 0.059305586
+  - 0.019840414
+  - 0.0090575805
+  - 0.04485659
+  - 0.008626267
+  - 0.05456114
+  - 0.14276472
+  - 0.122277334
+  - 0.032348502
+  - 0.036661636
+  - 0.0034505068

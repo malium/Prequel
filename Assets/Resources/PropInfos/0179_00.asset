@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0179_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: b463e49ad8d9ac0459a2810371949927, type: 3}
+  FamilyName: YumleBean
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 57, y: 19}
+  VisibleRect:
+    x: 26
+    y: 19
+    width: 84
+    height: 98
+  BoxCenterOffset: {x: 0.04, y: 0.04}
+  BoxSize: {x: 0.84, y: 0.98}
+  BoxWidth: 0.109375
+  Pivot: {x: 62.218506, y: 37.708195}
+  Texture: {fileID: 2800000, guid: b463e49ad8d9ac0459a2810371949927, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4282324576
+  - serializedVersion: 2
+    rgba: 4283053188
+  - serializedVersion: 2
+    rgba: 4285220269
+  - serializedVersion: 2
+    rgba: 4284115381
+  - serializedVersion: 2
+    rgba: 4287929046
+  - serializedVersion: 2
+    rgba: 4288426190
+  - serializedVersion: 2
+    rgba: 4290102271
+  - serializedVersion: 2
+    rgba: 4286283206
+  DamageColorProbs:
+  - 0.06270201
+  - 0.00064641243
+  - 0.03684551
+  - 0.0051712994
+  - 0.6192631
+  - 0.13639303
+  - 0.10213316
+  - 0.03684551

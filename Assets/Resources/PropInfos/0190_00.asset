@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0190_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.5
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: e40281f665516d94f916fd21f83c3984, type: 3}
+  FamilyName: AnimeStatueHolographic
+  HasLighting: 1
+  LightHeight: 0.5
+  LightRange: 10
+  LightIntensity: 1.5
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294959360
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 60, y: 0}
+  VisibleRect:
+    x: 11
+    y: 0
+    width: 102
+    height: 125
+  BoxCenterOffset: {x: -0.02, y: -0.015}
+  BoxSize: {x: 1.02, y: 1.25}
+  BoxWidth: 0.4765625
+  Pivot: {x: 65.18765, y: 4.023197}
+  Texture: {fileID: 2800000, guid: e40281f665516d94f916fd21f83c3984, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4294938112
+  - serializedVersion: 2
+    rgba: 4294951680
+  - serializedVersion: 2
+    rgba: 4294963968
+  - serializedVersion: 2
+    rgba: 4294908928
+  - serializedVersion: 2
+    rgba: 4292782600
+  - serializedVersion: 2
+    rgba: 4290614084
+  - serializedVersion: 2
+    rgba: 4288442657
+  - serializedVersion: 2
+    rgba: 4293362266
+  - serializedVersion: 2
+    rgba: 4292587057
+  - serializedVersion: 2
+    rgba: 4292786778
+  - serializedVersion: 2
+    rgba: 4290612760
+  - serializedVersion: 2
+    rgba: 4294924800
+  - serializedVersion: 2
+    rgba: 4290618987
+  - serializedVersion: 2
+    rgba: 4286863673
+  - serializedVersion: 2
+    rgba: 4294950466
+  - serializedVersion: 2
+    rgba: 4286482517
+  - serializedVersion: 2
+    rgba: 4289052300
+  - serializedVersion: 2
+    rgba: 4290598168
+  - serializedVersion: 2
+    rgba: 4292789124
+  - serializedVersion: 2
+    rgba: 4289552978
+  - serializedVersion: 2
+    rgba: 4293365396
+  - serializedVersion: 2
+    rgba: 4290803824
+  DamageColorProbs:
+  - 0.00021777004
+  - 0.0030487804
+  - 0.015461672
+  - 0.0037020906
+  - 0.0038109757
+  - 0.011106272
+  - 0.0015243902
+  - 0.0015243902
+  - 0.0005444251
+  - 0.0006533101
+  - 0.0005444251
+  - 0.08024826
+  - 0.12336673
+  - 0.31783536
+  - 0.08079268
+  - 0.0011977352
+  - 0.038109757
+  - 0.13632405
+  - 0.017312719
+  - 0.12597996
+  - 0.028963415
+  - 0.007730836

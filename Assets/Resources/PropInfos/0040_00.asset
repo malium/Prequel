@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0040_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 15197371052eb6742a78727584064738, type: 3}
+  FamilyName: CoralOrange
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 61, y: 26}
+  VisibleRect:
+    x: 19
+    y: 26
+    width: 81
+    height: 81
+  BoxCenterOffset: {x: -0.045, y: 0.025}
+  BoxSize: {x: 0.81, y: 0.81}
+  BoxWidth: 0.1484375
+  Pivot: {x: 62.51542, y: 39.48968}
+  Texture: {fileID: 2800000, guid: 15197371052eb6742a78727584064738, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4278202516
+  - serializedVersion: 2
+    rgba: 4278197355
+  - serializedVersion: 2
+    rgba: 4278737399
+  - serializedVersion: 2
+    rgba: 4278207942
+  - serializedVersion: 2
+    rgba: 4280906239
+  DamageColorProbs:
+  - 0.17161387
+  - 0.053130455
+  - 0.0014966326
+  - 0.4220504
+  - 0.35170865

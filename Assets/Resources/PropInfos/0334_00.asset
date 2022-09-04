@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0334_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 5206670c0e5a70849b5e68fcf016224e, type: 3}
+  FamilyName: RadioactiveBubbles
+  HasLighting: 1
+  LightHeight: 0.3
+  LightRange: 8
+  LightIntensity: 0.8
+  LightColor:
+    serializedVersion: 2
+    rgba: 4279500544
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 61, y: 69}
+  VisibleRect:
+    x: 22
+    y: 69
+    width: 60
+    height: 43
+  BoxCenterOffset: {x: -0.12, y: 0.265}
+  BoxSize: {x: 0.6, y: 0.43}
+  BoxWidth: 0
+  Pivot: {x: 56.57712, y: 85.080956}
+  Texture: {fileID: 2800000, guid: 5206670c0e5a70849b5e68fcf016224e, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4278255500
+  - serializedVersion: 2
+    rgba: 4278249232
+  - serializedVersion: 2
+    rgba: 4278249273
+  - serializedVersion: 2
+    rgba: 4278253410
+  - serializedVersion: 2
+    rgba: 4279304134
+  - serializedVersion: 2
+    rgba: 4278237720
+  DamageColorProbs:
+  - 0.007759457
+  - 0.0038797285
+  - 0.0058195926
+  - 0.74781764
+  - 0.12027158
+  - 0.11445199

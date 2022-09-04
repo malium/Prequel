@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0026_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 01e073643d6c3874595ed7a629411cc3, type: 3}
+  FamilyName: BungleTreeCheese
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 116, y: 41}
+  VisibleRect:
+    x: 75
+    y: 41
+    width: 139
+    height: 194
+  BoxCenterOffset: {x: 0.165, y: 0.1}
+  BoxSize: {x: 1.39, y: 1.94}
+  BoxWidth: 0.05859375
+  Pivot: {x: 118.49871, y: 48.694046}
+  Texture: {fileID: 2800000, guid: 01e073643d6c3874595ed7a629411cc3, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4284691563
+  - serializedVersion: 2
+    rgba: 4282525514
+  - serializedVersion: 2
+    rgba: 4286858636
+  - serializedVersion: 2
+    rgba: 4289030573
+  - serializedVersion: 2
+    rgba: 4290608582
+  - serializedVersion: 2
+    rgba: 4279779644
+  - serializedVersion: 2
+    rgba: 4279790947
+  - serializedVersion: 2
+    rgba: 4280358953
+  - serializedVersion: 2
+    rgba: 4282885048
+  - serializedVersion: 2
+    rgba: 4280846528
+  - serializedVersion: 2
+    rgba: 4284730343
+  - serializedVersion: 2
+    rgba: 4281040009
+  - serializedVersion: 2
+    rgba: 4286897143
+  - serializedVersion: 2
+    rgba: 4281945976
+  - serializedVersion: 2
+    rgba: 4283083495
+  - serializedVersion: 2
+    rgba: 4282559108
+  - serializedVersion: 2
+    rgba: 4279262604
+  DamageColorProbs:
+  - 0.054959785
+  - 0.059065014
+  - 0.07908847
+  - 0.024296246
+  - 0.025804289
+  - 0.021950401
+  - 0.00016756033
+  - 0.02639075
+  - 0.019185657
+  - 0.08863941
+  - 0.2133043
+  - 0.37097856
+  - 0.0006702413
+  - 0.013321046
+  - 0.00008378016
+  - 0.00016756033
+  - 0.0019269437

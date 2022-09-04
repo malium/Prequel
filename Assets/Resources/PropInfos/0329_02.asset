@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0329_02
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 0.9
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: e38e296dfe9ac1c449f3e6962d743ab9, type: 3}
+  FamilyName: Potion
+  HasLighting: 1
+  LightHeight: 0.28
+  LightRange: 6
+  LightIntensity: 0.3
+  LightColor:
+    serializedVersion: 2
+    rgba: 4290147327
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 56, y: 3}
+  VisibleRect:
+    x: 22
+    y: 3
+    width: 63
+    height: 98
+  BoxCenterOffset: {x: -0.105, y: -0.12}
+  BoxSize: {x: 0.63, y: 0.98}
+  BoxWidth: 0.484375
+  Pivot: {x: 51.826485, y: 12.930643}
+  Texture: {fileID: 2800000, guid: e38e296dfe9ac1c449f3e6962d743ab9, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4290623897
+  - serializedVersion: 2
+    rgba: 4292269248
+  - serializedVersion: 2
+    rgba: 4293914599
+  - serializedVersion: 2
+    rgba: 4292775646
+  - serializedVersion: 2
+    rgba: 4292371425
+  - serializedVersion: 2
+    rgba: 4288649843
+  - serializedVersion: 2
+    rgba: 4284119419
+  - serializedVersion: 2
+    rgba: 4290809767
+  - serializedVersion: 2
+    rgba: 4291183062
+  - serializedVersion: 2
+    rgba: 4293900007
+  - serializedVersion: 2
+    rgba: 4286877332
+  - serializedVersion: 2
+    rgba: 4290100934
+  - serializedVersion: 2
+    rgba: 4280898906
+  DamageColorProbs:
+  - 0.002396166
+  - 0.0053248135
+  - 0.10330138
+  - 0.028487753
+  - 0.010383386
+  - 0.0026624068
+  - 0.0018636847
+  - 0.19222577
+  - 0.10569755
+  - 0.1996805
+  - 0.13631523
+  - 0.16773163
+  - 0.04392971

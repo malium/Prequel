@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0396_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.2
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 641bdc3c4a5eb7241a20f6a06576affa, type: 3}
+  FamilyName: Tray
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 64, y: 4}
+  VisibleRect:
+    x: 23
+    y: 4
+    width: 79
+    height: 106
+  BoxCenterOffset: {x: -0.015, y: -0.07}
+  BoxSize: {x: 0.79, y: 1.06}
+  BoxWidth: 0.6171875
+  Pivot: {x: 64.296906, y: 9.526775}
+  Texture: {fileID: 2800000, guid: 641bdc3c4a5eb7241a20f6a06576affa, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4289045148
+  - serializedVersion: 2
+    rgba: 4287531131
+  - serializedVersion: 2
+    rgba: 4285753690
+  - serializedVersion: 2
+    rgba: 4293387230
+  - serializedVersion: 2
+    rgba: 4283583818
+  - serializedVersion: 2
+    rgba: 4291742662
+  - serializedVersion: 2
+    rgba: 4281413665
+  DamageColorProbs:
+  - 0.11371238
+  - 0.09665552
+  - 0.06973244
+  - 0.0031772575
+  - 0.4264214
+  - 0.16705686
+  - 0.123244144

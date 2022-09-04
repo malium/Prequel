@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257dac38790f84f498cc52fab1edd870, type: 3}
+  m_Name: 0066
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  Name: OldTroll
+  SpriteScale: 1
+  Frames:
+  - {fileID: 21300000, guid: c427b74ff27a49b45bd1e1c48010d371, type: 3}
+  - {fileID: 21300000, guid: d3a2b87b1a062064fb78b81e20d7c777, type: 3}
+  - {fileID: 21300000, guid: cbaf99536b39539488fb91b61dc4937e, type: 3}
+  - {fileID: 21300000, guid: 0326141837747ed45af52cbf75b2e818, type: 3}
+  - {fileID: 21300000, guid: eafb42c80701a8241a59e84a4fffd823, type: 3}
+  - {fileID: 21300000, guid: 87d53621c048f9544bedd3be172f7e19, type: 3}
+  BaseHealth: 100
+  BaseSpeed: 1
+  SightRange: 7
+  SightAngle: 60
+  HearingRange: 5
+  AttackRange: 10
+  AttackRate: 1
+  AttackDamage: 10
+  DamageType: 0
+  FriendlyFamilies: []
+  AIType: 0
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel:
+  - {x: 95, y: 2}
+  - {x: 95, y: 2}
+  - {x: 65, y: 9}
+  - {x: 65, y: 9}
+  - {x: 95, y: 2}
+  - {x: 65, y: 9}
+  VisibleRect:
+  - x: 2
+    y: 2
+    width: 115
+    height: 121
+  - x: 1
+    y: 2
+    width: 116
+    height: 122
+  - x: 17
+    y: 9
+    width: 107
+    height: 113
+  - x: 14
+    y: 9
+    width: 110
+    height: 115
+  - x: 10
+    y: 2
+    width: 108
+    height: 122
+  - x: 13
+    y: 9
+    width: 114
+    height: 118
+  BoxCenterOffset:
+  - {x: -0.045, y: -0.015}
+  - {x: -0.05, y: -0.01}
+  - {x: 0.065, y: 0.015}
+  - {x: 0.05, y: 0.025}
+  - {x: 0, y: -0.01}
+  - {x: 0.06, y: 0.04}
+  BoxSize:
+  - {x: 1.15, y: 1.21}
+  - {x: 1.16, y: 1.22}
+  - {x: 1.07, y: 1.13}
+  - {x: 1.1, y: 1.15}
+  - {x: 1.08, y: 1.22}
+  - {x: 1.14, y: 1.18}
+  Textures:
+  - {fileID: 2800000, guid: c427b74ff27a49b45bd1e1c48010d371, type: 3}
+  - {fileID: 2800000, guid: d3a2b87b1a062064fb78b81e20d7c777, type: 3}
+  - {fileID: 2800000, guid: cbaf99536b39539488fb91b61dc4937e, type: 3}
+  - {fileID: 2800000, guid: 0326141837747ed45af52cbf75b2e818, type: 3}
+  - {fileID: 2800000, guid: eafb42c80701a8241a59e84a4fffd823, type: 3}
+  - {fileID: 2800000, guid: 87d53621c048f9544bedd3be172f7e19, type: 3}
+  Pivots:
+  - {x: 80.64, y: 5.12}
+  - {x: 80.64, y: 5.12}
+  - {x: 83.2, y: 11.52}
+  - {x: 83.2, y: 11.52}
+  - {x: 80.64, y: 5.12}
+  - {x: 83.2, y: 11.52}

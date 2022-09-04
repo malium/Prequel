@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0220_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: f8463939aafccd14987599897eab0d98, type: 3}
+  FamilyName: BoxConfidential
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 86, y: 8}
+  VisibleRect:
+    x: 16
+    y: 8
+    width: 94
+    height: 68
+  BoxCenterOffset: {x: -0.01, y: -0.22}
+  BoxSize: {x: 0.94, y: 0.68}
+  BoxWidth: 0.671875
+  Pivot: {x: 58.05856, y: 21.778584}
+  Texture: {fileID: 2800000, guid: f8463939aafccd14987599897eab0d98, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4278191112
+  - serializedVersion: 2
+    rgba: 4280306255
+  - serializedVersion: 2
+    rgba: 4279250486
+  - serializedVersion: 2
+    rgba: 4283598476
+  - serializedVersion: 2
+    rgba: 4285768365
+  - serializedVersion: 2
+    rgba: 4281429363
+  - serializedVersion: 2
+    rgba: 4282532145
+  DamageColorProbs:
+  - 0.08530603
+  - 0.34250373
+  - 0.0034122413
+  - 0.10641928
+  - 0.04563873
+  - 0.3928343
+  - 0.02388569

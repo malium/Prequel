@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0320_02
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 418db92c25140eb43b0f7a41a4cc0a51, type: 3}
+  FamilyName: Neon
+  HasLighting: 1
+  LightHeight: 0.75
+  LightRange: 10
+  LightIntensity: 1.8
+  LightColor:
+    serializedVersion: 2
+    rgba: 4293460991
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 57, y: 2}
+  VisibleRect:
+    x: 47
+    y: 2
+    width: 28
+    height: 124
+  BoxCenterOffset: {x: -0.03, y: 0}
+  BoxSize: {x: 0.28, y: 1.24}
+  BoxWidth: 0.21875
+  Pivot: {x: 61.624676, y: 7.8830905}
+  Texture: {fileID: 2800000, guid: 418db92c25140eb43b0f7a41a4cc0a51, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4293901039
+  - serializedVersion: 2
+    rgba: 4292770532
+  - serializedVersion: 2
+    rgba: 4288970916
+  - serializedVersion: 2
+    rgba: 4287324811
+  - serializedVersion: 2
+    rgba: 4285746285
+  - serializedVersion: 2
+    rgba: 4283906135
+  - serializedVersion: 2
+    rgba: 4294763519
+  - serializedVersion: 2
+    rgba: 4294940668
+  - serializedVersion: 2
+    rgba: 4294922743
+  - serializedVersion: 2
+    rgba: 4288456381
+  - serializedVersion: 2
+    rgba: 4291006408
+  - serializedVersion: 2
+    rgba: 4291697870
+  - serializedVersion: 2
+    rgba: 4292759259
+  DamageColorProbs:
+  - 0.007685486
+  - 0.006207508
+  - 0.0017735738
+  - 0.046112917
+  - 0.0130062075
+  - 0.02837718
+  - 0.060597103
+  - 0.025421225
+  - 0.07035176
+  - 0.0017735738
+  - 0.676914
+  - 0.012710612
+  - 0.049068876

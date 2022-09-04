@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0336_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.6
+  HasShadow: 0
+  PropSprite: {fileID: 21300000, guid: c232f0570a728ea4cabd716515b8d3fb, type: 3}
+  FamilyName: Rainbow
+  HasLighting: 1
+  LightHeight: 1
+  LightRange: 15
+  LightIntensity: 2.5
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 79, y: 14}
+  VisibleRect:
+    x: 39
+    y: 14
+    width: 73
+    height: 95
+  BoxCenterOffset: {x: 0.115, y: -0.025}
+  BoxSize: {x: 0.73, y: 0.95}
+  BoxWidth: 0.3046875
+  Pivot: {x: 56.87404, y: 26.588728}
+  Texture: {fileID: 2800000, guid: c232f0570a728ea4cabd716515b8d3fb, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4294921620
+  - serializedVersion: 2
+    rgba: 4288433663
+  - serializedVersion: 2
+    rgba: 4294946634
+  - serializedVersion: 2
+    rgba: 4294921686
+  - serializedVersion: 2
+    rgba: 4294924632
+  - serializedVersion: 2
+    rgba: 4294964042
+  - serializedVersion: 2
+    rgba: 4284108287
+  - serializedVersion: 2
+    rgba: 4292759039
+  - serializedVersion: 2
+    rgba: 4283075327
+  - serializedVersion: 2
+    rgba: 4283105246
+  - serializedVersion: 2
+    rgba: 4294936138
+  - serializedVersion: 2
+    rgba: 4289068874
+  - serializedVersion: 2
+    rgba: 4284874570
+  - serializedVersion: 2
+    rgba: 4283105147
+  - serializedVersion: 2
+    rgba: 4291886922
+  - serializedVersion: 2
+    rgba: 4283105189
+  - serializedVersion: 2
+    rgba: 4283092735
+  DamageColorProbs:
+  - 0.0038461538
+  - 0.040384617
+  - 0.088221155
+  - 0.03966346
+  - 0.041826922
+  - 0.061298076
+  - 0.039903846
+  - 0.08004808
+  - 0.014663462
+  - 0.010576923
+  - 0.22836539
+  - 0.06826923
+  - 0.05096154
+  - 0.028846154
+  - 0.07620192
+  - 0.054807693
+  - 0.072115384

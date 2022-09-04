@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0222_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 5c7233eaace02ce4dabb73dd0a8307d0, type: 3}
+  FamilyName: BoxMetal
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 60, y: 9}
+  VisibleRect:
+    x: 9
+    y: 9
+    width: 109
+    height: 108
+  BoxCenterOffset: {x: -0.005, y: -0.01}
+  BoxSize: {x: 1.09, y: 1.08}
+  BoxWidth: 0.7265625
+  Pivot: {x: 63.10925, y: 26.291813}
+  Texture: {fileID: 2800000, guid: 5c7233eaace02ce4dabb73dd0a8307d0, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4280362017
+  - serializedVersion: 2
+    rgba: 4282533692
+  - serializedVersion: 2
+    rgba: 4286877299
+  - serializedVersion: 2
+    rgba: 4285034845
+  - serializedVersion: 2
+    rgba: 4290102181
+  - serializedVersion: 2
+    rgba: 4288457356
+  - serializedVersion: 2
+    rgba: 4291746749
+  - serializedVersion: 2
+    rgba: 4293392342
+  DamageColorProbs:
+  - 0.1883065
+  - 0.013589129
+  - 0.04613452
+  - 0.0036542194
+  - 0.2569373
+  - 0.2593354
+  - 0.12001827
+  - 0.112024665

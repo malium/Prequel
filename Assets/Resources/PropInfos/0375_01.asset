@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0375_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 52fe96129f0eec74b8e5dc53b9dd687a, type: 3}
+  FamilyName: StreetlightPaperJP
+  HasLighting: 1
+  LightHeight: 0.6
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4278223615
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 11, y: 0}
+  VisibleRect:
+    x: 0
+    y: 0
+    width: 113
+    height: 126
+  BoxCenterOffset: {x: -0.075, y: -0.01}
+  BoxSize: {x: 1.13, y: 1.26}
+  BoxWidth: 0.6484375
+  Pivot: {x: 65.484566, y: 5.2108564}
+  Texture: {fileID: 2800000, guid: 52fe96129f0eec74b8e5dc53b9dd687a, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4278717506
+  - serializedVersion: 2
+    rgba: 4280294685
+  - serializedVersion: 2
+    rgba: 4278198015
+  - serializedVersion: 2
+    rgba: 4284708219
+  - serializedVersion: 2
+    rgba: 4282333239
+  - serializedVersion: 2
+    rgba: 4284111194
+  - serializedVersion: 2
+    rgba: 4278851963
+  - serializedVersion: 2
+    rgba: 4278721701
+  - serializedVersion: 2
+    rgba: 4280824168
+  - serializedVersion: 2
+    rgba: 4278197462
+  - serializedVersion: 2
+    rgba: 4281942412
+  - serializedVersion: 2
+    rgba: 4279256575
+  - serializedVersion: 2
+    rgba: 4280903167
+  - serializedVersion: 2
+    rgba: 4280170957
+  DamageColorProbs:
+  - 0.042730644
+  - 0.0039126854
+  - 0.01791598
+  - 0.0016474464
+  - 0.043863263
+  - 0.0035008236
+  - 0.012252883
+  - 0.3797364
+  - 0.1467257
+  - 0.07011944
+  - 0.059411038
+  - 0.049011532
+  - 0.16144976
+  - 0.0077224053

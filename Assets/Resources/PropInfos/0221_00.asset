@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0221_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 7aa90a8b86d49d049962435aa94856ca, type: 3}
+  FamilyName: BoxingBag
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 110, y: 2}
+  VisibleRect:
+    x: 93
+    y: 2
+    width: 60
+    height: 253
+  BoxCenterOffset: {x: -0.05, y: 0.005}
+  BoxSize: {x: 0.6, y: 2.53}
+  BoxWidth: 0.2109375
+  Pivot: {x: 125.03084, y: 11.015543}
+  Texture: {fileID: 2800000, guid: 7aa90a8b86d49d049962435aa94856ca, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4279762977
+  - serializedVersion: 2
+    rgba: 4281408569
+  - serializedVersion: 2
+    rgba: 4285752699
+  - serializedVersion: 2
+    rgba: 4281407873
+  - serializedVersion: 2
+    rgba: 4281933997
+  - serializedVersion: 2
+    rgba: 4283581786
+  - serializedVersion: 2
+    rgba: 4279261596
+  - serializedVersion: 2
+    rgba: 4287923868
+  - serializedVersion: 2
+    rgba: 4279581813
+  - serializedVersion: 2
+    rgba: 4280894802
+  - serializedVersion: 2
+    rgba: 4278190162
+  - serializedVersion: 2
+    rgba: 4288457389
+  - serializedVersion: 2
+    rgba: 4283581869
+  - serializedVersion: 2
+    rgba: 4290103246
+  - serializedVersion: 2
+    rgba: 4278195365
+  - serializedVersion: 2
+    rgba: 4278718075
+  - serializedVersion: 2
+    rgba: 4280380870
+  - serializedVersion: 2
+    rgba: 4280186202
+  - serializedVersion: 2
+    rgba: 4283068795
+  - serializedVersion: 2
+    rgba: 4278723641
+  - serializedVersion: 2
+    rgba: 4282160449
+  - serializedVersion: 2
+    rgba: 4280697379
+  - serializedVersion: 2
+    rgba: 4281627677
+  - serializedVersion: 2
+    rgba: 4282557976
+  - serializedVersion: 2
+    rgba: 4281828830
+  - serializedVersion: 2
+    rgba: 4285252401
+  - serializedVersion: 2
+    rgba: 4280918693
+  - serializedVersion: 2
+    rgba: 4278190080
+  - serializedVersion: 2
+    rgba: 4294433602
+  - serializedVersion: 2
+    rgba: 4285748719
+  - serializedVersion: 2
+    rgba: 4283612594
+  - serializedVersion: 2
+    rgba: 4284130031
+  - serializedVersion: 2
+    rgba: 4285259734
+  - serializedVersion: 2
+    rgba: 4283052246
+  - serializedVersion: 2
+    rgba: 4287950831
+  - serializedVersion: 2
+    rgba: 4281981133
+  - serializedVersion: 2
+    rgba: 4285252492
+  - serializedVersion: 2
+    rgba: 4286890950
+  - serializedVersion: 2
+    rgba: 4287592953
+  - serializedVersion: 2
+    rgba: 4284332637
+  - serializedVersion: 2
+    rgba: 4287949658
+  - serializedVersion: 2
+    rgba: 4280384908
+  - serializedVersion: 2
+    rgba: 4279813045
+  - serializedVersion: 2
+    rgba: 4283973653
+  - serializedVersion: 2
+    rgba: 4281933832
+  - serializedVersion: 2
+    rgba: 4285032475
+  - serializedVersion: 2
+    rgba: 4282359416
+  - serializedVersion: 2
+    rgba: 4278744369
+  - serializedVersion: 2
+    rgba: 4290116484
+  - serializedVersion: 2
+    rgba: 4288446976
+  - serializedVersion: 2
+    rgba: 4289051232
+  - serializedVersion: 2
+    rgba: 4290639863
+  - serializedVersion: 2
+    rgba: 4293384043
+  - serializedVersion: 2
+    rgba: 4284714553
+  - serializedVersion: 2
+    rgba: 4291672895
+  - serializedVersion: 2
+    rgba: 4294965165
+  - serializedVersion: 2
+    rgba: 4289893932
+  DamageColorProbs:
+  - 0.002121709
+  - 0.0043398594
+  - 0.0055935965
+  - 0.0027003568
+  - 0.0027967982
+  - 0.0020252676
+  - 0.03240428
+  - 0.003954094
+  - 0.005786479
+  - 0.01022278
+  - 0.0005786479
+  - 0.001543061
+  - 0.0011572958
+  - 0.0012537371
+  - 0.0007715305
+  - 0.0019288263
+  - 0.001543061
+  - 0.00019288262
+  - 0.0025074743
+  - 0.0012537371
+  - 0.0027967982
+  - 0.004243418
+  - 0.00028932394
+  - 0.002121709
+  - 0.0028932395
+  - 0.0019288263
+  - 0.00019288262
+  - 0.00086797186
+  - 0.00038576525
+  - 0.095091134
+  - 0.11505449
+  - 0.34641722
+  - 0.13270324
+  - 0.051113896
+  - 0.019866912
+  - 0.008197512
+  - 0.018613175
+  - 0.009933456
+  - 0.021506414
+  - 0.008679719
+  - 0.008293953
+  - 0.0023145915
+  - 0.0043398594
+  - 0.0031825635
+  - 0.0016395024
+  - 0.00019288262
+  - 0.00028932394
+  - 0.0007715305
+  - 0.0049185073
+  - 0.006461568
+  - 0.0019288263
+  - 0.00028932394
+  - 0.004050535
+  - 0.008390394
+  - 0.005497155
+  - 0.01099431
+  - 0.008872601

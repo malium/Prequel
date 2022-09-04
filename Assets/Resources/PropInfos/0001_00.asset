@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0001_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: f1fbd387d168dc64c9726ec67f14f610, type: 3}
+  FamilyName: AlgaeTree
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 132, y: 19}
+  VisibleRect:
+    x: 87
+    y: 19
+    width: 67
+    height: 166
+  BoxCenterOffset: {x: -0.075, y: -0.26}
+  BoxSize: {x: 0.67, y: 1.66}
+  BoxWidth: 0.109375
+  Pivot: {x: 125.80182, y: 42.596874}
+  Texture: {fileID: 2800000, guid: f1fbd387d168dc64c9726ec67f14f610, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4279257407
+  - serializedVersion: 2
+    rgba: 4278333723
+  - serializedVersion: 2
+    rgba: 4286888629
+  - serializedVersion: 2
+    rgba: 4281429355
+  - serializedVersion: 2
+    rgba: 4283993475
+  - serializedVersion: 2
+    rgba: 4278745418
+  - serializedVersion: 2
+    rgba: 4280918635
+  - serializedVersion: 2
+    rgba: 4284731284
+  - serializedVersion: 2
+    rgba: 4281427266
+  - serializedVersion: 2
+    rgba: 4288473013
+  DamageColorProbs:
+  - 0.006648114
+  - 0.0010822511
+  - 0.015924552
+  - 0.0024737169
+  - 0.0029375385
+  - 0.37987012
+  - 0.32142857
+  - 0.20299938
+  - 0.011286332
+  - 0.055349413

@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0175_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.6
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 399e4abdd2b805d4c8d5491468dc8b0b, type: 3}
+  FamilyName: VikingTotem
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 64, y: 2}
+  VisibleRect:
+    x: 31
+    y: 2
+    width: 66
+    height: 124
+  BoxCenterOffset: {x: 0, y: 0}
+  BoxSize: {x: 0.66, y: 1.24}
+  BoxWidth: 0.125
+  Pivot: {x: 63.406166, y: 5.047557}
+  Texture: {fileID: 2800000, guid: 399e4abdd2b805d4c8d5491468dc8b0b, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4282998395
+  - serializedVersion: 2
+    rgba: 4281744482
+  - serializedVersion: 2
+    rgba: 4282327094
+  - serializedVersion: 2
+    rgba: 4288453260
+  - serializedVersion: 2
+    rgba: 4284119444
+  - serializedVersion: 2
+    rgba: 4285886574
+  - serializedVersion: 2
+    rgba: 4283976271
+  - serializedVersion: 2
+    rgba: 4290102181
+  - serializedVersion: 2
+    rgba: 4284716742
+  - serializedVersion: 2
+    rgba: 4279770153
+  - serializedVersion: 2
+    rgba: 4292271029
+  - serializedVersion: 2
+    rgba: 4286287525
+  - serializedVersion: 2
+    rgba: 4286820546
+  - serializedVersion: 2
+    rgba: 4289590271
+  DamageColorProbs:
+  - 0.023798628
+  - 0.01235698
+  - 0.005949657
+  - 0.024942791
+  - 0.00022883296
+  - 0.0011441647
+  - 0.0006864989
+  - 0.2860412
+  - 0.26292905
+  - 0.10778032
+  - 0.028604118
+  - 0.1187643
+  - 0.056750573
+  - 0.07002288

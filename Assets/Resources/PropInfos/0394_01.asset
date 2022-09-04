@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0394_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: a74013c5aa7fa724c8c4248e30921ad3, type: 3}
+  FamilyName: Trash
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 67, y: 1}
+  VisibleRect:
+    x: 25
+    y: 1
+    width: 73
+    height: 78
+  BoxCenterOffset: {x: -0.025, y: -0.24}
+  BoxSize: {x: 0.73, y: 0.78}
+  BoxWidth: 0.53125
+  Pivot: {x: 64.88447, y: 11.117836}
+  Texture: {fileID: 2800000, guid: a74013c5aa7fa724c8c4248e30921ad3, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4280894777
+  - serializedVersion: 2
+    rgba: 4281952586
+  - serializedVersion: 2
+    rgba: 4278339371
+  - serializedVersion: 2
+    rgba: 4283594140
+  - serializedVersion: 2
+    rgba: 4284121707
+  - serializedVersion: 2
+    rgba: 4281951611
+  - serializedVersion: 2
+    rgba: 4285766276
+  DamageColorProbs:
+  - 0.11820619
+  - 0.014135998
+  - 0.014867171
+  - 0.0060931025
+  - 0.2700463
+  - 0.35120642
+  - 0.2254448

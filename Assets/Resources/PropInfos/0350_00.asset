@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0350_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 2
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 6d2fca8e02da6774ba9b21ad908c7b7b, type: 3}
+  FamilyName: SaturnV
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 123, y: 0}
+  VisibleRect:
+    x: 106
+    y: 0
+    width: 42
+    height: 252
+  BoxCenterOffset: {x: -0.01, y: -0.02}
+  BoxSize: {x: 0.42, y: 2.52}
+  BoxWidth: 0.11328125
+  Pivot: {x: 127.999985, y: 10.421713}
+  Texture: {fileID: 2800000, guid: 6d2fca8e02da6774ba9b21ad908c7b7b, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4281806126
+  - serializedVersion: 2
+    rgba: 4285029986
+  - serializedVersion: 2
+    rgba: 4280096024
+  - serializedVersion: 2
+    rgba: 4287926932
+  - serializedVersion: 2
+    rgba: 4283189065
+  - serializedVersion: 2
+    rgba: 4286870907
+  - serializedVersion: 2
+    rgba: 4281935987
+  - serializedVersion: 2
+    rgba: 4283581828
+  - serializedVersion: 2
+    rgba: 4279764100
+  - serializedVersion: 2
+    rgba: 4281935021
+  - serializedVersion: 2
+    rgba: 4286266376
+  - serializedVersion: 2
+    rgba: 4285226421
+  - serializedVersion: 2
+    rgba: 4290096813
+  - serializedVersion: 2
+    rgba: 4292791246
+  DamageColorProbs:
+  - 0.0006317119
+  - 0.00078963995
+  - 0.0006317119
+  - 0.0018951359
+  - 0.0025268476
+  - 0.031743526
+  - 0.018477574
+  - 0.19346178
+  - 0.23389134
+  - 0.29816803
+  - 0.026373973
+  - 0.106443465
+  - 0.07533165
+  - 0.009633607

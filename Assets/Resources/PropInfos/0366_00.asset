@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0366_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 51a6a193e6d70c64ea2abb94628346bb, type: 3}
+  FamilyName: SpikeTree
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 129, y: 1}
+  VisibleRect:
+    x: 80
+    y: 1
+    width: 90
+    height: 166
+  BoxCenterOffset: {x: -0.03, y: -0.44}
+  BoxSize: {x: 0.9, y: 1.66}
+  BoxWidth: 0.32421875
+  Pivot: {x: 132.75063, y: 8.6402235}
+  Texture: {fileID: 2800000, guid: 51a6a193e6d70c64ea2abb94628346bb, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4280882209
+  - serializedVersion: 2
+    rgba: 4286276979
+  - serializedVersion: 2
+    rgba: 4283383367
+  - serializedVersion: 2
+    rgba: 4289564325
+  - serializedVersion: 2
+    rgba: 4291208893
+  - serializedVersion: 2
+    rgba: 4287920268
+  DamageColorProbs:
+  - 0.015908847
+  - 0.0053746104
+  - 0.00021498441
+  - 0.61453295
+  - 0.289584
+  - 0.07438461

@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0411_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 0
+  PropSprite: {fileID: 21300000, guid: a9ce441f869db9e4f988884b10253622, type: 3}
+  FamilyName: SolarFlareWhiteNeutron
+  HasLighting: 1
+  LightHeight: 1
+  LightRange: 20
+  LightIntensity: 2
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 70, y: 0}
+  VisibleRect:
+    x: 56
+    y: 0
+    width: 174
+    height: 235
+  BoxCenterOffset: {x: 0.15, y: -0.105}
+  BoxSize: {x: 1.74, y: 2.35}
+  BoxWidth: 0.47265625
+  Pivot: {x: 116.37755, y: 30.126644}
+  Texture: {fileID: 2800000, guid: a9ce441f869db9e4f988884b10253622, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4294439286
+  - serializedVersion: 2
+    rgba: 4294428019
+  - serializedVersion: 2
+    rgba: 4294564255
+  - serializedVersion: 2
+    rgba: 4294432718
+  - serializedVersion: 2
+    rgba: 4294963183
+  - serializedVersion: 2
+    rgba: 4294415987
+  - serializedVersion: 2
+    rgba: 4294554017
+  - serializedVersion: 2
+    rgba: 4294442950
+  DamageColorProbs:
+  - 0.0049039233
+  - 0.013911129
+  - 0.00026688018
+  - 0.00030024018
+  - 0.88887775
+  - 0.06265012
+  - 0.018548172
+  - 0.010541767

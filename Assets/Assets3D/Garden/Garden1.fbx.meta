@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: b25fcb6accbc0e1409996f01da3d4564
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Branches_MTL
+    second: {fileID: 2100000, guid: 7ad11e2d99c7fa142b5c0fe3c3f38f19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FloorLeaves_0_MTL
+    second: {fileID: 2100000, guid: 815bc80fb4380ca4fbf2a384a2996801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FloorLeaves_1_MTL
+    second: {fileID: 2100000, guid: b815190c0e0722145bf700568c27c19a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FloorLeaves_2_MTL
+    second: {fileID: 2100000, guid: c58a1e2ec1b20514087c6374607728d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FloorPebbles_0_MTL
+    second: {fileID: 2100000, guid: 6207a0a9d70802845b66673124028777, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FloorPebbles_1_MTL
+    second: {fileID: 2100000, guid: 1cefb10b28699ba4ab6464335a1b1bf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MTL_BigBlueStone_v0_BODY
+    second: {fileID: 2100000, guid: ba97c1f27e4ef084b8c3b738b9a9fefc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MTL_BigBlueStone_v0_CAP
+    second: {fileID: 2100000, guid: 903c5f66b72ea9344b4d7f58caaff9b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MTL_BigBlueStone_v1_BODY
+    second: {fileID: 2100000, guid: 3ac4be5275ee4ba45a95529497e4d2a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MTL_BigBlueStone_v1_CAP
+    second: {fileID: 2100000, guid: 77d0d08c854088047815d6f60b4ef246, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MTL_BigBlueStone_v2_BODY
+    second: {fileID: 2100000, guid: e07086e37310e9241977990315bf21ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MTL_BigBlueStone_v2_CAP
+    second: {fileID: 2100000, guid: 54a31c2a611eeb6419330a9dc2f2bd98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MTL_BigStone_BODY
+    second: {fileID: 2100000, guid: 6ee639afcae656143812045b7a4d0884, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MTL_BigStone_CAP
+    second: {fileID: 2100000, guid: 3387ef4c224703f4a9ea2820ab7e5629, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MTL_SmallBlueStone_v0_BODY
+    second: {fileID: 2100000, guid: 12964b05fb152a64f98c2a859c227142, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MTL_SmallBlueStone_v0_CAP
+    second: {fileID: 2100000, guid: e53ab5b4671e74941946b33a55f322d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MTL_SmallBlueStone_v1_BODY
+    second: {fileID: 2100000, guid: 4485d99dc8b69d24aa7568dc69b6433b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MTL_SmallBlueStone_v1_CAP
+    second: {fileID: 2100000, guid: c0161476c9e15e642b07703c675388f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MTL_SmallBlueStone_v2_BODY
+    second: {fileID: 2100000, guid: 253e466f3922c2f4482c9d8de5062469, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MTL_SmallBlueStone_v2_CAP
+    second: {fileID: 2100000, guid: 8f81506db2c1ecc41a25add0d190e649, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MTL_SmallBlueStone_v3_BODY
+    second: {fileID: 2100000, guid: 4ccb92d43a0c62b4789f83e90dedd0c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MTL_SmallBlueStone_v3_CAP
+    second: {fileID: 2100000, guid: 674872d39c57fd64db0c62d33b727d01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MTL_SmallBlueStone_v4_BODY
+    second: {fileID: 2100000, guid: bb8d88a2344a4ec4f9561ad8ca620d37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MTL_SmallBlueStone_v4_CAP
+    second: {fileID: 2100000, guid: f488f2472f2e0184c85c1304c2dc34cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MTL_SmallBlueStone_v5_BODY
+    second: {fileID: 2100000, guid: 53447e3c401f6c44787a92573e05354f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MTL_SmallBlueStone_v5_CAP
+    second: {fileID: 2100000, guid: c81cdd34e11bc96488b2b9b5ee403420, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MTL_SmallStone_BODY
+    second: {fileID: 2100000, guid: 3175daa580e440a469e9d565b63af8c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MTL_SmallStone_v1_CAP
+    second: {fileID: 2100000, guid: c40fad40bd4db464a9d4670fe86a4553, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MTL_SmallStone_v2_CAP
+    second: {fileID: 2100000, guid: 7ad3a3546b472cf4fa335e660a0ccac6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MTL_SmallStone_v3_CAP
+    second: {fileID: 2100000, guid: 0e22081e8dc993947904253d03ace5eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 382f909610efee74cb85c73e8acdedaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: b711156e2cc9dad47a31118675bcf5ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sea_mtl
+    second: {fileID: 2100000, guid: 8e9a2d73ac7965f479abdfac85d5af43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree_MTL
+    second: {fileID: 2100000, guid: f6292872d0db65641a1b36fc253e2654, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterWell_Bottom_MTL
+    second: {fileID: 2100000, guid: 69d076bb510481a48ae90037806f22dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterWell_FloatingStones
+    second: {fileID: 2100000, guid: 1c042371deed89849997b83e546e81a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhitePebbles_MTL
+    second: {fileID: 2100000, guid: e314587f9b8e6034093ad2f4b38b706f, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

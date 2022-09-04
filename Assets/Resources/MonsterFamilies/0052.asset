@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257dac38790f84f498cc52fab1edd870, type: 3}
+  m_Name: 0052
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  Name: FemenineTroll
+  SpriteScale: 1
+  Frames:
+  - {fileID: 21300000, guid: 1e0c8fef7b8328b4d8ea33cc7ef60202, type: 3}
+  - {fileID: 21300000, guid: dc31e1bab33be31439b0cad307ced642, type: 3}
+  - {fileID: 21300000, guid: 5cf77e7e36ea27448b06d3990720df1d, type: 3}
+  - {fileID: 21300000, guid: 8655422b5cdc187429a7d3be30c5bd47, type: 3}
+  - {fileID: 21300000, guid: db471105f0292df49b34edf7bfe9d3c0, type: 3}
+  - {fileID: 21300000, guid: f4dfd9537b642c84da190d200d9eb287, type: 3}
+  BaseHealth: 100
+  BaseSpeed: 1
+  SightRange: 7
+  SightAngle: 60
+  HearingRange: 5
+  AttackRange: 10
+  AttackRate: 1
+  AttackDamage: 10
+  DamageType: 0
+  FriendlyFamilies: []
+  AIType: 0
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel:
+  - {x: 87, y: 1}
+  - {x: 88, y: 1}
+  - {x: 61, y: 3}
+  - {x: 62, y: 3}
+  - {x: 89, y: 1}
+  - {x: 62, y: 3}
+  VisibleRect:
+  - x: 5
+    y: 1
+    width: 119
+    height: 124
+  - x: 2
+    y: 1
+    width: 121
+    height: 125
+  - x: 2
+    y: 3
+    width: 123
+    height: 122
+  - x: 2
+    y: 3
+    width: 120
+    height: 124
+  - x: 0
+    y: 1
+    width: 120
+    height: 126
+  - x: 0
+    y: 3
+    width: 121
+    height: 124
+  BoxCenterOffset:
+  - {x: 0.005, y: -0.01}
+  - {x: -0.015, y: -0.005}
+  - {x: -0.005, y: 0}
+  - {x: -0.02, y: 0.01}
+  - {x: -0.04, y: 0}
+  - {x: -0.035, y: 0.01}
+  BoxSize:
+  - {x: 1.19, y: 1.24}
+  - {x: 1.21, y: 1.25}
+  - {x: 1.23, y: 1.22}
+  - {x: 1.2, y: 1.24}
+  - {x: 1.2, y: 1.26}
+  - {x: 1.21, y: 1.24}
+  Textures:
+  - {fileID: 2800000, guid: 1e0c8fef7b8328b4d8ea33cc7ef60202, type: 3}
+  - {fileID: 2800000, guid: dc31e1bab33be31439b0cad307ced642, type: 3}
+  - {fileID: 2800000, guid: 5cf77e7e36ea27448b06d3990720df1d, type: 3}
+  - {fileID: 2800000, guid: 8655422b5cdc187429a7d3be30c5bd47, type: 3}
+  - {fileID: 2800000, guid: db471105f0292df49b34edf7bfe9d3c0, type: 3}
+  - {fileID: 2800000, guid: f4dfd9537b642c84da190d200d9eb287, type: 3}
+  Pivots:
+  - {x: 71.68, y: 2.56}
+  - {x: 71.68, y: 2.56}
+  - {x: 80.64, y: 5.12}
+  - {x: 80.64, y: 5.12}
+  - {x: 71.68, y: 2.56}
+  - {x: 80.64, y: 5.12}

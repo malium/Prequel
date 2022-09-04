@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0215_03
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.5
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: f8ec4c1bb547ef945b9e1dd113ac0ba8, type: 3}
+  FamilyName: BeheadedHead
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 59, y: 0}
+  VisibleRect:
+    x: 21
+    y: 0
+    width: 82
+    height: 64
+  BoxCenterOffset: {x: -0.02, y: -0.32}
+  BoxSize: {x: 0.82, y: 0.64}
+  BoxWidth: 0.5390625
+  Pivot: {x: 63.118645, y: 12.839818}
+  Texture: {fileID: 2800000, guid: f8ec4c1bb547ef945b9e1dd113ac0ba8, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4279238763
+  - serializedVersion: 2
+    rgba: 4278715416
+  - serializedVersion: 2
+    rgba: 4279566492
+  - serializedVersion: 2
+    rgba: 4281215049
+  - serializedVersion: 2
+    rgba: 4280819075
+  - serializedVersion: 2
+    rgba: 4280361992
+  - serializedVersion: 2
+    rgba: 4281942379
+  - serializedVersion: 2
+    rgba: 4278714433
+  - serializedVersion: 2
+    rgba: 4288461526
+  - serializedVersion: 2
+    rgba: 4282535316
+  - serializedVersion: 2
+    rgba: 4283586890
+  - serializedVersion: 2
+    rgba: 4286289327
+  - serializedVersion: 2
+    rgba: 4285229460
+  - serializedVersion: 2
+    rgba: 4290105327
+  - serializedVersion: 2
+    rgba: 4286285526
+  - serializedVersion: 2
+    rgba: 4278726705
+  - serializedVersion: 2
+    rgba: 4283919472
+  DamageColorProbs:
+  - 0.029846659
+  - 0.015607886
+  - 0.11391018
+  - 0.07749178
+  - 0.035870757
+  - 0.007940854
+  - 0.00027382257
+  - 0.0010952903
+  - 0.0013691129
+  - 0.15799561
+  - 0.0983023
+  - 0.114731655
+  - 0.0147864185
+  - 0.13882804
+  - 0.02026287
+  - 0.06599124
+  - 0.10569551

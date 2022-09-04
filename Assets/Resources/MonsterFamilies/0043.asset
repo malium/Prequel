@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257dac38790f84f498cc52fab1edd870, type: 3}
+  m_Name: 0043
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  Name: BraveSouler
+  SpriteScale: 1
+  Frames:
+  - {fileID: 21300000, guid: 6e7e864158793774e8bbe38f21b0779b, type: 3}
+  - {fileID: 21300000, guid: 34caea1c4cea73d429a5b23076678f33, type: 3}
+  - {fileID: 21300000, guid: 1e7a0337711ce3644a92b3947449e5b0, type: 3}
+  - {fileID: 21300000, guid: 4d5a7b6af962a1e4689fb667858060dc, type: 3}
+  - {fileID: 21300000, guid: bdff2adaeff8753449ec7cab741a674e, type: 3}
+  - {fileID: 21300000, guid: a405f082cb60c974bb8bb20fe3873bd2, type: 3}
+  BaseHealth: 100
+  BaseSpeed: 1
+  SightRange: 7
+  SightAngle: 60
+  HearingRange: 5
+  AttackRange: 10
+  AttackRate: 1
+  AttackDamage: 10
+  DamageType: 0
+  FriendlyFamilies: []
+  AIType: 0
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel:
+  - {x: 68, y: 4}
+  - {x: 69, y: 5}
+  - {x: 55, y: 5}
+  - {x: 57, y: 6}
+  - {x: 66, y: 5}
+  - {x: 56, y: 4}
+  VisibleRect:
+  - x: 16
+    y: 4
+    width: 81
+    height: 118
+  - x: 17
+    y: 5
+    width: 79
+    height: 122
+  - x: 27
+    y: 5
+    width: 80
+    height: 122
+  - x: 26
+    y: 6
+    width: 82
+    height: 121
+  - x: 30
+    y: 5
+    width: 71
+    height: 119
+  - x: 37
+    y: 4
+    width: 87
+    height: 120
+  BoxCenterOffset:
+  - {x: -0.075, y: -0.01}
+  - {x: -0.075, y: 0.02}
+  - {x: 0.03, y: 0.02}
+  - {x: 0.03, y: 0.025}
+  - {x: 0.015, y: 0.005}
+  - {x: 0.165, y: 0}
+  BoxSize:
+  - {x: 0.81, y: 1.18}
+  - {x: 0.79, y: 1.22}
+  - {x: 0.8, y: 1.22}
+  - {x: 0.82, y: 1.21}
+  - {x: 0.71, y: 1.19}
+  - {x: 0.87, y: 1.2}
+  Textures:
+  - {fileID: 2800000, guid: 6e7e864158793774e8bbe38f21b0779b, type: 3}
+  - {fileID: 2800000, guid: 34caea1c4cea73d429a5b23076678f33, type: 3}
+  - {fileID: 2800000, guid: 1e7a0337711ce3644a92b3947449e5b0, type: 3}
+  - {fileID: 2800000, guid: 4d5a7b6af962a1e4689fb667858060dc, type: 3}
+  - {fileID: 2800000, guid: bdff2adaeff8753449ec7cab741a674e, type: 3}
+  - {fileID: 2800000, guid: a405f082cb60c974bb8bb20fe3873bd2, type: 3}
+  Pivots:
+  - {x: 70.4, y: 0}
+  - {x: 70.4, y: 0}
+  - {x: 56.32, y: 0}
+  - {x: 56.32, y: 0}
+  - {x: 70.4, y: 0}
+  - {x: 56.32, y: 0}

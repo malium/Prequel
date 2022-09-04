@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0048_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 9fdafa4d8e58a3a4d8935fede5e06566, type: 3}
+  FamilyName: CrystalStonePurple
+  HasLighting: 1
+  LightHeight: 0.5
+  LightRange: 5
+  LightIntensity: 0.8
+  LightColor:
+    serializedVersion: 2
+    rgba: 4292617215
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 72, y: 30}
+  VisibleRect:
+    x: 31
+    y: 30
+    width: 63
+    height: 62
+  BoxCenterOffset: {x: -0.015, y: -0.03}
+  BoxSize: {x: 0.63, y: 0.62}
+  BoxWidth: 0.109375
+  Pivot: {x: 65.78149, y: 49.287872}
+  Texture: {fileID: 2800000, guid: 9fdafa4d8e58a3a4d8935fede5e06566, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4286269762
+  - serializedVersion: 2
+    rgba: 4290083195
+  - serializedVersion: 2
+    rgba: 4286784875
+  - serializedVersion: 2
+    rgba: 4281933848
+  - serializedVersion: 2
+    rgba: 4284101681
+  - serializedVersion: 2
+    rgba: 4288110170
+  - serializedVersion: 2
+    rgba: 4293353942
+  - serializedVersion: 2
+    rgba: 4294933999
+  - serializedVersion: 2
+    rgba: 4285537962
+  - serializedVersion: 2
+    rgba: 4285726827
+  - serializedVersion: 2
+    rgba: 4291729044
+  - serializedVersion: 2
+    rgba: 4287896724
+  - serializedVersion: 2
+    rgba: 4290066605
+  DamageColorProbs:
+  - 0.00083963055
+  - 0.0025188916
+  - 0.056255247
+  - 0.045759864
+  - 0.14483628
+  - 0.002938707
+  - 0.07346767
+  - 0.08480269
+  - 0.042401344
+  - 0.197733
+  - 0.11041142
+  - 0.03190596
+  - 0.2061293

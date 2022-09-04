@@ -1,0 +1,618 @@
+fileFormatVersion: 2
+guid: 096e5900456d1c34199302d36596a7b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4162613899851905685
+    second: Alert01_0
+  - first:
+      213: 3161890783543781318
+    second: Alert01_1
+  - first:
+      213: 4228444294118539918
+    second: Alert01_2
+  - first:
+      213: 3517530688055681655
+    second: Alert01_3
+  - first:
+      213: 2775896822102136916
+    second: Alert01_4
+  - first:
+      213: -5408410756316024033
+    second: Alert01_5
+  - first:
+      213: 4108058118426942084
+    second: Alert01_6
+  - first:
+      213: -1090833547817826030
+    second: Alert01_7
+  - first:
+      213: 3742034866113992705
+    second: Alert01_8
+  - first:
+      213: 4683928170287567034
+    second: Alert01_9
+  - first:
+      213: 44648084523173046
+    second: Alert01_10
+  - first:
+      213: -3278694364975451134
+    second: Alert01_11
+  - first:
+      213: 8074735444428365694
+    second: Alert01_12
+  - first:
+      213: 8882339496819137227
+    second: Alert01_13
+  - first:
+      213: 3891467344861685753
+    second: Alert01_14
+  - first:
+      213: -5746500185980520031
+    second: Alert01_15
+  - first:
+      213: 4215021235801505435
+    second: Alert01_16
+  - first:
+      213: -4207331669979493193
+    second: Alert01_17
+  - first:
+      213: -728907952297435819
+    second: Alert01_18
+  - first:
+      213: 6912366596875587947
+    second: Alert01_19
+  - first:
+      213: -2939207556038703675
+    second: Alert01_20
+  - first:
+      213: -8485887184470275800
+    second: Alert01_21
+  - first:
+      213: 6343776694942639978
+    second: Alert01_22
+  - first:
+      213: 2463706868237676050
+    second: Alert01_23
+  - first:
+      213: -5142635867991910033
+    second: Alert01_24
+  - first:
+      213: -3121410503223861764
+    second: Alert01_25
+  - first:
+      213: 1668626277138130800
+    second: Alert01_26
+  - first:
+      213: -1960041881503942267
+    second: Alert01_27
+  - first:
+      213: -675695749776524583
+    second: Alert01_28
+  - first:
+      213: -5785200407647434659
+    second: Alert01_29
+  - first:
+      213: 3973584430319202740
+    second: Alert01_30
+  - first:
+      213: -3315865150948806717
+    second: Alert01_31
+  - first:
+      213: -1288260426510552967
+    second: VFX_CST_ALERT_00_0
+  - first:
+      213: 9130900889353814047
+    second: VFX_CST_ALERT_00_1
+  - first:
+      213: 3871764555903745335
+    second: VFX_CST_ALERT_00_2
+  - first:
+      213: 5812366491425778452
+    second: VFX_CST_ALERT_00_3
+  - first:
+      213: 2698263603915648847
+    second: VFX_CST_ALERT_00_4
+  - first:
+      213: -227479820873937658
+    second: VFX_CST_ALERT_00_5
+  - first:
+      213: 1899509008922287442
+    second: VFX_CST_ALERT_00_6
+  - first:
+      213: -4357909978868817286
+    second: VFX_CST_ALERT_00_7
+  - first:
+      213: -6224759093850052693
+    second: VFX_CST_ALERT_00_8
+  - first:
+      213: 7421171690519186501
+    second: VFX_CST_ALERT_00_9
+  - first:
+      213: -2213653435010344438
+    second: VFX_CST_ALERT_00_10
+  - first:
+      213: -727060208961208084
+    second: VFX_CST_ALERT_00_11
+  - first:
+      213: 500940435664015077
+    second: VFX_CST_ALERT_00_12
+  - first:
+      213: -2642901999876460500
+    second: VFX_CST_ALERT_00_13
+  - first:
+      213: 4651556581019237223
+    second: VFX_CST_ALERT_00_14
+  - first:
+      213: -1170603544127819362
+    second: VFX_CST_ALERT_00_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_CST_ALERT_00_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97035a3b7fd2f1ee0800000000000000
+      internalID: -1288260426510552967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_ALERT_00_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f108b353bf977be70800000000000000
+      internalID: 9130900889353814047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_ALERT_00_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d3790a9554bb530800000000000000
+      internalID: 3871764555903745335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_ALERT_00_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b21d9578ca9a050800000000000000
+      internalID: 5812366491425778452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_ALERT_00_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fe1c5a378227520800000000000000
+      internalID: 2698263603915648847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_ALERT_00_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d4d33ee44d7dcf0800000000000000
+      internalID: -227479820873937658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_ALERT_00_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d977c21696c5a10800000000000000
+      internalID: 1899509008922287442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_ALERT_00_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72e462a6f79583c0800000000000000
+      internalID: -4357909978868817286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_ALERT_00_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba76fa695963d99a0800000000000000
+      internalID: -6224759093850052693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_ALERT_00_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cc49e555c4df660800000000000000
+      internalID: 7421171690519186501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_ALERT_00_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a9266ede58741e0800000000000000
+      internalID: -2213653435010344438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_ALERT_00_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0cb829796f8e5f0800000000000000
+      internalID: -727060208961208084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_ALERT_00_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee02611ca2b3f600800000000000000
+      internalID: 500940435664015077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_ALERT_00_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20b13142a6825bd0800000000000000
+      internalID: -2642901999876460500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_ALERT_00_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b3840c016ad8040800000000000000
+      internalID: 4651556581019237223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_CST_ALERT_00_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91b27b574e21cfe0800000000000000
+      internalID: -1170603544127819362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fd5f87c11b64ab440a8f2d679ffd825f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      VFX_CST_ALERT_00_9: 7421171690519186501
+      VFX_CST_ALERT_00_5: -227479820873937658
+      VFX_CST_ALERT_00_6: 1899509008922287442
+      VFX_CST_ALERT_00_2: 3871764555903745335
+      VFX_CST_ALERT_00_8: -6224759093850052693
+      VFX_CST_ALERT_00_1: 9130900889353814047
+      VFX_CST_ALERT_00_0: -1288260426510552967
+      VFX_CST_ALERT_00_3: 5812366491425778452
+      VFX_CST_ALERT_00_10: -2213653435010344438
+      VFX_CST_ALERT_00_4: 2698263603915648847
+      VFX_CST_ALERT_00_11: -727060208961208084
+      VFX_CST_ALERT_00_14: 4651556581019237223
+      VFX_CST_ALERT_00_15: -1170603544127819362
+      VFX_CST_ALERT_00_13: -2642901999876460500
+      VFX_CST_ALERT_00_12: 500940435664015077
+      VFX_CST_ALERT_00_7: -4357909978868817286
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

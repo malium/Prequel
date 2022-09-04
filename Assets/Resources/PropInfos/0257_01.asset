@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0257_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 0.8
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 1db87c72c9aab2f4f943e9b2ae2c2603, type: 3}
+  FamilyName: FishSpine
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 60, y: 6}
+  VisibleRect:
+    x: 39
+    y: 6
+    width: 74
+    height: 96
+  BoxCenterOffset: {x: 0.12, y: -0.1}
+  BoxSize: {x: 0.74, y: 0.96}
+  BoxWidth: 0.5390625
+  Pivot: {x: 63.10925, y: 28.964046}
+  Texture: {fileID: 2800000, guid: 1db87c72c9aab2f4f943e9b2ae2c2603, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4281931809
+  - serializedVersion: 2
+    rgba: 4284095710
+  - serializedVersion: 2
+    rgba: 4283571631
+  - serializedVersion: 2
+    rgba: 4285223341
+  - serializedVersion: 2
+    rgba: 4284102771
+  - serializedVersion: 2
+    rgba: 4280880218
+  - serializedVersion: 2
+    rgba: 4283773759
+  - serializedVersion: 2
+    rgba: 4282456192
+  - serializedVersion: 2
+    rgba: 4286869982
+  - serializedVersion: 2
+    rgba: 4288450743
+  - serializedVersion: 2
+    rgba: 4289173990
+  - serializedVersion: 2
+    rgba: 4291741662
+  - serializedVersion: 2
+    rgba: 4282540378
+  - serializedVersion: 2
+    rgba: 4285744598
+  - serializedVersion: 2
+    rgba: 4292276207
+  - serializedVersion: 2
+    rgba: 4284513653
+  - serializedVersion: 2
+    rgba: 4289053621
+  - serializedVersion: 2
+    rgba: 4280891466
+  - serializedVersion: 2
+    rgba: 4286289041
+  DamageColorProbs:
+  - 0.0011347518
+  - 0.01248227
+  - 0.017021276
+  - 0.057021275
+  - 0.075177304
+  - 0.14695035
+  - 0.0068085105
+  - 0.07092199
+  - 0.031205675
+  - 0.041134752
+  - 0.022411348
+  - 0.006241135
+  - 0.005957447
+  - 0.33588654
+  - 0.0005673759
+  - 0.065815605
+  - 0.06553192
+  - 0.022978723
+  - 0.014751773

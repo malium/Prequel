@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0409_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 2
+  HasShadow: 0
+  PropSprite: {fileID: 21300000, guid: 5d6c45bf91d23534592adaa9f7674233, type: 3}
+  FamilyName: SolarFlareBlue
+  HasLighting: 1
+  LightHeight: 2
+  LightRange: 32
+  LightIntensity: 10
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 129, y: 0}
+  VisibleRect:
+    x: 44
+    y: 0
+    width: 162
+    height: 234
+  BoxCenterOffset: {x: -0.03, y: -0.11}
+  BoxSize: {x: 1.62, y: 2.34}
+  BoxWidth: 0.484375
+  Pivot: {x: 149.37784, y: 19.92299}
+  Texture: {fileID: 2800000, guid: 5d6c45bf91d23534592adaa9f7674233, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4294967064
+  - serializedVersion: 2
+    rgba: 4294947328
+  - serializedVersion: 2
+    rgba: 4294931712
+  - serializedVersion: 2
+    rgba: 4294938145
+  - serializedVersion: 2
+    rgba: 4294918400
+  - serializedVersion: 2
+    rgba: 4294958080
+  - serializedVersion: 2
+    rgba: 4294939284
+  - serializedVersion: 2
+    rgba: 4294952502
+  - serializedVersion: 2
+    rgba: 4294928689
+  - serializedVersion: 2
+    rgba: 4294953347
+  - serializedVersion: 2
+    rgba: 4294943077
+  - serializedVersion: 2
+    rgba: 4294958426
+  - serializedVersion: 2
+    rgba: 4294956989
+  DamageColorProbs:
+  - 0.006565838
+  - 0.0034625812
+  - 0.009669095
+  - 0.010355078
+  - 0.00006533172
+  - 0.005422533
+  - 0.00003266586
+  - 0.80946004
+  - 0.0703296
+  - 0.012739685
+  - 0.03959102
+  - 0.01254369
+  - 0.019762846

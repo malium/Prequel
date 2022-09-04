@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 6a9bc052a89b9b747ab36226e7dda0da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3897490870941768548
+    second: VFX_HIT_CrierPoolA_00_0
+  - first:
+      213: 3483462231318101063
+    second: VFX_HIT_CrierPoolA_00_1
+  - first:
+      213: -5013130427350805551
+    second: VFX_HIT_CrierPoolA_00_2
+  - first:
+      213: -8880292408563225218
+    second: VFX_HIT_CrierPoolA_00_3
+  - first:
+      213: -705594556877051283
+    second: VFX_HIT_CrierPoolA_00_4
+  - first:
+      213: 1588737848155394316
+    second: VFX_HIT_CrierPoolA_00_5
+  - first:
+      213: -7283769898163629694
+    second: VFX_HIT_CrierPoolA_00_6
+  - first:
+      213: 5332253840402217960
+    second: VFX_HIT_CrierPoolA_00_7
+  - first:
+      213: -5870261466547962233
+    second: VFX_HIT_CrierPoolA_00_8
+  - first:
+      213: 4321069754667608558
+    second: VFX_HIT_CrierPoolA_00_9
+  - first:
+      213: -3212284630740365914
+    second: VFX_HIT_CrierPoolA_00_10
+  - first:
+      213: -425942630397761459
+    second: VFX_HIT_CrierPoolA_00_11
+  - first:
+      213: -7866788302477193334
+    second: VFX_HIT_CrierPoolA_00_12
+  - first:
+      213: -7407496034532177002
+    second: VFX_HIT_CrierPoolA_00_13
+  - first:
+      213: -3914713770283356720
+    second: VFX_HIT_CrierPoolA_00_14
+  - first:
+      213: -2032365942255315125
+    second: VFX_HIT_CrierPoolA_00_15
+  - first:
+      213: -6036927371678416749
+    second: VFX_HIT_CrierPool_00_0
+  - first:
+      213: 5029276191114922454
+    second: VFX_HIT_CrierPool_00_1
+  - first:
+      213: -6216105125660634440
+    second: VFX_HIT_CrierPool_00_2
+  - first:
+      213: 5821891871927503440
+    second: VFX_HIT_CrierPool_00_3
+  - first:
+      213: 275538263161926480
+    second: VFX_HIT_CrierPool_00_4
+  - first:
+      213: -7691201560496469042
+    second: VFX_HIT_CrierPool_00_5
+  - first:
+      213: 2122166241946153883
+    second: VFX_HIT_CrierPool_00_6
+  - first:
+      213: -6678597039310987985
+    second: VFX_HIT_CrierPool_00_7
+  - first:
+      213: 770551713692814818
+    second: VFX_HIT_CrierPool_00_8
+  - first:
+      213: 2302282064117171066
+    second: VFX_HIT_CrierPool_00_9
+  - first:
+      213: 5596345547279771635
+    second: VFX_HIT_CrierPool_00_10
+  - first:
+      213: -587186411387375007
+    second: VFX_HIT_CrierPool_00_11
+  - first:
+      213: -7404556657394415240
+    second: VFX_HIT_CrierPool_00_12
+  - first:
+      213: 7117564870783119216
+    second: VFX_HIT_CrierPool_00_13
+  - first:
+      213: -2057604079676865957
+    second: VFX_HIT_CrierPool_00_14
+  - first:
+      213: -6753217039401217839
+    second: VFX_HIT_CrierPool_00_15
+  - first:
+      213: -1683820429622226819
+    second: VFX_HIT_CrierPool_00_16
+  - first:
+      213: 5074940915061663114
+    second: VFX_HIT_CrierPool_00_17
+  - first:
+      213: -6457961998802244286
+    second: VFX_HIT_CrierPool_00_18
+  - first:
+      213: 8586380009668773331
+    second: VFX_HIT_CrierPool_00_19
+  - first:
+      213: 936000365306691687
+    second: VFX_HIT_CrierPool_00_20
+  - first:
+      213: 6427738628196453096
+    second: VFX_HIT_CrierPool_00_21
+  - first:
+      213: -5720577012982298115
+    second: VFX_HIT_CrierPool_00_22
+  - first:
+      213: 4269668984821320135
+    second: VFX_HIT_CrierPool_00_23
+  - first:
+      213: -4515508103619832470
+    second: VFX_HIT_CrierPool_00_24
+  - first:
+      213: -5560676355398152221
+    second: VFX_HIT_CrierPool_00_25
+  - first:
+      213: -8463632306382284041
+    second: VFX_HIT_CrierPool_00_26
+  - first:
+      213: -1505449252563713188
+    second: VFX_HIT_CrierPool_00_27
+  - first:
+      213: -4800134163237392537
+    second: VFX_HIT_CrierPool_00_28
+  - first:
+      213: 7244354531964953410
+    second: VFX_HIT_CrierPool_00_29
+  - first:
+      213: -8613949733568582035
+    second: VFX_HIT_CrierPool_00_30
+  - first:
+      213: 1678498062999544531
+    second: VFX_HIT_CrierPool_00_31
+  - first:
+      213: -4508204948202036978
+    second: VFX_HIT_CrierPool_00_32
+  - first:
+      213: 4711617356228475260
+    second: VFX_HIT_CrierPool_00_33
+  - first:
+      213: 933702456049233674
+    second: VFX_HIT_CrierPool_00_34
+  - first:
+      213: -8509310919239373335
+    second: VFX_HIT_CrierPool_00_35
+  - first:
+      213: -3300174598758169598
+    second: VFX_HIT_CrierPool_00_36
+  - first:
+      213: -1158499521665870131
+    second: VFX_HIT_CrierPool_00_37
+  - first:
+      213: -2588068154235326646
+    second: VFX_HIT_CrierPool_00_38
+  - first:
+      213: -4097712537575607348
+    second: VFX_HIT_CrierPool_00_39
+  - first:
+      213: -5299378795796047201
+    second: VFX_HIT_CrierPool_00_40
+  - first:
+      213: -7218375625161364875
+    second: VFX_HIT_CrierPool_00_41
+  - first:
+      213: 1376509321853669907
+    second: VFX_HIT_CrierPool_00_42
+  - first:
+      213: 8397531039519540031
+    second: VFX_HIT_CrierPool_00_43
+  - first:
+      213: 5691182977748729190
+    second: VFX_HIT_CrierPool_00_44
+  - first:
+      213: -5054550085963465291
+    second: VFX_HIT_CrierPool_00_45
+  - first:
+      213: 913071265644522319
+    second: VFX_HIT_CrierPool_00_46
+  - first:
+      213: 3244463167026320118
+    second: VFX_HIT_CrierPool_00_47
+  - first:
+      213: -1080232868683680165
+    second: VFX_HIT_CrierPool_00_48
+  - first:
+      213: -2568166749129825758
+    second: VFX_HIT_CrierPool_00_49
+  - first:
+      213: 6398154440400067470
+    second: VFX_HIT_CrierPool_00_50
+  - first:
+      213: -4013589112471688156
+    second: VFX_HIT_CrierPool_00_51
+  - first:
+      213: -4127536594077676945
+    second: VFX_HIT_CrierPool_00_52
+  - first:
+      213: -7636000406868291057
+    second: VFX_HIT_CrierPool_00_53
+  - first:
+      213: 3645462353307389992
+    second: VFX_HIT_CrierPool_00_54
+  - first:
+      213: -2732119871375594954
+    second: VFX_HIT_CrierPool_00_55
+  - first:
+      213: 4412682353014215255
+    second: VFX_HIT_CrierPool_00_56
+  - first:
+      213: -465886829917120343
+    second: VFX_HIT_CrierPool_00_57
+  - first:
+      213: 6689985158768907245
+    second: VFX_HIT_CrierPool_00_58
+  - first:
+      213: -1186939786877511534
+    second: VFX_HIT_CrierPool_00_59
+  - first:
+      213: -5908892106896599448
+    second: VFX_HIT_CrierPool_00_60
+  - first:
+      213: -3142106064322214592
+    second: VFX_HIT_CrierPool_00_61
+  - first:
+      213: 4110333237380616486
+    second: VFX_HIT_CrierPool_00_62
+  - first:
+      213: 2121687157542454358
+    second: VFX_HIT_CrierPool_00_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_HIT_CrierPool_00_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390864c5a86883ca0800000000000000
+      internalID: -6036927371678416749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_HIT_CrierPool_00_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d90cb0bc049bc540800000000000000
+      internalID: 5029276191114922454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_HIT_CrierPool_00_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b253829255fbb9a0800000000000000
+      internalID: -6216105125660634440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_HIT_CrierPool_00_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a09f2dfc38bc050800000000000000
+      internalID: 5821891871927503440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_HIT_CrierPool_00_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0537bc92798e2d300800000000000000
+      internalID: 275538263161926480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_HIT_CrierPool_00_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb8da23eec534590800000000000000
+      internalID: -7691201560496469042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_HIT_CrierPool_00_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93b68d04f2737d10800000000000000
+      internalID: 2122166241946153883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_HIT_CrierPool_00_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d94e1a06bd053a0800000000000000
+      internalID: -6678597039310987985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_HIT_CrierPool_00_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed8ab773bc81ba00800000000000000
+      internalID: 770551713692814818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_HIT_CrierPool_00_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73057cd65953ff10800000000000000
+      internalID: 2302282064117171066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_HIT_CrierPool_00_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f723f1ef963aad40800000000000000
+      internalID: 5596345547279771635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_HIT_CrierPool_00_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162b154e115e9d7f0800000000000000
+      internalID: -587186411387375007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_HIT_CrierPool_00_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87980cc73fabd3990800000000000000
+      internalID: -7404556657394415240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_HIT_CrierPool_00_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fa3dc1a8ba6c260800000000000000
+      internalID: 7117564870783119216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_HIT_CrierPool_00_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52477ebdfbe173e0800000000000000
+      internalID: -2057604079676865957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_HIT_CrierPool_00_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0106bf1e0c742a0800000000000000
+      internalID: -6753217039401217839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 20b1c50b66bdcb446a7c69f38e7e6209
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      VFX_HIT_CrierPool_00_4: 275538263161926480
+      VFX_HIT_CrierPool_00_7: -6678597039310987985
+      VFX_HIT_CrierPool_00_5: -7691201560496469042
+      VFX_HIT_CrierPool_00_9: 2302282064117171066
+      VFX_HIT_CrierPool_00_13: 7117564870783119216
+      VFX_HIT_CrierPool_00_10: 5596345547279771635
+      VFX_HIT_CrierPool_00_8: 770551713692814818
+      VFX_HIT_CrierPool_00_15: -6753217039401217839
+      VFX_HIT_CrierPool_00_0: -6036927371678416749
+      VFX_HIT_CrierPool_00_2: -6216105125660634440
+      VFX_HIT_CrierPool_00_6: 2122166241946153883
+      VFX_HIT_CrierPool_00_1: 5029276191114922454
+      VFX_HIT_CrierPool_00_3: 5821891871927503440
+      VFX_HIT_CrierPool_00_12: -7404556657394415240
+      VFX_HIT_CrierPool_00_14: -2057604079676865957
+      VFX_HIT_CrierPool_00_11: -587186411387375007
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

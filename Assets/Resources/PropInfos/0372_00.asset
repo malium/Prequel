@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0372_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.4
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: abcf3cf9b28a75442ba75a2735cba76a, type: 3}
+  FamilyName: StewpotClassic
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 45, y: 6}
+  VisibleRect:
+    x: 26
+    y: 6
+    width: 79
+    height: 73
+  BoxCenterOffset: {x: 0.015, y: -0.215}
+  BoxSize: {x: 0.79, y: 0.73}
+  BoxWidth: 0.5859375
+  Pivot: {x: 63.999992, y: 8.180005}
+  Texture: {fileID: 2800000, guid: abcf3cf9b28a75442ba75a2735cba76a, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4283062635
+  - serializedVersion: 2
+    rgba: 4282529874
+  - serializedVersion: 2
+    rgba: 4280358201
+  - serializedVersion: 2
+    rgba: 4280378723
+  - serializedVersion: 2
+    rgba: 4285224332
+  - serializedVersion: 2
+    rgba: 4283070852
+  - serializedVersion: 2
+    rgba: 4284129183
+  DamageColorProbs:
+  - 0.010353753
+  - 0.017040553
+  - 0.027825711
+  - 0.0049611735
+  - 0.57075065
+  - 0.28149268
+  - 0.087575495

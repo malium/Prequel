@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0251_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: a291a494c7fb93b498695da00840911e, type: 3}
+  FamilyName: Dynamite
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 55, y: 27}
+  VisibleRect:
+    x: 48
+    y: 27
+    width: 36
+    height: 88
+  BoxCenterOffset: {x: 0.02, y: 0.07}
+  BoxSize: {x: 0.36, y: 0.88}
+  BoxWidth: 0.15625
+  Pivot: {x: 58.358612, y: 30.448622}
+  Texture: {fileID: 2800000, guid: a291a494c7fb93b498695da00840911e, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4279247247
+  - serializedVersion: 2
+    rgba: 4282667167
+  - serializedVersion: 2
+    rgba: 4285761238
+  - serializedVersion: 2
+    rgba: 4289573590
+  - serializedVersion: 2
+    rgba: 4284838322
+  - serializedVersion: 2
+    rgba: 4278193759
+  - serializedVersion: 2
+    rgba: 4286279035
+  - serializedVersion: 2
+    rgba: 4278527190
+  - serializedVersion: 2
+    rgba: 4287732677
+  - serializedVersion: 2
+    rgba: 4291745775
+  - serializedVersion: 2
+    rgba: 4280297567
+  - serializedVersion: 2
+    rgba: 4281412657
+  - serializedVersion: 2
+    rgba: 4283581770
+  DamageColorProbs:
+  - 0.09569892
+  - 0.0021505377
+  - 0.016129032
+  - 0.016666668
+  - 0.12150538
+  - 0.010752688
+  - 0.0032258064
+  - 0.26559138
+  - 0.28333333
+  - 0.024731183
+  - 0.013978494
+  - 0.13978495
+  - 0.006451613

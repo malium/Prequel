@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0096_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 0
+  PropSprite: {fileID: 21300000, guid: d2865c36f4de14346a822f274c06cb13, type: 3}
+  FamilyName: Mandrake
+  HasLighting: 1
+  LightHeight: 0.4
+  LightRange: 2
+  LightIntensity: 0.7
+  LightColor:
+    serializedVersion: 2
+    rgba: 4284481303
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 46, y: 21}
+  VisibleRect:
+    x: 15
+    y: 21
+    width: 99
+    height: 84
+  BoxCenterOffset: {x: 0.005, y: -0.01}
+  BoxSize: {x: 0.99, y: 0.84}
+  BoxWidth: 0.2421875
+  Pivot: {x: 59.249355, y: 38.302025}
+  Texture: {fileID: 2800000, guid: d2865c36f4de14346a822f274c06cb13, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4285766218
+  - serializedVersion: 2
+    rgba: 4281424141
+  - serializedVersion: 2
+    rgba: 4287543909
+  - serializedVersion: 2
+    rgba: 4291230620
+  - serializedVersion: 2
+    rgba: 4289186435
+  - serializedVersion: 2
+    rgba: 4283596081
+  - serializedVersion: 2
+    rgba: 4293915623
+  - serializedVersion: 2
+    rgba: 4292804541
+  DamageColorProbs:
+  - 0.029431144
+  - 0.05161432
+  - 0.04919833
+  - 0.00065890624
+  - 0.12760817
+  - 0.15066989
+  - 0.0918076
+  - 0.49901164

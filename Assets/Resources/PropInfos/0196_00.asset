@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0196_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.3
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 3005ba7fc80084b4ab0f93ea80e29877, type: 3}
+  FamilyName: ArmorStand
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 57, y: 1}
+  VisibleRect:
+    x: 24
+    y: 1
+    width: 77
+    height: 125
+  BoxCenterOffset: {x: -0.015, y: -0.005}
+  BoxSize: {x: 0.77, y: 1.25}
+  BoxWidth: 0.296875
+  Pivot: {x: 58.655525, y: 13.524473}
+  Texture: {fileID: 2800000, guid: 3005ba7fc80084b4ab0f93ea80e29877, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4281937746
+  - serializedVersion: 2
+    rgba: 4287194004
+  - serializedVersion: 2
+    rgba: 4285354619
+  - serializedVersion: 2
+    rgba: 4278717489
+  - serializedVersion: 2
+    rgba: 4289033645
+  - serializedVersion: 2
+    rgba: 4280886296
+  - serializedVersion: 2
+    rgba: 4292269006
+  - serializedVersion: 2
+    rgba: 4290092725
+  - serializedVersion: 2
+    rgba: 4283911745
+  - serializedVersion: 2
+    rgba: 4285754714
+  - serializedVersion: 2
+    rgba: 4279774315
+  - serializedVersion: 2
+    rgba: 4284121831
+  - serializedVersion: 2
+    rgba: 4282671277
+  - serializedVersion: 2
+    rgba: 4281947507
+  - serializedVersion: 2
+    rgba: 4287005048
+  - serializedVersion: 2
+    rgba: 4280368276
+  - serializedVersion: 2
+    rgba: 4288452753
+  DamageColorProbs:
+  - 0.11179069
+  - 0.17074414
+  - 0.0254842
+  - 0.0541964
+  - 0.0037376827
+  - 0.21661569
+  - 0.04875977
+  - 0.011892627
+  - 0.0047570504
+  - 0.003567788
+  - 0.004077472
+  - 0.005776419
+  - 0.002038736
+  - 0.001019368
+  - 0.27845734
+  - 0.04298335
+  - 0.014101258

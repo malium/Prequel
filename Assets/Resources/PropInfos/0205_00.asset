@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0205_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.2
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: bbe4efacb8729ba40b560430494c0ebe, type: 3}
+  FamilyName: BannerPatriotic
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 122, y: 17}
+  VisibleRect:
+    x: 84
+    y: 17
+    width: 78
+    height: 216
+  BoxCenterOffset: {x: -0.05, y: -0.03}
+  BoxSize: {x: 0.78, y: 2.16}
+  BoxWidth: 0.03515625
+  Pivot: {x: 123.24935, y: 21.704477}
+  Texture: {fileID: 2800000, guid: bbe4efacb8729ba40b560430494c0ebe, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4289376943
+  - serializedVersion: 2
+    rgba: 4284707187
+  - serializedVersion: 2
+    rgba: 4292270038
+  - serializedVersion: 2
+    rgba: 4282532145
+  - serializedVersion: 2
+    rgba: 4284108425
+  - serializedVersion: 2
+    rgba: 4281408902
+  - serializedVersion: 2
+    rgba: 4280880301
+  - serializedVersion: 2
+    rgba: 4290628484
+  - serializedVersion: 2
+    rgba: 4281937759
+  - serializedVersion: 2
+    rgba: 4282538330
+  - serializedVersion: 2
+    rgba: 4293914607
+  - serializedVersion: 2
+    rgba: 4286878348
+  - serializedVersion: 2
+    rgba: 4286993474
+  - serializedVersion: 2
+    rgba: 4287382808
+  - serializedVersion: 2
+    rgba: 4290598152
+  - serializedVersion: 2
+    rgba: 4285224659
+  - serializedVersion: 2
+    rgba: 4289570017
+  - serializedVersion: 2
+    rgba: 4283052984
+  - serializedVersion: 2
+    rgba: 4287398589
+  - serializedVersion: 2
+    rgba: 4284689482
+  - serializedVersion: 2
+    rgba: 4287720037
+  - serializedVersion: 2
+    rgba: 4285214753
+  - serializedVersion: 2
+    rgba: 4289893262
+  - serializedVersion: 2
+    rgba: 4293908380
+  DamageColorProbs:
+  - 0.035728745
+  - 0.050809715
+  - 0.01437247
+  - 0.03319838
+  - 0.060728744
+  - 0.009615385
+  - 0.0055668014
+  - 0.017105263
+  - 0.026214575
+  - 0.1021255
+  - 0.00010121457
+  - 0.010829959
+  - 0.0086032385
+  - 0.015384615
+  - 0.004352227
+  - 0.11882591
+  - 0.18087044
+  - 0.007894737
+  - 0.082591094
+  - 0.019939272
+  - 0.0027327936
+  - 0.18512146
+  - 0.007186235
+  - 0.00010121457

@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0214_02
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 0.8
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 1c4dab9a71eba144390f7091da9fab34, type: 3}
+  FamilyName: Beer
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 59, y: 7}
+  VisibleRect:
+    x: 23
+    y: 7
+    width: 70
+    height: 76
+  BoxCenterOffset: {x: -0.06, y: -0.19}
+  BoxSize: {x: 0.7, y: 0.76}
+  BoxWidth: 0.3203125
+  Pivot: {x: 63.999992, y: 15.0090475}
+  Texture: {fileID: 2800000, guid: 1c4dab9a71eba144390f7091da9fab34, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4288979097
+  - serializedVersion: 2
+    rgba: 4291150008
+  - serializedVersion: 2
+    rgba: 4293387222
+  - serializedVersion: 2
+    rgba: 4286614679
+  - serializedVersion: 2
+    rgba: 4283393918
+  - serializedVersion: 2
+    rgba: 4288329664
+  - serializedVersion: 2
+    rgba: 4279255395
+  - serializedVersion: 2
+    rgba: 4278215060
+  - serializedVersion: 2
+    rgba: 4283272362
+  - serializedVersion: 2
+    rgba: 4290638839
+  - serializedVersion: 2
+    rgba: 4278219197
+  - serializedVersion: 2
+    rgba: 4278227923
+  - serializedVersion: 2
+    rgba: 4278204556
+  - serializedVersion: 2
+    rgba: 4278240247
+  - serializedVersion: 2
+    rgba: 4279789022
+  - serializedVersion: 2
+    rgba: 4280907156
+  - serializedVersion: 2
+    rgba: 4289909220
+  - serializedVersion: 2
+    rgba: 4283050140
+  - serializedVersion: 2
+    rgba: 4288251094
+  - serializedVersion: 2
+    rgba: 4284828349
+  - serializedVersion: 2
+    rgba: 4283607763
+  - serializedVersion: 2
+    rgba: 4284646349
+  - serializedVersion: 2
+    rgba: 4280897981
+  - serializedVersion: 2
+    rgba: 4284535791
+  - serializedVersion: 2
+    rgba: 4286474933
+  - serializedVersion: 2
+    rgba: 4281208966
+  - serializedVersion: 2
+    rgba: 4285746663
+  - serializedVersion: 2
+    rgba: 4290092799
+  - serializedVersion: 2
+    rgba: 4292265983
+  - serializedVersion: 2
+    rgba: 4280399582
+  - serializedVersion: 2
+    rgba: 4280409079
+  - serializedVersion: 2
+    rgba: 4294965231
+  DamageColorProbs:
+  - 0.0019090042
+  - 0.013363029
+  - 0.002863506
+  - 0.0015908368
+  - 0.0006363347
+  - 0.057270125
+  - 0.022589883
+  - 0.016544703
+  - 0.0022271716
+  - 0.0012726694
+  - 0.0034998409
+  - 0.0009545021
+  - 0.016226536
+  - 0.00031816735
+  - 0.0019090042
+  - 0.0031816736
+  - 0.20012727
+  - 0.12917595
+  - 0.11390391
+  - 0.016226536
+  - 0.020999046
+  - 0.011454024
+  - 0.13681196
+  - 0.118358254
+  - 0.013044861
+  - 0.0047725104
+  - 0.049634106
+  - 0.0311804
+  - 0.0031816736
+  - 0.00031816735
+  - 0.0012726694
+  - 0.0031816736

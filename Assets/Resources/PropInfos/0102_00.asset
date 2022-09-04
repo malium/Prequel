@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0102_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.5
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 95aa8808657a9cd498ca8b55bbd34e7e, type: 3}
+  FamilyName: OpaqueMirror
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 75, y: 3}
+  VisibleRect:
+    x: 35
+    y: 3
+    width: 57
+    height: 123
+  BoxCenterOffset: {x: -0.005, y: 0.005}
+  BoxSize: {x: 0.57, y: 1.23}
+  BoxWidth: 0.34375
+  Pivot: {x: 61.318817, y: 8.704914}
+  Texture: {fileID: 2800000, guid: 95aa8808657a9cd498ca8b55bbd34e7e, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4281243339
+  - serializedVersion: 2
+    rgba: 4282567671
+  - serializedVersion: 2
+    rgba: 4278744518
+  - serializedVersion: 2
+    rgba: 4285249230
+  - serializedVersion: 2
+    rgba: 4278207884
+  - serializedVersion: 2
+    rgba: 4283601074
+  - serializedVersion: 2
+    rgba: 4279984543
+  - serializedVersion: 2
+    rgba: 4278724715
+  - serializedVersion: 2
+    rgba: 4280894843
+  - serializedVersion: 2
+    rgba: 4290106326
+  - serializedVersion: 2
+    rgba: 4292792262
+  - serializedVersion: 2
+    rgba: 4290623149
+  - serializedVersion: 2
+    rgba: 4285266943
+  - serializedVersion: 2
+    rgba: 4282544287
+  - serializedVersion: 2
+    rgba: 4286877332
+  - serializedVersion: 2
+    rgba: 4287935941
+  - serializedVersion: 2
+    rgba: 4289372305
+  DamageColorProbs:
+  - 0.0040705563
+  - 0.05970149
+  - 0.10893584
+  - 0.1587517
+  - 0.065904245
+  - 0.1130064
+  - 0.00038767204
+  - 0.030432254
+  - 0.02674937
+  - 0.014537701
+  - 0.26070943
+  - 0.03799186
+  - 0.086838536
+  - 0.009304129
+  - 0.0034890482
+  - 0.017445242
+  - 0.0017445241

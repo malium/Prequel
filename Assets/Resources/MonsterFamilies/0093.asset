@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257dac38790f84f498cc52fab1edd870, type: 3}
+  m_Name: 0093
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  Name: WingedHellrat
+  SpriteScale: 0.7
+  Frames:
+  - {fileID: 21300000, guid: 1cd05ed1ed132a946b713ee9c68839f1, type: 3}
+  - {fileID: 21300000, guid: 78979b50d87c698428c6cb9503d81271, type: 3}
+  - {fileID: 21300000, guid: 92eda40fac4b3e34bb1097d88dd0f7fb, type: 3}
+  - {fileID: 21300000, guid: 81ea8e7ab27df0944a8ef31bc35e16d0, type: 3}
+  - {fileID: 21300000, guid: 4d34047d347e67143b1ba70e53ac5011, type: 3}
+  - {fileID: 21300000, guid: 37bdf1e57b86c5a4997ee21fa2e9a1c1, type: 3}
+  BaseHealth: 100
+  BaseSpeed: 1
+  SightRange: 7
+  SightAngle: 60
+  HearingRange: 5
+  AttackRange: 10
+  AttackRate: 1
+  AttackDamage: 10
+  DamageType: 0
+  FriendlyFamilies: []
+  AIType: 0
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel:
+  - {x: 67, y: 2}
+  - {x: 67, y: 7}
+  - {x: 88, y: 1}
+  - {x: 86, y: 7}
+  - {x: 55, y: 2}
+  - {x: 61, y: 7}
+  VisibleRect:
+  - x: 5
+    y: 2
+    width: 110
+    height: 116
+  - x: 3
+    y: 7
+    width: 104
+    height: 97
+  - x: 9
+    y: 1
+    width: 107
+    height: 117
+  - x: 20
+    y: 7
+    width: 96
+    height: 91
+  - x: 3
+    y: 2
+    width: 121
+    height: 112
+  - x: 5
+    y: 7
+    width: 112
+    height: 113
+  BoxCenterOffset:
+  - {x: -0.04, y: -0.04}
+  - {x: -0.09, y: -0.085}
+  - {x: -0.015, y: -0.045}
+  - {x: 0.04, y: -0.115}
+  - {x: -0.005, y: -0.06}
+  - {x: -0.03, y: -0.005}
+  BoxSize:
+  - {x: 1.1, y: 1.16}
+  - {x: 1.04, y: 0.97}
+  - {x: 1.07, y: 1.17}
+  - {x: 0.96, y: 0.91}
+  - {x: 1.21, y: 1.12}
+  - {x: 1.12, y: 1.13}
+  Textures:
+  - {fileID: 2800000, guid: 1cd05ed1ed132a946b713ee9c68839f1, type: 3}
+  - {fileID: 2800000, guid: 78979b50d87c698428c6cb9503d81271, type: 3}
+  - {fileID: 2800000, guid: 92eda40fac4b3e34bb1097d88dd0f7fb, type: 3}
+  - {fileID: 2800000, guid: 81ea8e7ab27df0944a8ef31bc35e16d0, type: 3}
+  - {fileID: 2800000, guid: 4d34047d347e67143b1ba70e53ac5011, type: 3}
+  - {fileID: 2800000, guid: 37bdf1e57b86c5a4997ee21fa2e9a1c1, type: 3}
+  Pivots:
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}
+  - {x: 64, y: 0}

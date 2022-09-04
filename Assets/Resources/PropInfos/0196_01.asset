@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0196_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.3
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 6ed394e85ab48c64d8904473515e1442, type: 3}
+  FamilyName: ArmorStand
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 57, y: 1}
+  VisibleRect:
+    x: 24
+    y: 1
+    width: 77
+    height: 125
+  BoxCenterOffset: {x: -0.015, y: -0.005}
+  BoxSize: {x: 0.77, y: 1.25}
+  BoxWidth: 0.375
+  Pivot: {x: 59.249355, y: 13.821388}
+  Texture: {fileID: 2800000, guid: 6ed394e85ab48c64d8904473515e1442, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4281937746
+  - serializedVersion: 2
+    rgba: 4287194004
+  - serializedVersion: 2
+    rgba: 4285354619
+  - serializedVersion: 2
+    rgba: 4278717489
+  - serializedVersion: 2
+    rgba: 4289033645
+  - serializedVersion: 2
+    rgba: 4280886296
+  - serializedVersion: 2
+    rgba: 4285557082
+  - serializedVersion: 2
+    rgba: 4287400571
+  - serializedVersion: 2
+    rgba: 4283714625
+  - serializedVersion: 2
+    rgba: 4281947507
+  - serializedVersion: 2
+    rgba: 4292794326
+  - serializedVersion: 2
+    rgba: 4282539445
+  - serializedVersion: 2
+    rgba: 4285764318
+  - serializedVersion: 2
+    rgba: 4278721626
+  - serializedVersion: 2
+    rgba: 4280368276
+  - serializedVersion: 2
+    rgba: 4289045140
+  - serializedVersion: 2
+    rgba: 4290624181
+  DamageColorProbs:
+  - 0.069837734
+  - 0.13808464
+  - 0.023544384
+  - 0.06570156
+  - 0.0034998409
+  - 0.18405981
+  - 0.0034998409
+  - 0.03420299
+  - 0.012726694
+  - 0.0015908368
+  - 0.009385937
+  - 0.001431753
+  - 0.0009545021
+  - 0.0012726694
+  - 0.25867006
+  - 0.08813236
+  - 0.10340439

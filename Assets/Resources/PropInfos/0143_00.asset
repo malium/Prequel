@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0143_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: bd10afdac299736498ce56fbcbb86b09, type: 3}
+  FamilyName: StrippedCandyTree
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 123, y: 16}
+  VisibleRect:
+    x: 70
+    y: 16
+    width: 85
+    height: 224
+  BoxCenterOffset: {x: -0.155, y: 0}
+  BoxSize: {x: 0.85, y: 2.24}
+  BoxWidth: 0.1015625
+  Pivot: {x: 127.40614, y: 21.971708}
+  Texture: {fileID: 2800000, guid: bd10afdac299736498ce56fbcbb86b09, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4281939059
+  - serializedVersion: 2
+    rgba: 4285753765
+  - serializedVersion: 2
+    rgba: 4288451776
+  - serializedVersion: 2
+    rgba: 4291149787
+  - serializedVersion: 2
+    rgba: 4294439935
+  - serializedVersion: 2
+    rgba: 4281539239
+  - serializedVersion: 2
+    rgba: 4279764100
+  - serializedVersion: 2
+    rgba: 4283710144
+  - serializedVersion: 2
+    rgba: 4286079187
+  - serializedVersion: 2
+    rgba: 4286277119
+  - serializedVersion: 2
+    rgba: 4288448231
+  - serializedVersion: 2
+    rgba: 4291206903
+  - serializedVersion: 2
+    rgba: 4292988151
+  - serializedVersion: 2
+    rgba: 4284107156
+  - serializedVersion: 2
+    rgba: 4290097845
+  - serializedVersion: 2
+    rgba: 4280357978
+  DamageColorProbs:
+  - 0.08010574
+  - 0.035628088
+  - 0.045167223
+  - 0.012872084
+  - 0.061487187
+  - 0.00505689
+  - 0.00011492932
+  - 0.00022985863
+  - 0.08826572
+  - 0.05355706
+  - 0.0372371
+  - 0.039535686
+  - 0.33467418
+  - 0.08573727
+  - 0.022870934
+  - 0.09746006

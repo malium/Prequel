@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0188_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 55654faa6f5e6f349ad00a308ae5050e, type: 3}
+  FamilyName: Ammunition
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 60, y: 0}
+  VisibleRect:
+    x: 30
+    y: 0
+    width: 66
+    height: 126
+  BoxCenterOffset: {x: -0.01, y: -0.01}
+  BoxSize: {x: 0.66, y: 1.26}
+  BoxWidth: 0.5
+  Pivot: {x: 63.70308, y: 14.712132}
+  Texture: {fileID: 2800000, guid: 55654faa6f5e6f349ad00a308ae5050e, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4279255419
+  - serializedVersion: 2
+    rgba: 4279776338
+  - serializedVersion: 2
+    rgba: 4281424251
+  - serializedVersion: 2
+    rgba: 4281961149
+  - serializedVersion: 2
+    rgba: 4280906140
+  - serializedVersion: 2
+    rgba: 4279245865
+  - serializedVersion: 2
+    rgba: 4283721323
+  - serializedVersion: 2
+    rgba: 4283596188
+  - serializedVersion: 2
+    rgba: 4282140495
+  - serializedVersion: 2
+    rgba: 4285758595
+  - serializedVersion: 2
+    rgba: 4287537319
+  - serializedVersion: 2
+    rgba: 4289576646
+  - serializedVersion: 2
+    rgba: 4291220446
+  DamageColorProbs:
+  - 0.007404117
+  - 0.04738635
+  - 0.103065304
+  - 0.12646231
+  - 0.07196801
+  - 0.030801125
+  - 0.035095513
+  - 0.40693027
+  - 0.10188065
+  - 0.02162002
+  - 0.036872502
+  - 0.007996446
+  - 0.0025173996

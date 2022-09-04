@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0249_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 0.8
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 9ca0def418399da4b8ecd0437312f7e4, type: 3}
+  FamilyName: DragonEggScaled
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 58, y: 0}
+  VisibleRect:
+    x: 25
+    y: 0
+    width: 76
+    height: 98
+  BoxCenterOffset: {x: -0.01, y: -0.15}
+  BoxSize: {x: 0.76, y: 0.98}
+  BoxWidth: 0.578125
+  Pivot: {x: 64.89074, y: 3.4293673}
+  Texture: {fileID: 2800000, guid: 9ca0def418399da4b8ecd0437312f7e4, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4280893778
+  - serializedVersion: 2
+    rgba: 4282997608
+  - serializedVersion: 2
+    rgba: 4285035896
+  - serializedVersion: 2
+    rgba: 4285244052
+  - serializedVersion: 2
+    rgba: 4287931045
+  - serializedVersion: 2
+    rgba: 4290100934
+  - serializedVersion: 2
+    rgba: 4291746782
+  - serializedVersion: 2
+    rgba: 4293916663
+  DamageColorProbs:
+  - 0.08116491
+  - 0.07461658
+  - 0.024642427
+  - 0.0006892986
+  - 0.20713425
+  - 0.20885749
+  - 0.28364637
+  - 0.119248666

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0111_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 0.7
+  HasShadow: 0
+  PropSprite: {fileID: 21300000, guid: 54dccab260feb8a4bb75e3896175b886, type: 3}
+  FamilyName: PileSnow
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 32, y: 21}
+  VisibleRect:
+    x: 7
+    y: 21
+    width: 115
+    height: 71
+  BoxCenterOffset: {x: 0.005, y: -0.075}
+  BoxSize: {x: 1.15, y: 0.71}
+  BoxWidth: 0.328125
+  Pivot: {x: 67.26606, y: 44.83415}
+  Texture: {fileID: 2800000, guid: 54dccab260feb8a4bb75e3896175b886, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4292400584
+  - serializedVersion: 2
+    rgba: 4288650897
+  - serializedVersion: 2
+    rgba: 4290427826
+  - serializedVersion: 2
+    rgba: 4285229402
+  - serializedVersion: 2
+    rgba: 4286875259
+  - serializedVersion: 2
+    rgba: 4293915631
+  DamageColorProbs:
+  - 0.031063046
+  - 0.0041417396
+  - 0.09986194
+  - 0.7758859
+  - 0.05062126
+  - 0.03842614

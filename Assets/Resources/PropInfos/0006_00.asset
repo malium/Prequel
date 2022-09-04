@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0006_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 732c1ab86a3915145a11f5ffa38d1cfd, type: 3}
+  FamilyName: Barnacles
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 69, y: 15}
+  VisibleRect:
+    x: 13
+    y: 15
+    width: 102
+    height: 102
+  BoxCenterOffset: {x: 0, y: 0.02}
+  BoxSize: {x: 1.02, y: 1.02}
+  BoxWidth: 0.6875
+  Pivot: {x: 66.97853, y: 31.072712}
+  Texture: {fileID: 2800000, guid: 732c1ab86a3915145a11f5ffa38d1cfd, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4281946450
+  - serializedVersion: 2
+    rgba: 4285436817
+  - serializedVersion: 2
+    rgba: 4286885549
+  - serializedVersion: 2
+    rgba: 4283069811
+  - serializedVersion: 2
+    rgba: 4290633694
+  - serializedVersion: 2
+    rgba: 4283077293
+  - serializedVersion: 2
+    rgba: 4288463814
+  - serializedVersion: 2
+    rgba: 4292800495
+  - serializedVersion: 2
+    rgba: 4281965188
+  DamageColorProbs:
+  - 0.04833542
+  - 0.0012536565
+  - 0.002507313
+  - 0.026605377
+  - 0.013372336
+  - 0.43223292
+  - 0.083159216
+  - 0.24905975
+  - 0.14347403

@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0322_00
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.4
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 0344d2a0a859a6a4f91f16572dcb8811, type: 3}
+  FamilyName: OrganLettuce
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 66, y: 7}
+  VisibleRect:
+    x: 27
+    y: 7
+    width: 74
+    height: 83
+  BoxCenterOffset: {x: 0, y: -0.155}
+  BoxSize: {x: 0.74, y: 0.83}
+  BoxWidth: 0.46875
+  Pivot: {x: 58.061695, y: 18.86894}
+  Texture: {fileID: 2800000, guid: 0344d2a0a859a6a4f91f16572dcb8811, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4282125680
+  - serializedVersion: 2
+    rgba: 4285745581
+  - serializedVersion: 2
+    rgba: 4283770510
+  - serializedVersion: 2
+    rgba: 4287920573
+  - serializedVersion: 2
+    rgba: 4286843053
+  - serializedVersion: 2
+    rgba: 4289370337
+  - serializedVersion: 2
+    rgba: 4287387086
+  - serializedVersion: 2
+    rgba: 4279763076
+  - serializedVersion: 2
+    rgba: 4284702427
+  - serializedVersion: 2
+    rgba: 4287919591
+  - serializedVersion: 2
+    rgba: 4287375558
+  - serializedVersion: 2
+    rgba: 4283367583
+  DamageColorProbs:
+  - 0.019829249
+  - 0.049848527
+  - 0.011567062
+  - 0.0033048748
+  - 0.0030294685
+  - 0.0013770311
+  - 0.29385844
+  - 0.22748554
+  - 0.22638391
+  - 0.113191955
+  - 0.041861746
+  - 0.008262186

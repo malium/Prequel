@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1acced85a10244e901247960d01d22, type: 3}
+  m_Name: 0338_01
+  m_EditorClassIdentifier: 
+  UpdateInfo: 0
+  SpriteScale: 1.3
+  HasShadow: 1
+  PropSprite: {fileID: 21300000, guid: 21c5c0da21587634d832f72b251fe5e2, type: 3}
+  FamilyName: ReflectantMovie
+  HasLighting: 0
+  LightHeight: 1
+  LightRange: 10
+  LightIntensity: 1
+  LightColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  BaseHealth: 100
+  PhysicalResistance: 50
+  ElementalResistance: 50
+  UltimateResistance: 50
+  SoulResistance: 50
+  PoisonResistance: 50
+  LastPixel: {x: 59, y: 5}
+  VisibleRect:
+    x: 40
+    y: 5
+    width: 52
+    height: 119
+  BoxCenterOffset: {x: 0.02, y: 0.005}
+  BoxSize: {x: 0.52, y: 1.19}
+  BoxWidth: 0.0390625
+  Pivot: {x: 64.296906, y: 9.664579}
+  Texture: {fileID: 2800000, guid: 21c5c0da21587634d832f72b251fe5e2, type: 3}
+  DamageColors:
+  - serializedVersion: 2
+    rgba: 4282133815
+  - serializedVersion: 2
+    rgba: 4280358427
+  - serializedVersion: 2
+    rgba: 4281107389
+  - serializedVersion: 2
+    rgba: 4278927488
+  - serializedVersion: 2
+    rgba: 4280377765
+  - serializedVersion: 2
+    rgba: 4278191161
+  - serializedVersion: 2
+    rgba: 4280369245
+  - serializedVersion: 2
+    rgba: 4278739398
+  - serializedVersion: 2
+    rgba: 4282164963
+  - serializedVersion: 2
+    rgba: 4284736511
+  - serializedVersion: 2
+    rgba: 4282565631
+  - serializedVersion: 2
+    rgba: 4278207402
+  - serializedVersion: 2
+    rgba: 4279809791
+  - serializedVersion: 2
+    rgba: 4278225639
+  - serializedVersion: 2
+    rgba: 4284105034
+  DamageColorProbs:
+  - 0.04934924
+  - 0.19170281
+  - 0.040130153
+  - 0.01708243
+  - 0.010303687
+  - 0.0027114968
+  - 0.0016268981
+  - 0.013286334
+  - 0.21312365
+  - 0.1686551
+  - 0.010032538
+  - 0.10032538
+  - 0.17706074
+  - 0.004067245
+  - 0.00054229936
